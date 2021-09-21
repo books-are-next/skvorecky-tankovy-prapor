@@ -10,11 +10,6 @@ meta:
   modified: '2021-09-21T13:51:38.810Z'
   languageCode: cs
 chapters:
-  - tankovy_prapor_001.html
-  - tankovy_prapor_002.html
-  - tankovy_prapor_003.html
-  - tankovy_prapor_005.html
-  - tankovy_prapor_006.html
   - tankovy_prapor_007.html
   - tankovy_prapor_008.html
   - tankovy_prapor_009.html
@@ -24,7 +19,6 @@ chapters:
   - tankovy_prapor_013.html
   - tankovy_prapor_014.html
   - tankovy_prapor_015.html
-  - tankovy_prapor_016.html
   - tankovy_prapor_017.html
 tocBase:
   - link: tankovy_prapor_007.html
