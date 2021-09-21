@@ -13,7 +13,6 @@ chapters:
   - tankovy_prapor_001.html
   - tankovy_prapor_002.html
   - tankovy_prapor_003.html
-  - tankovy_prapor_004.html
   - tankovy_prapor_005.html
   - tankovy_prapor_006.html
   - tankovy_prapor_007.html
@@ -27,7 +26,6 @@ chapters:
   - tankovy_prapor_015.html
   - tankovy_prapor_016.html
   - tankovy_prapor_017.html
-  - tankovy_prapor_018.html
 tocBase:
   - link: tankovy_prapor_007.html
     title: Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele
