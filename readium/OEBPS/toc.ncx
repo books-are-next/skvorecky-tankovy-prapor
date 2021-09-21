@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:5f509889-bd98-4905-815e-e0d03c87b1d4" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Tankový prapor</text>
+  </docTitle>
+  <docAuthor>
+    <text>Josef Škvorecký</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_007.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Provedení zkoušek FO u Sedmého tankového praporu</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_008.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Noc v posádkovém vězení</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_009.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Lekce z katolického náboženství</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_010.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Divizní kolo Armádní soutěže tvořivosti</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_011.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>Vůně civilu</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_012.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>Podzimní prověrka bojové a politické připravenosti</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_013.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Bakchanálie</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_014.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Kulturně masový večírek na rozloučenou</text>
+      </navLabel>
+      <content src="Text/tankovy_prapor_015.xhtml#toc_marker-9"/>
+    </navPoint>
+  </navMap>
+</ncx>
