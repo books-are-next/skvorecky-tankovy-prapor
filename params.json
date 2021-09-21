@@ -22,7 +22,7 @@
       "brAfter": "MLP-text-bez1radku \nMLP-text-bez1radku--0-12 \nMLP-text-bez1radku--12-0 ",
       "blockquote": "MLP-dopis--I \nMLP-dopis-bez1radku \nMLP-verse--I---12-12 \nMLP-verse--I---12-0 \nMLP-verse--12-12 \nMLP-verse--I---0-12 ",
       "figure": "",
-      "em": "MLP-dopis--I\nMLP-dopis-podpis--I \nMLP-znak-kurziva-11b\nMLP-verse--I---12-12 \nMLP-verse--I---12-0 \nMLP-verse--12-12 \nMLP-verse--I---0-12  ",
+      "em": "MLP-dopis--I\nMLP-dopis-podpis--I \nMLP-znak-kurziva-11b\nMLP-verse--I---12-12 \nMLP-verse--I---12-0 \nMLP-verse--12-12 \nMLP-verse--I---0-12  \nMLP-venovani ",
       "strong": "",
       "remove": "",
       "ignore": ""
@@ -32,7 +32,7 @@
         "filename": "tankovy_prapor_001.md",
         "xhtml": "tankovy_prapor_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -65,7 +65,7 @@
         "filename": "tankovy_prapor_004.md",
         "xhtml": "tankovy_prapor_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -219,7 +219,7 @@
         "filename": "tankovy_prapor_018.md",
         "xhtml": "tankovy_prapor_018.xhtml",
         "id": 17,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
         "inToc": true,
         "children": [],
@@ -234,7 +234,7 @@
       "identifier": "urn:uuid:5f509889-bd98-4905-815e-e0d03c87b1d4",
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-21T14:47:21.479Z"
+      "modified": "2021-09-21T14:52:22.589Z"
     },
     "chapters": [
       {
@@ -441,6 +441,6 @@
       "user": "books-are-next",
       "repo": "skvorecky-tankovy-prapor"
     },
-    "generatedAt": 1632235642342
+    "generatedAt": 1632235943412
   }
 }
