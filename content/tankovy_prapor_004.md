@@ -14,4 +14,8 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 5. 3. 2019.
 
+  
+
+  
+
 ![image002.jpg](./resources/image002_fmt.jpeg)

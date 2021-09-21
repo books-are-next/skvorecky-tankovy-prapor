@@ -2,82 +2,98 @@
 title: Bakchanálie
 ---
 
-Obrana lidu začala uveřejňovat úvodníky určené politickým pracovníkům a nadepsané Za správné zhodnocení práce politických pracovníků či Za morálně politickou pomoc vojínům a poddůstojníkům odcházejícím mimo činnou službu nebo konečně Za získání záložníků za zemědělce. Uvnitř tohoto oblíbeného listu objevovaly se články, v nichž vojíni n-tého útvaru nebo útvaru, kde je politickým pracovníkem poručík Jahoda, dojatě opěvovali ony dva krásné roky, strávené v chlapském kamarádství v naší lidově demokratické armádě, aby naši milí doma mohli klidně spát, teď ve chvíli, kdy se vracíme k plnění svých budovatelských úkolů a ke svým milým doma a na naše místo přicházejí jiní, mladší soudruzi. Ozval se i jakýsi lemoun, který ještě vojenskou službu nemohl ani nastoupit, protože čas rukování dosud nenadešel, ale který se už předem pokoušel udělat si oko a ujišťoval starší soudruhy, odcházející do plnění budovatelských úkolů, že uchopí jejich zbraň, aby mohli svoje budovatelské úkoly plnit v klidu, kdyby se nepřítel pokusil rušit klid naší krásné vlasti. Vojíni a poddůstojníci různých zbraní se slzavě loučili se svými puškami, tanky, děly, minomety, ženijním náčiním a jedovatými plyny v článcích tak přetékajících citem, že to svobodníka dr. Mlejnka pohnulo k podvrhu Za prodloužení milované služby vlasti, v němž se přimlouval za znovuzavedení tereziánské prezenční doby a který do redakce poslal pod pseudonymem vojína Pravomila Poslušného. Úvodník nevyšel, jenom vojín toho jména byl předvolán na OBZ a později, po propuštění do civilu, na sedm let uvězněn pro urážku lidově demokratického zřízení.
+_Obrana lidu začala_ uveřejňovat úvodníky určené politickým pracovníkům a nadepsané _Za správné zhodnocení práce politických pracovníků_ či _Za morálně politickou pomoc vojínům a poddůstojníkům odcházejícím mimo činnou službu_ nebo konečně _Za získání záložníků za zemědělce_. Uvnitř tohoto oblíbeného listu objevovaly se články, v nichž vojíni n-tého útvaru nebo útvaru, kde je politickým pracovníkem poručík Jahoda, dojatě opěvovali ony dva krásné roky, strávené v chlapském kamarádství v naší lidově demokratické armádě, aby naši milí doma mohli klidně spát, teď ve chvíli, kdy se vracíme k plnění svých budovatelských úkolů a ke svým milým doma a na naše místo přicházejí jiní, mladší soudruzi. Ozval se i jakýsi lemoun, který ještě vojenskou službu nemohl ani nastoupit, protože čas rukování dosud nenadešel, ale který se už předem pokoušel udělat si oko a ujišťoval starší soudruhy, odcházející do plnění budovatelských úkolů, že uchopí jejich zbraň, aby mohli svoje budovatelské úkoly plnit v klidu, kdyby se nepřítel pokusil rušit klid naší krásné vlasti. Vojíni a poddůstojníci různých zbraní se slzavě loučili se svými puškami, tanky, děly, minomety, ženijním náčiním a jedovatými plyny v článcích tak přetékajících citem, že to svobodníka dr. Mlejnka pohnulo k podvrhu _Za prodloužení milované služby vlasti_, v němž se přimlouval za znovuzavedení tereziánské prezenční doby a který do redakce poslal pod pseudonymem vojína Pravomila Poslušného. Úvodník nevyšel, jenom vojín toho jména byl předvolán na OBZ a později, po propuštění do civilu, na sedm let uvězněn pro urážku lidově demokratického zřízení.
+
+  
 
 Úslužní vojíni, kteří si až do těchto posledních chvil nejšťastnější doby svého života uchovali respekt před náčelníky klubů a politickými pracovníky, naposled zdobili kulturně masové světnice a nástěnky útvarů hesly, v nichž podle pokynů politického oddělení jménem všech vojáků odcházejícího ročníku nabádali přicházející brance, aby kráčeli ve stopách slavného n-tého praporu za velkými výcvikovými tradicemi tohoto útvaru, a tváře vzorných vojínů, vypadající na fotografiích v tankových kuklách neobyčejně bojovně (kuklu ovšem za příplatek půjčoval fotograf Kulínský v Kobylci i příslušníkům jakýchkoliv jiných zbraní), byly lepeny na tabule cti, aby v přicházejících lemounech roznítily latentní pudy tankistického rváčství. Ačkoliv se to neříkalo ani na instruktážích politických pracovníků, počítalo se s tím, že většina lemounků zanechává po sobě v civilu dívku, a tak jednou z nejúčinnějších vzpruh jejich vojenské horlivosti bude slib této zakuklené fotografie. Když byl později poručíkem Hospodinem objeven Kulínského meloušek, byl i fotograf na deset let uvězněn, pro sabotování psychologické přípravy vojsk.
 
-Nikdy, pokud se rotný Smiřický pamatoval, nebyla Obrana lidu listem tak čteným – alespoň v kruzích intelektuálních poddůstojníků – jako v těchto dnech. Do tábora přijel pracovník Úřadu ochrany práce a v sále posádkového kina se konal velký náborový aktiv do dolů a těžkého průmyslu s kulturní vložkou. Vojíny tankové divize byl hojně navštíven. Ne tak ze zájmu o budovatelské možnosti, ale protože je už znudilo celodenní skrývání před důstojníky, kteří se ještě v poslední chvíli snažili využít jejich neplacené pracovní síly k zvelebení různých táborových i soukromých zařízení, což oni z lenosti i ze zásady (za pár tu budou bažanti) odmítali. Potloukali se raději od svítání do soumraku po lesích okolo tábora, schovávali se tam před důstojnickými pátračkami, v granátových jámách na tankodromu jedli salám nakradený v kuchyni a v obrovském stohu slámy poblíž pěšího cvičiště dlabali komůrky, kde souložili s četařkou Babinčákovou, jejími dvěma kolegyněmi a jednou svazačkou, kterou do tábora pašoval vojín Semerák mezi bandaskami v mlékařském voze.
+Nikdy, pokud se rotný Smiřický pamatoval, nebyla _Obrana lidu_ listem tak čteným – alespoň v kruzích intelektuálních poddůstojníků – jako v těchto dnech. Do tábora přijel pracovník Úřadu ochrany práce a v sále posádkového kina se konal velký náborový aktiv do dolů a těžkého průmyslu s kulturní vložkou. Vojíny tankové divize byl hojně navštíven. Ne tak ze zájmu o budovatelské možnosti, ale protože je už znudilo celodenní skrývání před důstojníky, kteří se ještě v poslední chvíli snažili využít jejich neplacené pracovní síly k zvelebení různých táborových i soukromých zařízení, což oni z lenosti i ze zásady (za pár tu budou bažanti) odmítali. Potloukali se raději od svítání do soumraku po lesích okolo tábora, schovávali se tam před důstojnickými pátračkami, v granátových jámách na tankodromu jedli salám nakradený v kuchyni a v obrovském stohu slámy poblíž pěšího cvičiště dlabali komůrky, kde souložili s četařkou Babinčákovou, jejími dvěma kolegyněmi a jednou svazačkou, kterou do tábora pašoval vojín Semerák mezi bandaskami v mlékařském voze.
 
 I to se však po čase změnilo v námahu, a tak se masově dostavili na kulturně náborový aktiv. Bylo krásné odpoledne babího léta, otevřenými okny proudil dovnitř svěží vzduch a sliboval zdravý spánek. Někteří usnuli hned, ostatní úvodem vyslechli dlouhou řeč politruka divize majora Sádla, přečtenou z papírků a držící se úzkostlivě klasické volby slov i myšlenek morálně politické rétoriky, a potom projev, v němž pracovník Úřadu ochrany práce lákavými čísly načrtl budovatelské výhody hornictví a hutnictví. Aby bylo učiněno zadost kulturnosti náborového aktivu, následovala na závěr báseň zajištěná četařem Bivojem Balíkem z jeho nové sbírky. Ti, kdož dosud neusnuli, usadili se pohodlněji v křeslech a s nadějí, že i je navštíví osvěžující spánek, zaposlouchali se do prvních veršů poemy.
 
-Dnes loučíme se s vámi všemi,  
-tanky, bajonety a miny.  
-Na prahu práce vítají nás ženy  
-růžemi krvavými.  
-Dva roky žili jsme jak bratři  
-a přísaháme: „Nezapomenem!“  
-Kus naší ocelové něhy i vám teď patří,  
-odnášíme ji v srdci svém  
-a přísaháme:
+> _Dnes loučíme se s vámi všemi,  
+> tanky, bajonety a miny.  
+> Na prahu práce vítají nás ženy  
+> růžemi krvavými.  
+> Dva roky žili jsme jak bratři  
+> a přísaháme: „Nezapomenem!“  
+> Kus naší ocelové něhy i vám teď patří,  
+> odnášíme ji v srdci svém  
+> a přísaháme:_
 
 Básník se nadýchl, aby přísaze mohl dodat patos, ale právě v té chvíli vpluly do sálu otevřenými okny vzdálené tóny jakési písně. Slova ani melodii nebylo zprvu možno rozeznat.
 
-kdyby bylo třeba
+> _kdyby bylo třeba_
 
 pokračoval četař,
 
-položit život za milovanou zem,  
-všichni jsme tu připraveni k boji,  
-připraven k boji i já tu jsem!
+  
+
+> _položit život za milovanou zem,  
+> všichni jsme tu připraveni k boji,  
+> připraven k boji i já tu jsem!_
 
 A právě na toto kategorické tvrzení navázala slova písně, kterou sem večerní větřík zřetelně přivál:
 
-Co ste, hasiči, co ste dělali,
+> _Co ste, hasiči, co ste dělali,_
 
 a zahnala přicházející spánek. Podnapilé hlasy zpívaly:
 
-že ste nám ten pívo, pívo pívovárek  
-shořet nechali!
+  
+
+> _že ste nám ten pívo, pívo pívovárek  
+> shořet nechali!_
 
 Sálem zašumělo a tu a tam se k melodii přidalo polohlasné bručení. Neznámí madrigalisti venku pokračovali s chutí:
 
-Ten pívovárek,
+> _Ten pívovárek,_
 
 pěli.
 
-Co živi budem, pevně ve svém srdci, přísahu svatou ochrání náš hněv! zvolal četař Balík a hlasy zvenčí k tomu poznamenaly:
+  
 
-I tu hospodu!
+_Co živi budem, pevně ve svém srdci, přísahu svatou ochrání náš hněv!_ zvolal četař Balík a hlasy zvenčí k tomu poznamenaly:
 
-Pro šťastný život žít jsme připraveni! snažil se četař pěvce překřičet, ale jeho hlas zanikl v crescendovaném refrénu:
+> _I tu hospodu!_
 
-My staří mazáci –
+_Pro šťastný život žít jsme připraveni!_ snažil se četař pěvce překřičet, ale jeho hlas zanikl v crescendovaném refrénu:
+
+> __My staří mazáci_ –_
 
 jehož zhoubnou magii se básník naposled pokusil neutralizovat zoufalým zvoláním:
+
+  
 
 Pro šťastný život dáme i svou krev!
 
 Odhodlání však vyznělo naprázdno; mužský sbor za oknem, s korunou vysokých fistulek, udělal za ním vítěznou tečku:
 
-– staří ulejváci  
-máme pít vodu!
+> _– staří ulejváci  
+> máme pít vodu!_
 
 a sálem zabzučela polohlasá, ale plynule sílící repetice:
 
-My staří mazáci, staří ulejváci  
-máme pít vodu!
+  
+
+> _My staří mazáci, staří ulejváci  
+> máme pít vodu!_
 
 S ní na rtech se vojska počala drát ze sálu, aby v příští čtvrthodině naplnila všech pět hospod přilehlé vesnice až po horní mez jejich kapacity.
 
-\* \* \*
+* * *
 
 Okolo jedenácté hodiny večerní překročilo už procento alkoholu v krvi většiny hostů těch pěti hospod míru povolenou rozkazem zdravotního náčelníka armády a důstojnická hlídka v bráně, která zachycovala všechny nápadně hlučné nebo nezvykle tiché vojíny a posílala je pod eskortou příslušníků prvního ročníku do posádkového lazaretu na krevní zkoušku, měla mimořádně dobrý lov. Hůře se vedlo lítačce, snažící se zjednat značně narušený pořádek v hospodě U Jana Žižky z Trocnova. Byla přitom inzultována sprostým staršinou absolventem Benátem slovy: „Ty zasranej lampasáku, koukej se vodvalit, nebo ti jí cuknu, že se nevolízneš!“, a když se pokusila provinilého poddůstojníka zjistit, vytlačil ji dav z hospody a shodil ze schůdků do zabláceného příkopu před domem. V hospodě U anděla zjistila táž lítačka, sotva se očistila z bláta a s pravou tankistickou tvrdostí znovu nastoupila službu, nepřípustné obchodování vojáků s civilními osobami, jehož se dopustil četař Kobliha, když mu došly peníze. Aby mohl udržet krok se soudruhy v konzumaci alkoholu, prodal jakémusi civilistovi (byl to, jak se později zjistilo, okresní tajemník ČSM) svůj odznak vzorného tankisty za padesát korun a tu sumu hned vydal za láhev alkoholického nápoje zvaného „Čert“. V hospodě Na rychtě došlo k rvačce: vyvolal ji příslušník prvního ročníku, který v návalu zoufalství podlehl okamžitému pominutí smyslů z představy, že mu bude vykonávat čestnou občanskou povinnost ještě celý rok. Napadl svobodníka Lakatoše, jenž se mu pro toto neštěstí posmíval a tituloval ho lemounem a bažantem. Rvačka vyvrcholila soubojem na nože a jenom zákrok hostinského zabránil krveprolití.
 
+  
+
 Ideově amorálního vrcholu dosáhly však bakchanálie v zadní místnosti hostinského podniku U ježka s jabkem, obsazené z větší části poddůstojníky intelektuálního zaměření. Zde o půl dvanácté kolovala busta význačného státníka, obrácená dnem vzhůru a naplněná vínem, jež bylo za zpěvu písně funébrmaršového charakteru: „Ví to celá armáda a ví to každá četa: Kobylec je velká prdel světa!“, dopito přesně čtvrt hodiny před půlnocí. Pak byla busta s přimalovanými brýlemi postavena na své místo a optimisticky naladění poddůstojníci nastoupili kvapnou cestu k bráně, aby překročili hranice tábora v poslední vteřině před „padla“ povolené vycházky.
 
-\* \* \*
+* * *
 
 Brzký návrat k životnímu stavu, který se jim jevil jako siesta, předstihující Adamovy zlaté časy v ráji, oslavovali té noci také desátník Andělín Střevlíček a rotný Václav Soudek. Oslava nezůstala sice bez vlivu na jejich rovnovážné orgány, ale vojna naučila oba dubnové veterány tak dokonale ovládat nedokonalosti lidského těla, že se jim podařilo bez pohromy projít špalírem nepřátelsky zkoumavých očí u brány. Tam se shromáždila kohorta novopečených poručíků pod velením Malinkatého ďábla, jehož vřeštění se úderem půlnoci rozeznělo se zdvojenou silou. Vzdalujíce se od brány zahlédli ještě oba poddůstojníci, jak Ďábel staví do latě četaře ing. Krajtu a četaře ing. Vytáhlého, vydává jim rozkaz k otevření úst a usvědčujícímu dýchnutí, rozvřískává se, a jak potom dvojice uniformovaných intelektuálů v potupném průvodu jednoročního lemouna se samopalem obrací kroky na cestu k posádkovému lazaretu, té noci velmi silně zalidněnou.
+
+  
 
 Poddůstojníci Střevlíček a Soudek přidali do kroku a ponořili se do temných stínů, které na asfaltovou cestičku parkem vrhaly prořídlé koruny kaštanů. Vřískání Ďáblovo zaniklo brzy v hučení vzdáleného chorálu, zaléhajícího sem z budov Dvanáctého tankového pluku, jakož i v pronikavém zpěvu několika osamělých hlasů v parku, kterým nápoje přidaly na intenzitě, co jim ubraly na intonační čistotě. Z vesnice dosud zněl rytmus dupavé polky v tanečním sále U Vejvodů a všechno se to mísilo se suchým šelestem posledních listů v korunách.
 
@@ -169,25 +185,29 @@ Poddůstojníci se obrátili a dali se znovu na pochod.
 
 Rotný Soudek s desátníkem Střevlíčkem, když byli pečlivě zasunuli závoru bramborového sklepa Desátého tankosamohybného pluku, který stál o samotě v odlehlé části parku a oba jej občas používali jako úkryt před různými pracemi, zajistili závoru visacím zámkem a vydali se nazpět k ubikacím Sedmého takového praporu.
 
-\* \* \*
+* * *
 
 Tu noc nestačila kapacita posádkového vězení zvládnout nával vojsk, která se domáhala noclehu s dekou, v řádech označovaného jako vězení po službě. Rotný, jenž opět konal službu vyváděče vězňů, byl nucen nacpat rozjařené trestance nejen do společné kobky, ale do všech cel vůbec.
 
+  
+
 Sám se usadil v místnosti vyváděče vězňů, kde na kavalci opět chrápal vojín Bamza a na dvorečku znovu zněly okované kroky strážného, vytáhl ze zásuvky stolu tlustý sešit, otevřel jej a se zalíbením se ponořil do četby.
 
-Tento sešit obsahoval dílo, na němž pracoval již téměř rok a na které byl nesmírně hrd. Byl to vojensko-pedagogický spis a služební příručka, nesoucí titul Buzerační příprava a podtitul Rukojeť prcání pro důstojníky čs. branné moci. Na prvním listě stálo motto: Vojín bez humoru je žoldák – J. V. Stalin, které si rotný vymyslel a umístil je v čelo knihy jako záštitu pro případ, že by se opus dostal do nepovolaných rukou důstojníka. Na dalším listě byl obsah; podle něho byla látka rozdělena na řadu oddílů; tak například jeden nesl název Řvaní, jiný Prcání a opět jiný Buzerace. Každý se dále rozpadal na řadu kapitol a každá kapitola na několik paragrafů. Na konci bylo vždy – podle vzoru Dějin VKS (b)[10](#footnote-10775-10) … – Stručné shrnutí.
+Tento sešit obsahoval dílo, na němž pracoval již téměř rok a na které byl nesmírně hrd. Byl to vojensko-pedagogický spis a služební příručka, nesoucí titul _Buzerační příprava_ a podtitul _Rukojeť prcání pro důstojníky čs. branné moci_. Na prvním listě stálo motto: _Vojín bez humoru je žoldák – J. V. Stalin_, které si rotný vymyslel a umístil je v čelo knihy jako záštitu pro případ, že by se opus dostal do nepovolaných rukou důstojníka. Na dalším listě byl obsah; podle něho byla látka rozdělena na řadu oddílů; tak například jeden nesl název _Řvaní_, jiný _Prcání_ a opět jiný _Buzerace_. Každý se dále rozpadal na řadu kapitol a každá kapitola na několik paragrafů. Na konci bylo vždy – podle vzoru _Dějin VKS (b)_[10](#footnote-10775-10) _… – Stručné shrnutí_.
 
-Rotný pročítal své dílo s láskou a kochal se sporými, ale výstižnými názvy kapitol. První, nadepsaná Historický úvod: Vznik a vývoj řvaní, slibovala poučení o Gaiu Juliu Caesarovi a jeho významu pro klasickou teorii řvaní a další pak sledovaly zvolené téma v průběhu jednotlivých historických epoch, všímajíce si podrobně Řvaní ve vojštích feudálních pánů, se zvláštním pododdílem o Řvaní na námezdné žoldnéře, dále Řvaní v kapitalistických armádách a konečně Řvaní v Rudé a v naší lidově demokratické armádě. Následovala část analytická, rozebírající Druhy řvaní, kde zvlášť mnoho místa bylo věnováno Řvaní v kostelích, s podkapitolami o řvaní v kostelích katolických, protestantských, pravoslavných (se zvláštním přihlédnutím k mírovým snahám pravoslavné církve), v synagogách (se zvláštním přihlédnutím k reakční podstatě sionismu), a nakonec pro úplnost i o Řvaní v ateistických modlitebnách.
+Rotný pročítal své dílo s láskou a kochal se sporými, ale výstižnými názvy kapitol. První, nadepsaná _Historický úvod: Vznik a vývoj řvaní_, slibovala poučení o _Gaiu Juliu Caesarovi a jeho významu pro klasickou teorii řvaní_ a další pak sledovaly zvolené téma v průběhu jednotlivých historických epoch, všímajíce si podrobně _Řvaní ve vojštích feudálních pánů_, se zvláštním pododdílem o _Řvaní na námezdné žoldnéře_, dále _Řvaní v kapitalistických armádách_ a konečně _Řvaní v Rudé a v naší lidově demokratické armádě_. Následovala část analytická, rozebírající _Druhy řvaní_, kde zvlášť mnoho místa bylo věnováno _Řvaní v kostelích_, s podkapitolami o řvaní v kostelích _katolických, protestantských, pravoslavných (se zvláštním přihlédnutím k mírovým snahám pravoslavné církve), v synagogách (se zvláštním přihlédnutím k reakční podstatě sionismu)_, a nakonec pro úplnost i o _Řvaní v ateistických modlitebnách_.
 
-Dále byla úvaha Marx – Engels – Lenin – Stalin o řvaní, proložená četnými zcela neznámými citáty, programový článek Sovětské řva­ní – náš vzor, právně filozofické pojednání Dialektika řvaní: Je možno řvát na nadřízené? Následky téhož a na závěr stručné shrnutí s posláním Za dosažení lepších výsledků ve řvaní.
+Dále byla úvaha _Marx – Engels – Lenin – Stalin o řvaní_, proložená četnými zcela neznámými citáty, programový článek _Sovětské řva­ní – náš vzor_, právně filozofické pojednání _Dialektika řvaní: Je možno řvát na nadřízené? Následky téhož_ a na závěr stručné shrnutí s posláním _Za dosažení lepších výsledků ve řvaní_.
 
-I jiné oddíly spisu byly podnětné, zejména esej o Prcání, rozebírající mimo jiné různé problémy Prcání vojínek, poddůstojnic a důstojnic, a otázky obzvlášť komplikovaného Prcání služebních zvířat. Historicky byla stať dobře fundovaná (Hannibal a úpadek prcání v kartaginských armádách), třídní přístup k látce byl vesměs správný (Spartakus – otec demokratizace prcání), ideová stránka na výši (Buzerace – nástroj míru) a šíře probíraného svědčila o značné auto­rově erudici (Psychologický přístup k prcání), hlubokých osob­ních zkušenostech (Buzerování mimo meze řádů, se stručným návodem, jak tytéž obejíti) a při vší přísné vědeckosti i o silném praktickém smyslu (Rady k snadnému získání odznaku Vzorného buzerátora).
+I jiné oddíly spisu byly podnětné, zejména esej o _Prcání_, rozebírající mimo jiné různé problémy _Prcání vojínek, poddůstojnic a důstojnic_, a otázky obzvlášť komplikovaného _Prcání služebních zvířat_. Historicky byla stať dobře fundovaná (_Hannibal a úpadek prcání v kartaginských armádách_), třídní přístup k látce byl vesměs správný (_Spartakus – otec demokratizace prcání_), ideová stránka na výši (_Buzerace – nástroj míru_) a šíře probíraného svědčila o značné auto­rově erudici (_Psychologický přístup k prcání_), hlubokých osob­ních zkušenostech (_Buzerování mimo meze řádů, se stručným návodem, jak tytéž obejíti_) a při vší přísné vědeckosti i o silném praktickém smyslu (_Rady k snadnému získání odznaku Vzorného buzerátora_).
 
-Rotný ještě chvíli listoval v sešitě, sem tam něco poopravil, připsal nebo vylepšil, ale brzo ho zmohla únava. Lehl si na kavalec u protější stěny a usnul. Zdálo se mu, že je důstojníky, chovajícími se přesně dle ducha jeho spisu, vlečen před polní soud a tam pak na základě zabavené Rukojeti odsouzen k smrti pro hrubé vyzrazování vojenských tajemství.
+Rotný ještě chvíli listoval v sešitě, sem tam něco poopravil, připsal nebo vylepšil, ale brzo ho zmohla únava. Lehl si na kavalec u protější stěny a usnul. Zdálo se mu, že je důstojníky, chovajícími se přesně dle ducha jeho spisu, vlečen před polní soud a tam pak na základě zabavené _Rukojeti_ odsouzen k smrti pro hrubé vyzrazování vojenských tajemství.
 
-\* \* \*
+* * *
 
 V hlavní kobce vězení, kde dávno zhasli zaprášenou lucernu u stropu a drželi černou hodinku, padla zatím na mužstvo, rozložené po dřevěných pryčnách podél stěn, sentimentální nálada.
+
+  
 
 „Dva a půl roku, pánové!“ pronesl vyčítavě četař Vomakal a hluboce vzdychl.
 
@@ -199,7 +219,7 @@ V hlavní kobce vězení, kde dávno zhasli zaprášenou lucernu u stropu a d
 
 „Vole, ty by ses byl taky, vole, vožral,“ pravil četař Vomakal, „dybys tu byl smrděl, vole, dva a půl roku, vole, jako já.“
 
-„Chápu tě,“ řekl svobodník dr. Mlejnek. Nebyl dubňák a na vojnu se, vzdor své srdeční vadě, dostal jen nešťastnou náhodou. Ta ovšem způsobila, že zatrpkl víc, než je u vojáků normální. Správně předpokládaje, že jeho kádrový materiál není příliš doporučující, rozhodl se alespoň udělat na odvodní komisi dobrý dojem pokrokovým pozdravem „Čest práci!“. Netušil, že předsedou komise je bývalý majitel velmi výnosné gynekologické praxe, únorovými událostmi přidělený středisku v Praze XII, a ten že se dohodl se svým přísedícím, mladým doktorem z dobré buržoazní rodiny, na podivuhodném odvodním klíči. Výrok „schopen“ nebo „neschopen“ se měl podle této dohody řídit právě pozdravem, jehož předstupující branec použije. Za „Čest práci!“ byl zkoumaný kvalifikován jako „schopen bez vady“, zatímco nejasné zamumlání, používané bázlivci, jimž pozdrav pokrokový nešel z huby a na reakční si netroufali, zapříčiňovalo označení „schopen služby beze zbraně“. Konečně křesťanské a buržoazní salutace jako „Dobrý den“, nebo dokonce „Pochválen Pán Ježíš Kristus“ vynesly kvalifikaci „vojenské služby neschopen“. Ubožák dr. Mlejnek, kterému se právě taktak podařilo proklouznout úskalím závěrečných zkoušek z podrobné znalosti Dějin VKS (b), jímž vědecky vyvrcholila jeho právnická studia, měl ovšem, pokud jde o pozdravy, zkušenosti právě opačné, a stal se tak strůjcem vlastního neštěstí. Proto také nyní, kdy neštěstí končilo, snesl bez urážky vyčítavou poznámku dubnového četaře Vomakala:
+„Chápu tě,“ řekl svobodník dr. Mlejnek. Nebyl dubňák a na vojnu se, vzdor své srdeční vadě, dostal jen nešťastnou náhodou. Ta ovšem způsobila, že zatrpkl víc, než je u vojáků normální. Správně předpokládaje, že jeho kádrový materiál není příliš doporučující, rozhodl se alespoň udělat na odvodní komisi dobrý dojem pokrokovým pozdravem „Čest práci!“. Netušil, že předsedou komise je bývalý majitel velmi výnosné gynekologické praxe, únorovými událostmi přidělený středisku v Praze XII, a ten že se dohodl se svým přísedícím, mladým doktorem z dobré buržoazní rodiny, na podivuhodném odvodním klíči. Výrok „schopen“ nebo „neschopen“ se měl podle této dohody řídit právě pozdravem, jehož předstupující branec použije. Za „Čest práci!“ byl zkoumaný kvalifikován jako „schopen bez vady“, zatímco nejasné zamumlání, používané bázlivci, jimž pozdrav pokrokový nešel z huby a na reakční si netroufali, zapříčiňovalo označení „schopen služby beze zbraně“. Konečně křesťanské a buržoazní salutace jako „Dobrý den“, nebo dokonce „Pochválen Pán Ježíš Kristus“ vynesly kvalifikaci „vojenské služby neschopen“. Ubožák dr. Mlejnek, kterému se právě taktak podařilo proklouznout úskalím závěrečných zkoušek z podrobné znalosti _Dějin VKS (b)_, jímž vědecky vyvrcholila jeho právnická studia, měl ovšem, pokud jde o pozdravy, zkušenosti právě opačné, a stal se tak strůjcem vlastního neštěstí. Proto také nyní, kdy neštěstí končilo, snesl bez urážky vyčítavou poznámku dubnového četaře Vomakala:
 
 „Vole, seš proti nám, vole, úplnej lemoun!“
 
@@ -231,9 +251,9 @@ V místnosti zavládlo mlčení.
 
 „Vypravuj, vole!“ vybídl ho četař Vomakal.
 
-Četař Krajta si zapálil a pohodlně se opřel o skrčené nohy vojína ležícího za ním. Byl to inženýr chemie a u Sedmého tankového praporu proslul jako neoficiální lidový vyprávěč (oficiálním lidovým vyprávěčem byl rotný Maňas) a jako organizátor takzvaných duchových nebo explozivních hrátek. Tato forma masové činnosti dosáhla rozkvětu zejména za dlouhých nedělních odpolední v tan­kové škole první zimu jejich prezenční služby. Byla to zábava v podstatě pyrotechnická a spočívala v konání zajímavých pokusů s onou částí nestrávené potravy v útrobách žáků tankové školy, jež se změnila v plynné skupenství a na vzduchu zapálena hořela jasným plamenem. V ubikacích mužstva, které dle sovětského vzoru (vypracovaného pro posádky v hlubinách tajgy) nedostalo celé měsíce vycházku, se v neděli odpoledne zhasínalo za tím účelem hned po setmění; vojáci zaujali polohu vleže na břiše a na povel „Pal!“, který si ti, kdož byli schopni pálit, sami vydávali, přikládal četař (tehdy ještě vojín) Krajta rozžehnutou zápalku do co nejtěsnější blízkosti jejich řitního otvoru. Vyšlehující blesky nápadně připomínaly kanonádu v předvečer Dne vítězství a účastníci pokusů, aby dosáhli plamene co nejdelšího a nejjasnějšího, oddávali se obyčejně odpoledne před setměním nezřízenému požívání teplého chleba, cibule a česneku, který nakradli v školní kuchyni. Na plánu činnosti PO politického oddělení objevovala se tato zábava jako Organizované volno a v dojemném vylíčení Tankistické neděle z pera (tehdy) vojína Maňase, které otiskla Obrana lidu, nebylo o ní zmínky.
+Četař Krajta si zapálil a pohodlně se opřel o skrčené nohy vojína ležícího za ním. Byl to inženýr chemie a u Sedmého tankového praporu proslul jako neoficiální lidový vyprávěč (oficiálním lidovým vyprávěčem byl rotný Maňas) a jako organizátor takzvaných duchových nebo explozivních hrátek. Tato forma masové činnosti dosáhla rozkvětu zejména za dlouhých nedělních odpolední v tan­kové škole první zimu jejich prezenční služby. Byla to zábava v podstatě pyrotechnická a spočívala v konání zajímavých pokusů s onou částí nestrávené potravy v útrobách žáků tankové školy, jež se změnila v plynné skupenství a na vzduchu zapálena hořela jasným plamenem. V ubikacích mužstva, které dle sovětského vzoru (vypracovaného pro posádky v hlubinách tajgy) nedostalo celé měsíce vycházku, se v neděli odpoledne zhasínalo za tím účelem hned po setmění; vojáci zaujali polohu vleže na břiše a na povel „Pal!“, který si ti, kdož byli schopni pálit, sami vydávali, přikládal četař (tehdy ještě vojín) Krajta rozžehnutou zápalku do co nejtěsnější blízkosti jejich řitního otvoru. Vyšlehující blesky nápadně připomínaly kanonádu v předvečer Dne vítězství a účastníci pokusů, aby dosáhli plamene co nejdelšího a nejjasnějšího, oddávali se obyčejně odpoledne před setměním nezřízenému požívání teplého chleba, cibule a česneku, který nakradli v školní kuchyni. Na plánu činnosti PO politického oddělení objevovala se tato zábava jako _Organizované volno_ a v dojemném vylíčení _Tankistické neděle_ z pera (tehdy) vojína Maňase, které otiskla _Obrana lidu_, nebylo o ní zmínky.
 
-Nyní tedy četař ing. Krajta natáhl nohy na dřevěné pryčně před sebe a začal příjemně povrzávajícím hlasem vyprávět pohádku O tajemné prdeli.
+Nyní tedy četař ing. Krajta natáhl nohy na dřevěné pryčně před sebe a začal příjemně povrzávajícím hlasem vyprávět pohádku _O tajemné prdeli_.
 
 „Bylo nebylo,“ spustil. „Zemská osa se za těch deset tisíc let, které ten čas dělily od našeho letopočtu, nahnula, a tak večery byly dlouhé, temné a nudné. Babička shromažďovala okolo sebe svá vnoučátka a vnoučátka prosívala: ‚Babičko, babičko, vypravuj nám pohádku!‘ ‚Inu a keroupak, keroupak, děti?‘ tázávala se babička a vnoučátka odpovídala: ‚Tu o té tajemné prdýlce, babičko, tu o prdýlce!‘ ‚Tak o prdýlce, o prdýlce,‘ pokyvovala hlavou babička. ‚Ale ona to vlastně byla tuze velikánská prdýlka, takže to ani nebyla prdýlka, ale –‘ ‚Prdel!‘ volala dítka radostně. ‚Tajemná prdel! Vypravuj, vypravuj, babičko!‘ A tu si babička přitáhla loktuši a dala se do vyprávění.
 
@@ -249,10 +269,10 @@ Vojíni se zachechtali. Četař ing. Krajta se natáhl k spánku. Někteří se
 
 A tak se zakrátko rozhostilo věznicí veliké a spravedlivé ticho, které rušil už jenom sytý hlas desátníka Mengeleho ze vzdálené kobky pro tři zostřené, jenž usínajícím soudruhům zpíval vojenskou baladu-ukolébavku.
 
-Je pu-hustá noc  
-v tmavé cele černé.  
-Všechno vodešlo spát,  
-jenom Franta Gros né.
+> _Je pu-hustá noc  
+> v tmavé cele černé.  
+> Všechno vodešlo spát,  
+> jenom Franta Gros né._
 
 Ale i desátník zmlkl, usnul a toliko kroky strážného jim odměřovaly krásný čas těch posledních chvil před pádem do života.
 

@@ -4,6 +4,8 @@ title: "Noc v\_posádkovém vězení"
 
 Vojín Bamza procházel chodbou posádkového vězení, chřestil svazkem klíčů, po pořádku bušil na dveře cel a volal:
 
+  
+
 „Chcát! Chcát, pánové!“
 
 Ze všech úkonů, spadajících do rámce povinností pomocníka vyváděče vězňů, konal tento úkon nejsvědomitěji. Svědomitost měla ovšem své pozadí. Díky geniálnímu architektonickému řešení rakousko-uherského stavitele oddělovala totiž část věznice, vykázanou za nucený pobyt vězňům, od prostoru, v němž byly světnice velitele stráže a vyváděče vězňů, mohutná mříž. Ta musela být podle předpisu (výjimečně se dodržoval, neboť každá kontrola se ze všeho nejdřív přesvědčovala o jeho plnění) neustále, ve dne v noci, uzamčena, a na noc se dokonce zamykaly i dveře jednotlivých cel. Potíže, které z tohoto zařízení vznikaly pomocníku vyváděče vězňů, spočívaly ve skutečnosti, že záchod byl v oné polovině budovy, kde se zdržoval dozorčí personál. A protože k pomocníkovým povinnostem patřilo odemykat dveře a mříž vězňům, přejícím si vykonat tělesnou potřebu – ve dne i v noci –, nebylo nesnadné pochopit, proč vojín Bamza, jindy lempl, tak horlivě dbá na dodržení večerní toalety. Plnil svou povinnost konečně také proto nadmíru svědomitě (a stejně svědomitě ji plnili i všichni ostatní vyváděči), protože nevypočitatelný vojenský osud mohl dnešnímu vyváděči již zítra přiřknout některou z cel za místo nočního odpočinku.
@@ -118,7 +120,7 @@ Z toalety vyšla četařka Mici Babinčáková, blížila se chodbou v zelený
 
 „Zamk ste všechno?“
 
-„Jo,“ řekl rotný a usedl ke stolu. Na něm ležely tři neumyté esšálky se zbytky večeře, dva esšálky s kafem, půl bochníku chleba, nakousnutý salám a tři kousky ušpiněného špeku. Válelo se to bez ladu a skladu po celé ploše stolu a mezi tím kniha Udatný Čurgali, opatřená razítkem posádkové knihovny, a kniha Stambul Train, značně ohmataná, kterou si rotný vypůjčil do služby od komisaře FO svobodníka dr. Mlejnka, dosti bigotního katolíka.
+„Jo,“ řekl rotný a usedl ke stolu. Na něm ležely tři neumyté esšálky se zbytky večeře, dva esšálky s kafem, půl bochníku chleba, nakousnutý salám a tři kousky ušpiněného špeku. Válelo se to bez ladu a skladu po celé ploše stolu a mezi tím kniha _Udatný Čurgali_, opatřená razítkem posádkové knihovny, a kniha _Stambul Train_, značně ohmataná, kterou si rotný vypůjčil do služby od komisaře FO svobodníka dr. Mlejnka, dosti bigotního katolíka.
 
 Rotný vytáhl z kapsy na stehně zmačkaný dopis, otevřel jej a položil před sebe na stůl.
 
@@ -160,17 +162,17 @@ Podporučík vstal, protáhl se, chvíli nerozhodně postál a těkal modrýma 
 
 „Děkujem, soudruhu rotný,“ ozvala se ze tmy dívka.
 
-Rotný do té tmy mrkl a pak se vrátil do místnosti velitele stráže, posadil se ke stolu a zadíval se na dopis. Byl od sestřenice Aleny, herečky, jež nedávno proslula jako představitelka něžné údernice v dramatu (a stejnojmenném filmu) Kozí bobky a která mu měla opatřit místo v Praze. Dopis zněl:
+Rotný do té tmy mrkl a pak se vrátil do místnosti velitele stráže, posadil se ke stolu a zadíval se na dopis. Byl od sestřenice Aleny, herečky, jež nedávno proslula jako představitelka něžné údernice v dramatu (a stejnojmenném filmu) _Kozí bobky_ a která mu měla opatřit místo v Praze. Dopis zněl:
 
-Milý bratránku,
+> _Milý bratránku,_
 
-všechno jsem zařídila, můžeš hned nastoupit. Těším se na Tebe a jsem zvědavá, jak Ti sluší uniforma. Vidíš, za celé ty dva roky ses ani jednou nepřišel podívat – ani do divadla. Alenku znáš, jenom když ji potřebuješ. Ale já to chápu – Radlice jsou pěkný kousek od Dejvic a vojáček to všechno nepostihne, že? Pozdravuje Tě můj manžel a soudruh Robert Neumann.
+> _všechno jsem zařídila, můžeš hned nastoupit. Těším se na Tebe a jsem zvědavá, jak Ti sluší uniforma. Vidíš, za celé ty dva roky ses ani jednou nepřišel podívat – ani do divadla. Alenku znáš, jenom když ji potřebuješ. Ale já to chápu – Radlice jsou pěkný kousek od Dejvic a vojáček to všechno nepostihne, že? Pozdravuje Tě můj manžel a soudruh Robert Neumann._
 
-Až přijedeš do Prahy, objev se aspoň v divadle!
+> _Až přijedeš do Prahy, objev se aspoň v divadle!_
 
-Tvoje sestřenice
+> _Tvoje sestřenice_
 
-Alena
+_Alena_
 
 Potvora, pomyslel si. Kde to asi všechno vyčenichala? To je záhada. Ale Praha je vesnice a na člověka všechno praskne. Zavzpomínal na teplé, blikající hvězdy nad radlickým kopcem, potom na stejně teplé, stejně blikající hvězdy nad tankodromem a vnitřnímu, snícímu zraku se zjevila smutňoučká sladká tvář, na chvilku ji vystřídaly baziliščí oči dívky zvané Lizeta, ale zase se vrátila. Jestlipak, pomyslil si a zamrazilo ho, tohle taky praskne? Potom bych si ji musel vzít. Žádnou buržoazní dívku. Janinku. Docela se mu zachtělo manželství s Janinkou. Byli bysme v Praze. Jenže jaká by asi byla v Praze? Už by to nebylo zakázané ovoce. Už by tu nebyl tvrdý, rozlícený muž, jenž vlastní služební pistoli a může se vždycky každou chvíli vrátit, to se nedá nikdy vyloučit. Možná že Janinka by nebyla tak docela Janinka bez toho mstitele, drkotajícího rozježděnými vojenskými cestami v obrněném autíčku, zatímco úlisný roťák – vzal to čert! Kdoví. Složil dopis, ucítil pistoli v pouzdře na zadnici, znova se zasnil.
 

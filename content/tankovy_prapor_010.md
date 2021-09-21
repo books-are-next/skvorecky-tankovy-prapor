@@ -4,6 +4,8 @@ title: "Lekce z\_katolického náboženství"
 
 Po službě se rotný u velitele nehlásil. Táhlo ho to do Prahy, neboť na to poukazovala konstelace okolností: nadporučík Pinkas trávil (toho roku už třetí) víkend v kruhu rodinném, naproti tomu z vojenského tisku se dočetl, že v divizním kině n-té divize je dnes slavnostní večer na počest vítězů soutěže tvořivosti. Bylo tedy jasné, že vítěz této soutěže v oboru poezie nebude ten večer na propustce ani načerno u své manželky. A rotný, přes novou a zcela jinou poezii svítících střel, hvězd nad tankodromem a ložnice, odkud je na ně z okna vidět, nehodlal propást takovou příležitost k novému pokusu o manželskou věrnost té zvláštní dámy.
 
+  
+
 Aby se vyhnul případným komplikacím s kapitánem Matkou, použil obvyklé ilegální cesty, jíž se příslušníci Sedmého tankového praporu dostávali na svobodu. Hned z věznice odešel na půdu v budově praporu, kde byla šatna, navlékl se do vycházkové uniformy, zjistil si u služby, že velitel je na večeři, u staršiny si předčasně vyzvedl dovolenku, padělal na ní kapitánův podpis a zastavil se u svobodníka dr. Mlejnka, písaře praporu: ten paklíčem otevřel ocelovou skříňku s útvarovými razítky a jedním z nich potvrdil pravost falešného dokumentu. Pak rotný zmizel v houstnoucím šeru na cestě vedoucí mezi budovami kasáren k železniční stanici. Ale přestože byl vybaven tak dokonalým falsifikátem, přes bránu nešel. Volil méně nebezpečnou cestu přes parčík za hlavními lázněmi a dírou v plotě pod železničním náspem, přes potok a po mezi v polích, až dorazil na silnici do Kostelce. Tímto způsobem bezpečně opustil přísně střežený výcvikový prostor a vydal se pěšky do města, aby stihl rychlík do Prahy.
 
 Byl už večer, setmělo se, naskákaly hvězdy, kolem rotného přejížděla nákladní auta z posádky. Mohl na některé kývnout, jistě by ho byli proti předpisu vzali, ale nechtělo se mu. Bylo dost času, měl náladu jít sám po silnici, která se příjemně táhla přes hřeben terénní vlny pod městem, na západ, ve směru, kde leželo město. Večer byl stejný jako nedávná noc se švestkami a tanky, voňavý a barevný jako večery babího léta každý rok po celých těch deset nebo patnáct let, co pro něho měly letní večery poetické kouzlo související s vývojem pohlavních žláz. Rozdíl oproti někdejším večerům byl v tom, že pomyšlení na úspěch u Janinky naplňovalo ho spíše než něžnými myšlenkami na ni čilou činorodostí, směřující k odstranění dosavadních neúspěchů u manželky básnického vítěze.
@@ -34,7 +36,7 @@ Kuňkání opět zesláblo a znovu se z něho oddělil hlásek:
 
 „Zrovna jako u nás,“ pravila paní Hertlová. V přijímači něco přeskočilo a hlas Svobodné Evropy mocně zahřímal po světnici:
 
-„… šlo zabavené obilí? Šlo do českých pekáren? Byl z něho chleba pro české lidi? Nikoliv, milí posluchači doma. Z žita sklizeného na Hané, z pšenice, kterou v potu tváře vypěstoval český sedlák ze zlatého prutu země české, pekou si piroh soudruzi v sovětské Ázerbájdžánské republice…“
+„… šlo zabavené obilí? Šlo do _českých_ pekáren? Byl z něho chleba pro _české_ lidi? Nikoliv, milí posluchači doma. Z žita sklizeného na Hané, z pšenice, kterou v potu tváře vypěstoval český sedlák ze zlatého prutu země české, pekou si piroh soudruzi v sovětské Ázerbájdžánské republice…“
 
 Zase něco cvaklo a superhet rozdrnčelo zběsilé kuňkání. Paní Hertlová otočila vypínačem. Ticho zarámoval rozhořčený výkřik z kanape:
 
@@ -82,37 +84,39 @@ Rotný kývl.
 
 „Je to fakt,“ řekl rotný. „Nevíte, kdy se Lída vrátí?“
 
-\* \* \*
+* * *
 
 V intimně osvětleném pokoji na ni čekal ještě v půl jedné. Budoár připomínal vojenskou ložnici těsně po budíčku. Panenka Maria z velké ikony a Jindřich Osmý z dobové rytiny hleděli mrtvýma očima na složitou hromadu knih, šatů, prádla, ovoce a cigaret na kulatém stolku se skleněnou deskou a na rozestlaný a uválený gauč pod oknem. V rohu pokoje zel otevřený šatník, přes jedno křeslo ležely přehozené letní šaty a pomačkané kombiné, na opěradle druhého křesla viselo několik nylonek s puštěnými oky a ušmudlaná podprsenka z modrého saténu. Podlaha byla všude poseta různými jinými předměty a všechno tu bylo tak jako vždycky od té doby, co byla Lizetka slaměnou vdovou.
+
+  
 
 Rotný otevřel dveře do druhého pokoje, kde bylo naopak úzkostlivě uklizeno a rohový zelený gauč se zrcadlil v chladných sklech knihovny. Ano. Líza je věrná svému doupěti a tady to je obraz duše jejího mouly manžela.
 
 Vrátil se do prvního pokoje, shodil věci z jednoho křesla na zem a vytáhl několik dopisů z hromady předmětů na nočním stolku. Vzal jeden a četl:
 
-Drahá, chci Vám neustále psát, ale nejde to. Pochopte, že člověk v tomto obklíčení pustotou nemá odvahu a bojí se všeho. Vymyslil jsem si pro Vás už tolik dopisů, od té doby, co jste odešla, ale zatím jsem napsal jen jediný. Často, nikoli s nepochopením, nikoli s chladem, jsem teď myslil na Vaši zvláštní svatost a poctivost.
+> _Drahá, chci Vám neustále psát, ale nejde to. Pochopte, že člověk v tomto obklíčení pustotou nemá odvahu a bojí se všeho. Vymyslil jsem si pro Vás už tolik dopisů, od té doby, co jste odešla, ale zatím jsem napsal jen jediný. Často, nikoli s nepochopením, nikoli s chladem, jsem teď myslil na Vaši zvláštní svatost a poctivost._
 
-Svatost zvaná frigiditas. Poctivost zvaná narcisismus. Nepodíval se na podpis. Kurisu, odhadl zkušeným okem text jako dílo prvního ze svých následovníků. Tak japanologovi taky nedala, pomyslel si se zadostiučiněním. Aspoň mám to prvenství, že jsem jí jako primus inter pares ukázal, jak katolické manželství nevylučuje platonickou nevěru. Ovšem s postranní myšlenkou, že její platonická nevěra skončí, s přičiněním katolického čertíčka, tím koncem, s nímž už katolická manželka musí do zpovědnice. To se mi teda nepovedlo, vzdychl, ale zato se mi dokonale podařilo udělat z ní perfektní platonickou kurvu. Lizette, pustil se do dalšího dopisu; existenciální citace snadno prozradily Maurice, kolegu v platonismu, vyrostlého za války v neokupované Francii: Lizette, jest to dosti hrozné. – Píši Vám a nejhorším problémem jest nemoc duše zvaná nuda. Není úniku, není žádné cesty ven než té, po které kráčíme, ale ta možná nemá konce ani začátku. Myslíte, že jsme se kdy potkali, moudrá královno? Píšu Vám, Karino, a nevím, zda jste živa. No. Sáhl po dalším psaní. Nebyl to vlastně dopis, ale zmačkaný lístek. Na jedné straně bylo neumělou rukou nakresleno červené srdce, k srdci vedla červená šipka a u ní neznámá ruka připsala v chatrné angličtině:
+Svatost zvaná frigiditas. Poctivost zvaná narcisismus. Nepodíval se na podpis. Kurisu, odhadl zkušeným okem text jako dílo prvního ze svých následovníků. Tak japanologovi taky nedala, pomyslel si se zadostiučiněním. Aspoň mám to prvenství, že jsem jí jako primus inter pares ukázal, jak katolické manželství nevylučuje platonickou nevěru. Ovšem s postranní myšlenkou, že její platonická nevěra skončí, s přičiněním katolického čertíčka, tím koncem, s nímž už katolická manželka musí do zpovědnice. To se mi teda nepovedlo, vzdychl, ale zato se mi dokonale podařilo udělat z ní perfektní platonickou kurvu. _Lizette_, pustil se do dalšího dopisu; existenciální citace snadno prozradily Maurice, kolegu v platonismu, vyrostlého za války v neokupované Francii: _Lizette, jest to dosti hrozné. – Píši Vám a nejhorším problémem jest nemoc duše zvaná nuda. Není úniku, není žádné cesty ven než té, po které kráčíme, ale ta možná nemá konce ani začátku. Myslíte, že jsme se kdy potkali, moudrá královno? Píšu Vám, Karino, a nevím, zda jste živa_. No. Sáhl po dalším psaní. Nebyl to vlastně dopis, ale zmačkaný lístek. Na jedné straně bylo neumělou rukou nakresleno červené srdce, k srdci vedla červená šipka a u ní neznámá ruka připsala v chatrné angličtině:
 
-It is your heart and beats only for me?
+> _It is your heart and beats only for me?_
 
-Pod to Lizetčinou rukou:
+> Pod to Lizetčinou rukou:
 
-Yes!!!
+> _Yes!!!_
 
-A znovu cizí rukou:
+> A znovu cizí rukou:
 
-It is not difficult to love you – you most charming girl!
+> _It is not difficult to love you – you most charming girl!_
 
-A ještě níže od Lizetky:
+> A ještě níže od Lizetky:
 
-Attention! My man see you!
+> _Attention! My man see you!_
 
-Tohle teda je někdo nový. A pěkný pásek. Aspoň by se měl naučit pořádně anglicky. Na druhé straně papírku však použili mateřštiny: To jsem to velmi obratně řekla, viď? A on určitě nic nepoznal! A pod tím, jinou rukou: Jste kráska a on zvíře! A dále: Proto to musím říkat, jinak by vylít a sežral by tě, Budulíne. Tím zápis končil. Možná že na tomto místě byl Budulín skutečně sežrán. Jestli byl, určitě už přiskočila nějaká náhrada.
+Tohle teda je někdo nový. A pěkný pásek. Aspoň by se měl naučit pořádně anglicky. Na druhé straně papírku však použili mateřštiny: _To jsem to velmi obratně řekla, viď? A on určitě nic nepoznal!_ A pod tím, jinou rukou: _Jste kráska a on zvíře!_ A dále: _Proto to musím říkat, jinak by vylít a sežral by tě, Budulíne_. Tím zápis končil. Možná že na tomto místě byl Budulín skutečně sežrán. Jestli byl, určitě už přiskočila nějaká náhrada.
 
-Rotný se prohrábl hromádkou papírů a narazil na zápisníček. Namátkou jej otevřel a četl: Odpoledne vypadnu do Prahy, s hodinovým zpožděním dorazím k Adrii. Tam Maurice, je otrávený. Velký špacír na Barrandov. Maurice nejdříve otrávený, pak příjemný. Říká o svých potížích. Báječná večeře, pak tančíme. Maurice říká o rozvodu. Dolů na pětku, jsem strašně ospalá. Maurice se mnou táhne až do Radlic. V loži asi ve 2 hod.
+Rotný se prohrábl hromádkou papírů a narazil na zápisníček. Namátkou jej otevřel a četl: _Odpoledne vypadnu do Prahy, s hodinovým zpožděním dorazím k Adrii. Tam Maurice, je otrávený. Velký špacír na Barrandov. Maurice nejdříve otrávený, pak příjemný. Říká o svých potížích. Báječná večeře, pak tančíme. Maurice říká o rozvodu. Dolů na pětku, jsem strašně ospalá. Maurice se mnou táhne až do Radlic. V loži asi ve 2 hod._
 
-Úterý: Vstávám ve 3/4 8, hrozný fofr. Matka má zase řeči. Do zaměstnání dorážím s půlhodinovým zpožděním, ale Králová tam ještě taky není, jenom Lexina. Říkáme řeči, povídáme o Peckovi. V deset dorazí Králová, dotáhne dorty, najíme se jich, je nám všem špatně. Pak jdu na oběd, tam nějaký pán se dá se mnou do řeči, říkám, že jsem chodila do školy ve Švýcarsku, on spustí francouzsky, je mi to trapné, říkám, že to byla německá škola. Chce se mermomocí vidět, je z ministerstva zahr. obch., smlouváme si rande na příští týden. Pak v kostele u Pražského Jezulátka, modlím se za Roberta a za sebe, abych přestala být taková k. Do zaměstnání asi ve 2, hned se jdu vykoupat, ležím ve vaně a dole pouštějí desky s židovským rabínem. Jsou skvělé. Pokouším se ve vodě číst Pana Adama, ale zmáčím ho, tak toho nechám. Z vany ve 4 hod. Králová odp. vůbec nepřišla! Volá Milan, Lexina mi dává telefon do vany. Pak volá Budulín, jedu k nim, pijeme absinth. Budulín tedy sežrán nebyl, pomyslil si truchlivě rotný, odložil zápisník a oddal se požitku z absurdního pocitu, proč tu vlastně sedí, když je skutečně jenom primus inter pares. Asi proto, že jsem ji miloval. No. Asi proto, že mi nedala. Buď je to ješitnost, nebo ještě láska. A co Janinka? Inu, Janinka. Asi teda proto, že mi nedala.
+_Úterý: Vstávám ve 3/4 8, hrozný fofr. Matka má zase řeči. Do zaměstnání dorážím s půlhodinovým zpožděním, ale Králová tam ještě taky není, jenom Lexina. Říkáme řeči, povídáme o Peckovi. V deset dorazí Králová, dotáhne dorty, najíme se jich, je nám všem špatně. Pak jdu na oběd, tam nějaký pán se dá se mnou do řeči, říkám, že jsem chodila do školy ve Švýcarsku, on spustí francouzsky, je mi to trapné, říkám, že to byla německá škola. Chce se mermomocí vidět, je z ministerstva zahr. obch., smlouváme si rande na příští týden. Pak v kostele u Pražského Jezulátka, modlím se za Roberta a za sebe, abych přestala být taková k. Do zaměstnání asi ve 2, hned se jdu vykoupat, ležím ve vaně a dole pouštějí desky s židovským rabínem. Jsou skvělé. Pokouším se ve vodě číst Pana Adama, ale zmáčím ho, tak toho nechám. Z vany ve 4 hod. Králová odp. vůbec nepřišla! Volá Milan, Lexina mi dává telefon do vany. Pak volá Budulín, jedu k nim, pijeme absinth_. Budulín tedy sežrán nebyl, pomyslil si truchlivě rotný, odložil zápisník a oddal se požitku z absurdního pocitu, proč tu vlastně sedí, když je skutečně jenom primus inter pares. Asi proto, že jsem ji miloval. No. Asi proto, že mi nedala. Buď je to ješitnost, nebo ještě láska. A co Janinka? Inu, Janinka. Asi teda proto, že mi nedala.
 
 Proto asi teda je to pořád láska.
 
