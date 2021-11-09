@@ -1,7 +1,7 @@
 /* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-7ac1988';
+const CACHE = 'cache-a25f096';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +39,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./tankovy_prapor_001.html","./tankovy_prapor_002.html","./tankovy_prapor_003.html","./tankovy_prapor_005.html","./tankovy_prapor_006.html","./tankovy_prapor_007.html","./tankovy_prapor_008.html","./tankovy_prapor_009.html","./tankovy_prapor_010.html","./tankovy_prapor_011.html","./tankovy_prapor_012.html","./tankovy_prapor_013.html","./tankovy_prapor_014.html","./tankovy_prapor_015.html","./tankovy_prapor_016.html","./tankovy_prapor_017.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_tankovy_prapor_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./resources/vzorec_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./tankovy_prapor_001.html","./tankovy_prapor_002.html","./tankovy_prapor_003.html","./tankovy_prapor_005.html","./tankovy_prapor_007.html","./tankovy_prapor_008.html","./tankovy_prapor_006.html","./tankovy_prapor_009.html","./tankovy_prapor_010.html","./tankovy_prapor_011.html","./tankovy_prapor_012.html","./tankovy_prapor_013.html","./tankovy_prapor_014.html","./tankovy_prapor_015.html","./tankovy_prapor_016.html","./tankovy_prapor_017.html","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_tankovy_prapor_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./resources/vzorec_fmt.jpeg","./scripts/bundle.js","./style/style.min.css"]));
 }
 
 self.addEventListener('fetch', e => {
