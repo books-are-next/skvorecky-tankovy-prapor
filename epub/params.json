@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Tankový prapor",
@@ -6,7 +7,9 @@
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-21T13:51:38.810Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola MLP-uroven1-zvlastni-pripady ",
@@ -32,7 +35,7 @@
         "filename": "tankovy_prapor_001.md",
         "xhtml": "tankovy_prapor_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -444,3 +447,4 @@
     "generatedAt": 1632235642342
   }
 }
+
