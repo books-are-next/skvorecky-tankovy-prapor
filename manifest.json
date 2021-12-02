@@ -1,180 +1,126 @@
 {
   "author": "Josef Škvorecký",
-  "identifier": "skvorecky-tankovy-prapor-6429791",
+  "edition": "beletrie",
+  "identifier": "skvorecky-tankovy-prapor-c7e9144",
   "languagecode": "cs",
   "modified": "2021-09-21T13:51:38.810Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Tankový prapor",
-  "revision": "6429791",
+  "revision": "c7e9144",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 17:29:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638379743694
+    "date": "Thu Dec 02 2021 09:58:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638439108602
   },
   "documents": [
     {
-      "title": "Tiráž",
-      "file": "colophon.html",
-      "words": 144,
-      "chars": 933,
-      "ideas": 20,
-      "role": "colophon",
-      "order": null,
-      "next": "tankovy_prapor_007.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Tiráž",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
-      "file": "index.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "index",
-      "order": null,
-      "next": "tankovy_prapor_007.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "resources.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "tankovy_prapor_007.html",
-      "toc": []
-    },
-    {
-      "title": "",
-      "file": "tankovy_prapor_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "tankovy_prapor_007.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "",
-          "id": "chunk1",
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "",
+      "title": "Tankový prapor",
       "file": "tankovy_prapor_002.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "tankovy_prapor_007.html",
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "tankovy_prapor_003.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Tankový prapor",
       "file": "tankovy_prapor_003.html",
       "words": 8,
       "chars": 50,
       "ideas": 3,
-      "role": "other",
-      "order": null,
-      "next": "tankovy_prapor_007.html",
+      "role": "chapter",
+      "order": 1,
+      "prev": "tankovy_prapor_002.html",
+      "next": "tankovy_prapor_005.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Tankový prapor",
       "file": "tankovy_prapor_005.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
-      "role": "other",
-      "order": null,
-      "next": "tankovy_prapor_007.html",
+      "role": "chapter",
+      "order": 2,
+      "prev": "tankovy_prapor_003.html",
+      "next": "tankovy_prapor_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Tankový prapor",
       "file": "tankovy_prapor_006.html",
       "words": 64,
       "chars": 414,
       "ideas": 2,
-      "role": "other",
-      "order": null,
+      "role": "chapter",
+      "order": 3,
+      "prev": "tankovy_prapor_005.html",
       "next": "tankovy_prapor_007.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele",
+      "title": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele • Tankový prapor",
       "file": "tankovy_prapor_007.html",
       "words": 10892,
-      "chars": 69207,
+      "chars": 69209,
       "ideas": 390,
       "role": "chapter",
-      "order": 0,
-      "prev": null,
+      "order": 4,
+      "prev": "tankovy_prapor_006.html",
       "next": "tankovy_prapor_008.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Provedení zkoušek FO u Sedmého tankového praporu",
+      "title": "Provedení zkoušek FO u Sedmého tankového praporu • Tankový prapor",
       "file": "tankovy_prapor_008.html",
-      "words": 17848,
-      "chars": 110546,
-      "ideas": 653,
+      "words": 17839,
+      "chars": 110548,
+      "ideas": 644,
       "role": "chapter",
-      "order": 1,
+      "order": 5,
       "prev": "tankovy_prapor_007.html",
       "next": "tankovy_prapor_009.html",
       "toc": [
@@ -182,19 +128,19 @@
           "index": 0,
           "level": 1,
           "name": "Provedení zkoušek FO u Sedmého tankového praporu",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Noc v posádkovém vězení",
+      "title": "Noc v posádkovém vězení • Tankový prapor",
       "file": "tankovy_prapor_009.html",
-      "words": 5592,
+      "words": 5588,
       "chars": 35336,
-      "ideas": 291,
+      "ideas": 287,
       "role": "chapter",
-      "order": 2,
+      "order": 6,
       "prev": "tankovy_prapor_008.html",
       "next": "tankovy_prapor_010.html",
       "toc": [
@@ -202,19 +148,19 @@
           "index": 0,
           "level": 1,
           "name": "Noc v posádkovém vězení",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Lekce z katolického náboženství",
+      "title": "Lekce z katolického náboženství • Tankový prapor",
       "file": "tankovy_prapor_010.html",
-      "words": 3467,
+      "words": 3459,
       "chars": 20779,
-      "ideas": 175,
+      "ideas": 167,
       "role": "chapter",
-      "order": 3,
+      "order": 7,
       "prev": "tankovy_prapor_009.html",
       "next": "tankovy_prapor_011.html",
       "toc": [
@@ -222,19 +168,19 @@
           "index": 0,
           "level": 1,
           "name": "Lekce z katolického náboženství",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Divizní kolo Armádní soutěže tvořivosti",
+      "title": "Divizní kolo Armádní soutěže tvořivosti • Tankový prapor",
       "file": "tankovy_prapor_011.html",
-      "words": 5676,
+      "words": 5654,
       "chars": 35833,
-      "ideas": 184,
+      "ideas": 162,
       "role": "chapter",
-      "order": 4,
+      "order": 8,
       "prev": "tankovy_prapor_010.html",
       "next": "tankovy_prapor_012.html",
       "toc": [
@@ -242,19 +188,19 @@
           "index": 0,
           "level": 1,
           "name": "Divizní kolo Armádní soutěže tvořivosti",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Vůně civilu",
+      "title": "Vůně civilu • Tankový prapor",
       "file": "tankovy_prapor_012.html",
       "words": 2546,
-      "chars": 16401,
+      "chars": 16402,
       "ideas": 41,
       "role": "chapter",
-      "order": 5,
+      "order": 9,
       "prev": "tankovy_prapor_011.html",
       "next": "tankovy_prapor_013.html",
       "toc": [
@@ -262,19 +208,19 @@
           "index": 0,
           "level": 1,
           "name": "Vůně civilu",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Podzimní prověrka bojové a politické připravenosti",
+      "title": "Podzimní prověrka bojové a politické připravenosti • Tankový prapor",
       "file": "tankovy_prapor_013.html",
-      "words": 6533,
-      "chars": 43077,
-      "ideas": 180,
+      "words": 6513,
+      "chars": 43081,
+      "ideas": 160,
       "role": "chapter",
-      "order": 6,
+      "order": 10,
       "prev": "tankovy_prapor_012.html",
       "next": "tankovy_prapor_014.html",
       "toc": [
@@ -282,19 +228,19 @@
           "index": 0,
           "level": 1,
           "name": "Podzimní prověrka bojové a politické připravenosti",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Bakchanálie",
+      "title": "Bakchanálie • Tankový prapor",
       "file": "tankovy_prapor_014.html",
-      "words": 4467,
-      "chars": 28604,
-      "ideas": 150,
+      "words": 4450,
+      "chars": 28603,
+      "ideas": 133,
       "role": "chapter",
-      "order": 7,
+      "order": 11,
       "prev": "tankovy_prapor_013.html",
       "next": "tankovy_prapor_015.html",
       "toc": [
@@ -302,66 +248,87 @@
           "index": 0,
           "level": 1,
           "name": "Bakchanálie",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Kulturně masový večírek na rozloučenou",
+      "title": "Kulturně masový večírek na rozloučenou • Tankový prapor",
       "file": "tankovy_prapor_015.html",
-      "words": 7864,
+      "words": 7799,
       "chars": 50762,
-      "ideas": 360,
+      "ideas": 295,
       "role": "chapter",
-      "order": 8,
+      "order": 12,
       "prev": "tankovy_prapor_014.html",
-      "next": "tankovy_prapor_017.html",
+      "next": "tankovy_prapor_016.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Kulturně masový večírek na rozloučenou",
-          "id": "chunk1",
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "",
+      "title": "Tankový prapor",
       "file": "tankovy_prapor_016.html",
       "words": 15,
       "chars": 121,
       "ideas": 6,
-      "role": "other",
-      "order": null,
-      "next": "tankovy_prapor_007.html",
+      "role": "chapter",
+      "order": 13,
+      "prev": "tankovy_prapor_015.html",
+      "next": "tankovy_prapor_017.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "",
-          "id": "chunk1",
+          "name": null,
+          "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Autorova poznámka",
+      "title": "Autorova poznámka • Tankový prapor",
       "file": "tankovy_prapor_017.html",
       "words": 712,
       "chars": 4707,
       "ideas": 10,
       "role": "chapter",
-      "order": 9,
-      "prev": "tankovy_prapor_015.html",
-      "next": null,
+      "order": 14,
+      "prev": "tankovy_prapor_016.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
           "name": "Autorova poznámka",
-          "id": "chunk1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Tankový prapor",
+      "file": "colophon.html",
+      "words": 144,
+      "chars": 933,
+      "ideas": 20,
+      "role": "colophon",
+      "order": null,
+      "prev": "tankovy_prapor_017.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
           "children": []
         }
       ]
@@ -369,14 +336,14 @@
   ],
   "totals": {
     "all": {
-      "words": 65828,
-      "chars": 416770,
-      "ideas": 2465
+      "words": 65689,
+      "chars": 416818,
+      "ideas": 2324
     },
     "chapters": {
-      "words": 65597,
-      "chars": 415252,
-      "ideas": 2434
+      "words": 65539,
+      "chars": 415845,
+      "ideas": 2300
     }
   }
 }
