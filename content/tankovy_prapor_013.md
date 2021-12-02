@@ -20,7 +20,7 @@ Plukovník těžce usedl na židli, bez prodlení seznámil oba důstojníky s 
 
 * * *
 
-Jako blesk z nebe zasáhla i kapitána Matku, velitele Sedmého tankového praporu. Sledoval právě se zalíbením práci četaře Filipa, jenž mu za mříží tajné spisovny ze součástek různých tankových radiostanic tajně sestavoval přepychový superhet[6](#footnote-10775-6), a zlá novina mu zkazila radost z dobrého díla. Rozlítostněn pocitem křivdy vydal službám úsečný rozkaz sehnat do pěti minut všechny příslušníky štábu vem kde vem, a když se podřízení, tušící nepříjemnosti, shromáždili, důkladně je seřval.
+Jako blesk z nebe zasáhla i kapitána Matku, velitele Sedmého tankového praporu. Sledoval právě se zalíbením práci četaře Filipa, jenž mu za mříží tajné spisovny ze součástek různých tankových radiostanic tajně sestavoval přepychový superhet[^6], a zlá novina mu zkazila radost z dobrého díla. Rozlítostněn pocitem křivdy vydal službám úsečný rozkaz sehnat do pěti minut všechny příslušníky štábu vem kde vem, a když se podřízení, tušící nepříjemnosti, shromáždili, důkladně je seřval.
 
   
 
@@ -111,7 +111,7 @@ Stálo v učebně motorů na brzdovém bubnu levé spojky, natřeném stříbř
 
 > _Cesto, cestičko do Lipníka,  
 > potkal jsem na ní tajtrlíka.  
-> Nebyl to tajtrlík, byl to dýzl[7](#footnote-10775-7).  
+> Nebyl to tajtrlík, byl to dýzl[^7].  
 > Kdybych byl neutek, byl by mě lýzl._
 
 Na chromované hlavici ukázkového válce, který stál pod obrazem strašné bitvy, byly vyryty (takže se nedaly odstranit) verše:
@@ -136,7 +136,7 @@ A mezi řádky srovnávací tabulky charakteristických pachů různých bojov�
 > _Лamкy нa лaмnacы,  
 > нa рaмeнa злamo —  
 > a бoнu ŭuм, клyкyм дoбрeŭм,  
-> дaлu ƨoвнo зa mo.[8](#footnote-10775-8)_
+> дaлu ƨoвнo зa mo.[^8]_
 
 Nakonec, když zničili, co se dalo, kromě hesel na stěnách, a ponechali učebnu bez estetiky, odebralo se komando ještě na latrínu, aby dokončilo dílo zkázy.
 
@@ -190,7 +190,7 @@ Přesně podle neblahého tušení kapitána Matky probíhala prověrka ve zname
 
 Všichni tak pokojně spali, propadajíce se do hlubších a hlubších poschodí spánku. Přes měsíc se přetáhla blána předjitřní mlhy a najednou se z lesa ozvalo vrčení motorů, přiblížilo se, projelo po cestičce, kolem níž, schováni v křoví, spali důstojníci, a nikým nepozorovány zarazily před štábním vozem tři džípy s komisí generálního štábu, zabalenou v bušlácích.
 
-Jednooký muž v posledním džípu zůstal sedět, jenom se zavrtěl a bušlák[9](#footnote-10775-9) se mu svezl z ramene; v měsíčním svitu se zlatě zatřpytil gigantický nárameník neklamně sovětského vkusu a carské tradice. Zato z prvního křepce vyskočil důstojník velmi drobné postavy a dychtivě vyběhl po schůdcích kapitánova vozu. V rozmezí několika týdnů se mu podařilo už podruhé přistihnout kapitána, jak spí ve vyloženě bojové situaci. Využil toho k názornému předvedení říznosti přímo před zraky svých nadřízených a sovětského poradce.
+Jednooký muž v posledním džípu zůstal sedět, jenom se zavrtěl a bušlák[^9] se mu svezl z ramene; v měsíčním svitu se zlatě zatřpytil gigantický nárameník neklamně sovětského vkusu a carské tradice. Zato z prvního křepce vyskočil důstojník velmi drobné postavy a dychtivě vyběhl po schůdcích kapitánova vozu. V rozmezí několika týdnů se mu podařilo už podruhé přistihnout kapitána, jak spí ve vyloženě bojové situaci. Využil toho k názornému předvedení říznosti přímo před zraky svých nadřízených a sovětského poradce.
 
 Rozespalý kapitán vnímal povědomé vřískání toliko v jeho intonačních významech a ty byly jednoznačné. Odněkud stále kukala kukačka a k ní se připojil jiný noční tvor, jenž se projevoval hlubokým žbluňkáním. Myší vřesk majora Borovičky, orámovaný tou groteskní akustikou lesa, probudil v kapitánovi dávnou vzpomínku na kačera Donalda, jenž patřil k hrdinům jeho předválečného mládí, a zachtělo se mu zakvákat. Disciplinovaně se však ovládl, přinutil uvozdřený mozek k plnění logických funkcí a pomalu chápal, až pochopil obsah pištivého sdělení:
 
@@ -346,10 +346,10 @@ Vzadu v řadách důstojníků podklesly nohy pod velitelem Sedmého tankového
 
 A útvar ptáků na nebi se rozhodl, bez rozkazu sešikoval a v pravidelné formaci zamířil na jih, do pohostinnějších zemí, ovládaných dosud třídním nepřítelem.
 
-[6](#footnote-10775-6-backlink) Přijímač s nepřímým zpracováním rádiového signálu. Pozn. red.
+[^6]: Přijímač s nepřímým zpracováním rádiového signálu. Pozn. red.
 
-[7](#footnote-10775-7-backlink) Poddůstojník, který zůstával ve vejenské službě i po ukončení základní vo­jenské služby. Pozn. red.
+[^7]: Poddůstojník, který zůstával ve vejenské službě i po ukončení základní vo­jenské služby. Pozn. red.
 
-[8](#footnote-10775-8-backlink) Generáli to jsou páni,/ ty maj zlatý časy./ Vojáci jim z vojny nesou/ látku na lampasy.// Látku na lampasy,/ na ramena zlato –/ a voni jim, klukum dobrejm,/ dali hovno za to. Pozn. red.
+[^8]: Generáli to jsou páni,/ ty maj zlatý časy./ Vojáci jim z vojny nesou/ látku na lampasy.// Látku na lampasy,/ na ramena zlato –/ a voni jim, klukum dobrejm,/ dali hovno za to. Pozn. red.
 
-[9](#footnote-10775-9-backlink) Dlouhý kabát z ovčí nebo králičí srsti. Pozn. red.
+[^9]: Dlouhý kabát z ovčí nebo králičí srsti. Pozn. red.

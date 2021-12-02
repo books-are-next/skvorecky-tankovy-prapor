@@ -348,7 +348,7 @@ Za deset minut stál v uličce pouze plně oblečený vojín Poslušný a tete
 
   
 
-Za rohem narazil na rotného z povolání Šemančáka, jemuž se říkalo Peňáz. Byl to, jak jméno naznačuje, dieslák[3](#footnote-10775-3) lačný peněz, výhod, požitků, zahálky a čestných odznaků, zvyšujících možnost dosáhnout volna, výhod, požitků a zahálky, národnosti slovenské. Ani nevěděl proč, snad pod nátlakem skepse nebo šibeničního humoru, na něj zavolal:
+Za rohem narazil na rotného z povolání Šemančáka, jemuž se říkalo Peňáz. Byl to, jak jméno naznačuje, dieslák[^3] lačný peněz, výhod, požitků, zahálky a čestných odznaků, zvyšujících možnost dosáhnout volna, výhod, požitků a zahálky, národnosti slovenské. Ani nevěděl proč, snad pod nátlakem skepse nebo šibeničního humoru, na něj zavolal:
 
 „Hej! Soudruhu rotný! Pojďte si složit ef ó!“
 
@@ -438,7 +438,7 @@ Za čtvrt hodiny nato tísnil se už útvar v síle asi třiceti mužů co nejd
 
   
 
-Poručík Prouza hleděl mlčky na ten zvláštní projev ostychu a jeho daimonion[4](#footnote-10775-4) mu našeptávalo: Je třeba přemoci nedůvěru, kterou k vám soudruzi někdy cítí. Mnohdy se vojáci i stydí přiznat se k zájmu o literaturu, protože se obávají posměchu ostatních. Je třeba vhodným jednáním získat si jejich důvěru. Vstal, rozhodnut, že si je získá.
+Poručík Prouza hleděl mlčky na ten zvláštní projev ostychu a jeho daimonion[^4] mu našeptávalo: Je třeba přemoci nedůvěru, kterou k vám soudruzi někdy cítí. Mnohdy se vojáci i stydí přiznat se k zájmu o literaturu, protože se obávají posměchu ostatních. Je třeba vhodným jednáním získat si jejich důvěru. Vstal, rozhodnut, že si je získá.
 
 „Tak jen dopředu, soudruzi,“ řekl vesele. „Místa je tu dost, já vás nesním.“
 
@@ -1318,6 +1318,6 @@ Ležel vedle ní, ležel s ní a za oknem vylétávaly zlaté střely a zasah
 
 „Tanky! Tanky! Ty pitomej, drzej, sladkej kluku! Ty pitomý, blbý tanky!“
 
-[3](#footnote-10775-3-backlink) Poddůstojník, který si dobrovolně prodloužil základní vojenskou službu. Pozn. red.
+[^3]: Poddůstojník, který si dobrovolně prodloužil základní vojenskou službu. Pozn. red.
 
-[4](#footnote-10775-4-backlink) Vnitřní hlas. Pozn. red.
+[^4]: Vnitřní hlas. Pozn. red.

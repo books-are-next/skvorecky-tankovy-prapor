@@ -92,7 +92,7 @@ Poodešel, aby se podíval po větvích k maskování. V blízkém křoví ulo
 
 „Nekecej a neblbni. Já to mám za pár a nechci přijít do průseru,“ řekl přísně rotný, vylezl na předprseň a protáhl se řidičským otvorem dovnitř. Dal jsem mu rozkaz, říkal si v duchu. Jestli ho nesplní, je to jeho věc. Vyřešil jsem situaci přesně podle řádů, vojenským způsobem. Podle vzoru soudruha velitele.
 
-Provlekl se opatrně příklopem a dosedl na řidičskou sedačku. Vzadu na jaščíkách[1](#footnote-10775-1) chrápal četař Žloudek. Rotný nahmatal zajišťovací šroub příklopu, odjistil ho a příklop zavřel do bojové polohy. Otevřel však průzory, aby viděl, kdyby snad někomu napadlo přijít, sebral z vedlejší sedačky Střevlíčkovu kuklu, nasadil si ji na hlavu místo polštáře a opřel se pohodlně vlevo o držáky ručních granátů a výpustný kohout zavzdušňovacího potrubí.
+Provlekl se opatrně příklopem a dosedl na řidičskou sedačku. Vzadu na jaščíkách[^1] chrápal četař Žloudek. Rotný nahmatal zajišťovací šroub příklopu, odjistil ho a příklop zavřel do bojové polohy. Otevřel však průzory, aby viděl, kdyby snad někomu napadlo přijít, sebral z vedlejší sedačky Střevlíčkovu kuklu, nasadil si ji na hlavu místo polštáře a opřel se pohodlně vlevo o držáky ručních granátů a výpustný kohout zavzdušňovacího potrubí.
 
 Průzorem zářila dovnitř jasná hvězda a v tanku bylo cítit naftu a olej. Zvenčí slabě zaznívaly údery krumpáčů od vedlejších vozidel. Tam se ještě pracuje. Rotný si dal ruce do podpaží, aby si je zahřál, a zadíval se na hvězdu. Zasnil se. Ihned se ho zmocnila dřímota a v příjemných mrákotách ho ještě napadlo, že by si měl honem dát udělat u fotografa v Okrouhlici snímek. Fotograf má vlastní kuklu k dispozici. Lizetce by se fotka s kuklou snad líbila. Měla by z ní asi legraci. Ale bude si muset pospíšit, protože –. Z věže zazněl nabíječův hlas: „Už se na to vyser, vole!“, po železném stropě zaklapaly podkůvky, cinkly o pancíř a zapraskalo síťoví žaluzií nad motorem. Jdou spát, pomyslel si rotný v polospánku. Ale já jsem jim dal rozkaz a já spím. Pocítil nepříjemný tlak v kříži, kam se mu svezla pistole. Přetáhl si ji na břicho. A kdyby byla válka, nemohli by teď asi vůbec spát, protože by měli v kalhotech. Dovedl si ten strach představit. Strach tankových osádek, kterým vojenští statistici vypočetli, že jejich životnost v boji jsou čtyři minuty. Ale snad válka nebude. Možná že jo, možná že ne.
 
@@ -618,7 +618,7 @@ Rotnému podřízená, intelektuálně prostší osádka se však nespokojila sa
 
 Odmlčel se, na chvíli uspokojen dosavadní úrovní svého velitelského vystupování. Černé oči upřel na Okrouhlický vrch. Někdo tam právě zvedl ceduli s nápisem BAZOOKA do bojového postavení. Ranním tichem dolehl do údolí slabounký hlásek, prcající kohosi v nepřátelských liniích: „Já vám proženu šunky!“ Za co, se nedozvěděli, protože mezi stromy zasyčela raketa a vylétla k rozednívajícímu se nebi, červená, nafialovělá a hezká.
 
-„Řidič vpřed!“ zařval rotný a přitiskl si laryngofony[2](#footnote-10775-2) ke krku. Zabručel elektrický startér, Střevlíček několikrát přidal a ubral plyn, zaznělo to jako krvelačné zařvání nosorožce, chystajícího se rozdupat obtížného turistu. Potom řidič zařadil zpáteční rychlost a tank se pomalu zvedl zadkem z okopu.
+„Řidič vpřed!“ zařval rotný a přitiskl si laryngofony[^2] ke krku. Zabručel elektrický startér, Střevlíček několikrát přidal a ubral plyn, zaznělo to jako krvelačné zařvání nosorožce, chystajícího se rozdupat obtížného turistu. Potom řidič zařadil zpáteční rychlost a tank se pomalu zvedl zadkem z okopu.
 
 Zadním průzorem spatřil rotný rozkročené rajtky. Vycouvali z okopu, a zatímco Střevlíček přeřazoval, objel rotný periskopem stráň Okrouhlického vrchu. Vpravo se vyřítil z křoví jiný tank a hasil si to rychle do kopce.
 
@@ -814,6 +814,6 @@ Když skončil, přemožen vichřicí, jež zdvihla mohutné sloupy prachu z ta
 
 „Ten si zas nasral do krku, až mu hovna tečou po bradě!“
 
-[1](#footnote-10775-1-backlink) Boxy, např. na náboje. Pozn. red.
+[^1]: Boxy, např. na náboje. Pozn. red.
 
-[2](#footnote-10775-2-backlink) Hrdelní mikrofony, u nichž se hlas nepřenáší ústy, ale přitisknutím k hrdlu. Pozn. red.
+[^2]: Hrdelní mikrofony, u nichž se hlas nepřenáší ústy, ale přitisknutím k hrdlu. Pozn. red.
