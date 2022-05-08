@@ -1,5 +1,6 @@
 ---
 title: "Provedení zkoušek FO u\_Sedmého tankového praporu"
+contentType: prose
 ---
 
 K několika málo radostem rotného patřilo čištění bot. Seděl na kufru u kavalce a bleskurychlými tahy kartáče prohluboval téměř už zrcadlový lesk černé kůže. Mezi všelijakými věcmi, shromážděnými na světnici první roty Sedmého tankového praporu – a byly tam svlečené košile s kruhy potu v podpaží, kombinézy smrdící olejem, mastné papíry od balíčků s buchtami z domova, špinavé ručníky, potřísněné z ran po nejlacinějším druhu čepelek, který se prodával v Zátiší, a silně zablácená bagančata –, představovaly ty boty hezkou věc, jakýsi estetický záchytný bod v prostoru, naplněném jinak vojenskými řády a jejich šedivou perspektivou. Cídil je s chutí, neboť ze všech možností, které skýtal čas vyměřený kulturně masové činnosti (procházka večerní nudou vojenského výcvikového tábora Kobylec, psaní tisícího dopisu Lizetce nebo sovětský film v posádkovém kině), bylo zdokonalování té součásti strůje něčím podstatně blízkým činnosti jogínů, uklidňujících se pozorováním vlastního pupku.

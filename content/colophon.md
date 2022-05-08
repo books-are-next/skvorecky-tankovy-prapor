@@ -4,6 +4,15 @@ title: Tiráž
 
 ***
 
+Tankový prapor
+
+Fragment z doby kultů
+
+Josef Škvorecký
+
+
+***
+
 Znění tohoto textu vychází z díla [Tankový prapor](https://search.mlp.cz/cz/titul/tankovy-prapor/3576436/) tak, jak bylo vydáno nakladatelstvím Plus ve společnosti Albatros Media a. s. v Praze v roce 2011. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 §

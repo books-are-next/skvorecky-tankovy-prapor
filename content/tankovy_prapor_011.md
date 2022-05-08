@@ -1,5 +1,6 @@
 ---
 title: Divizní kolo Armádní soutěže tvořivosti
+contentType: prose
 ---
 
 Galerie tváří byla bohatá. Hlasy zněly jistě a zkušeně, nebo zas kuňkaly a zajíkaly se, zupáckým chrapotem hlásaly verše do zakouřeného sálu, nebo je skoro nebylo slyšet a ztrácely se ve vrzání židlí.

@@ -1,5 +1,6 @@
 ---
 title: "Podzimní prověrka bojové a\_politické připravenosti"
+contentType: prose
 ---
 
 Před následky služby v base zachránil však rotného pitomý nápad generálního štábu vojsk: z hlavního stanu oznámili, že na podzimní prověrku bojové a politické přípravy Osmé tankové divize přijedou prověřující důstojníci o čtrnáct dní dřív, než bylo původně stanoveno. Tím ovšem generálové rušivě zasáhli do průběhu filmování, které zatím u divize probíhalo dosti poklidně, a způsobili mimo jiné, že Malinkatý ďábel na noční událost v posádkovém vězení v rozčilení zapomněl.

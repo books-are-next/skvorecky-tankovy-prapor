@@ -1,5 +1,6 @@
 ---
 title: "Noc v\_posádkovém vězení"
+contentType: prose
 ---
 
 Vojín Bamza procházel chodbou posádkového vězení, chřestil svazkem klíčů, po pořádku bušil na dveře cel a volal:
