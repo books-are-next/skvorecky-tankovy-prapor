@@ -1,5 +1,6 @@
 ---
 title: Vůně civilu
+contentType: prose
 ---
 
 Mlčenlivého bratrance vzbudil den nato v loži teoreticky věrné manželky Ludmily Neumannové-Hertlové hlasitý rámus. Na chodbě zdravil jevištní mistr nový den výkřikem „Svině komunistický!“, ale přítomnost muže – jehož podle všech známek musel pokládat za milence své vdané dcery – v Ludmilině ložnici mu jako vždycky nevadila. Rotný však nikdy nebyl marxistou natolik, aby se mu svět jevil jako přehledná skládačka, snadno postižitelná objevenými nebo vbrzku bez velké námahy objevitelnými zákony, a tak klidně vyslechl vzteklé prásknutí dveřmi, ohlašující mistrův odchod na pracoviště. Ludmila spala jako dítě, se zaťatými pěstmi, obličej soustředěný na ústa, jež v bdělém stavu vypadala smyslně, a nyní z nich byl našpulený orgán lidského savečka. Rotný vstal, oblékl se a jemně dívkou zatřásl.

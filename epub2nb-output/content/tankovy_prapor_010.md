@@ -1,5 +1,6 @@
 ---
 title: "Lekce z\_katolického náboženství"
+contentType: prose
 ---
 
 Po službě se rotný u velitele nehlásil. Táhlo ho to do Prahy, neboť na to poukazovala konstelace okolností: nadporučík Pinkas trávil (toho roku už třetí) víkend v kruhu rodinném, naproti tomu z vojenského tisku se dočetl, že v divizním kině n-té divize je dnes slavnostní večer na počest vítězů soutěže tvořivosti. Bylo tedy jasné, že vítěz této soutěže v oboru poezie nebude ten večer na propustce ani načerno u své manželky. A rotný, přes novou a zcela jinou poezii svítících střel, hvězd nad tankodromem a ložnice, odkud je na ně z okna vidět, nehodlal propást takovou příležitost k novému pokusu o manželskou věrnost té zvláštní dámy.

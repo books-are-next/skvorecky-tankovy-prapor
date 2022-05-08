@@ -1,5 +1,6 @@
 ---
 title: Bakchanálie
+contentType: prose
 ---
 
 _Obrana lidu začala_ uveřejňovat úvodníky určené politickým pracovníkům a nadepsané _Za správné zhodnocení práce politických pracovníků_ či _Za morálně politickou pomoc vojínům a poddůstojníkům odcházejícím mimo činnou službu_ nebo konečně _Za získání záložníků za zemědělce_. Uvnitř tohoto oblíbeného listu objevovaly se články, v nichž vojíni n-tého útvaru nebo útvaru, kde je politickým pracovníkem poručík Jahoda, dojatě opěvovali ony dva krásné roky, strávené v chlapském kamarádství v naší lidově demokratické armádě, aby naši milí doma mohli klidně spát, teď ve chvíli, kdy se vracíme k plnění svých budovatelských úkolů a ke svým milým doma a na naše místo přicházejí jiní, mladší soudruzi. Ozval se i jakýsi lemoun, který ještě vojenskou službu nemohl ani nastoupit, protože čas rukování dosud nenadešel, ale který se už předem pokoušel udělat si oko a ujišťoval starší soudruhy, odcházející do plnění budovatelských úkolů, že uchopí jejich zbraň, aby mohli svoje budovatelské úkoly plnit v klidu, kdyby se nepřítel pokusil rušit klid naší krásné vlasti. Vojíni a poddůstojníci různých zbraní se slzavě loučili se svými puškami, tanky, děly, minomety, ženijním náčiním a jedovatými plyny v článcích tak přetékajících citem, že to svobodníka dr. Mlejnka pohnulo k podvrhu _Za prodloužení milované služby vlasti_, v němž se přimlouval za znovuzavedení tereziánské prezenční doby a který do redakce poslal pod pseudonymem vojína Pravomila Poslušného. Úvodník nevyšel, jenom vojín toho jména byl předvolán na OBZ a později, po propuštění do civilu, na sedm let uvězněn pro urážku lidově demokratického zřízení.
@@ -65,7 +66,7 @@ jehož zhoubnou magii se básník naposled pokusil neutralizovat zoufalým zvol�
 
   
 
-Pro šťastný život dáme i svou krev!
+_Pro šťastný život dáme i svou krev!_
 
 Odhodlání však vyznělo naprázdno; mužský sbor za oknem, s korunou vysokých fistulek, udělal za ním vítěznou tečku:
 

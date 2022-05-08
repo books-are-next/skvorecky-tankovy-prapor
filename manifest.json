@@ -1,16 +1,16 @@
 {
   "author": "Josef Škvorecký",
   "edition": "beletrie",
-  "identifier": "skvorecky-tankovy-prapor-c7e9144",
+  "identifier": "skvorecky-tankovy-prapor-94d05cf",
   "languagecode": "cs",
   "modified": "2021-09-21T13:51:38.810Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Tankový prapor",
-  "revision": "c7e9144",
+  "revision": "94d05cf",
   "generatedAt": {
-    "date": "Thu Dec 02 2021 09:58:28 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638439108602
+    "date": "Sun May 08 2022 14:27:54 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652020074984
   },
   "documents": [
     {
@@ -22,26 +22,6 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "tankovy_prapor_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Tankový prapor",
-      "file": "tankovy_prapor_003.html",
-      "words": 8,
-      "chars": 50,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 1,
-      "prev": "tankovy_prapor_002.html",
       "next": "tankovy_prapor_005.html",
       "toc": [
         {
@@ -60,8 +40,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 2,
-      "prev": "tankovy_prapor_003.html",
+      "order": 1,
+      "prev": "tankovy_prapor_002.html",
       "next": "tankovy_prapor_006.html",
       "toc": [
         {
@@ -80,7 +60,7 @@
       "chars": 414,
       "ideas": 2,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "tankovy_prapor_005.html",
       "next": "tankovy_prapor_007.html",
       "toc": [
@@ -100,7 +80,7 @@
       "chars": 69209,
       "ideas": 390,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "tankovy_prapor_006.html",
       "next": "tankovy_prapor_008.html",
       "toc": [
@@ -120,7 +100,7 @@
       "chars": 110548,
       "ideas": 644,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "tankovy_prapor_007.html",
       "next": "tankovy_prapor_009.html",
       "toc": [
@@ -140,7 +120,7 @@
       "chars": 35336,
       "ideas": 287,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "tankovy_prapor_008.html",
       "next": "tankovy_prapor_010.html",
       "toc": [
@@ -160,7 +140,7 @@
       "chars": 20779,
       "ideas": 167,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "tankovy_prapor_009.html",
       "next": "tankovy_prapor_011.html",
       "toc": [
@@ -180,7 +160,7 @@
       "chars": 35833,
       "ideas": 162,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "tankovy_prapor_010.html",
       "next": "tankovy_prapor_012.html",
       "toc": [
@@ -200,7 +180,7 @@
       "chars": 16402,
       "ideas": 41,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "tankovy_prapor_011.html",
       "next": "tankovy_prapor_013.html",
       "toc": [
@@ -220,7 +200,7 @@
       "chars": 43081,
       "ideas": 160,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "tankovy_prapor_012.html",
       "next": "tankovy_prapor_014.html",
       "toc": [
@@ -240,7 +220,7 @@
       "chars": 28603,
       "ideas": 133,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "tankovy_prapor_013.html",
       "next": "tankovy_prapor_015.html",
       "toc": [
@@ -260,7 +240,7 @@
       "chars": 50762,
       "ideas": 295,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "tankovy_prapor_014.html",
       "next": "tankovy_prapor_016.html",
       "toc": [
@@ -280,7 +260,7 @@
       "chars": 121,
       "ideas": 6,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "tankovy_prapor_015.html",
       "next": "tankovy_prapor_017.html",
       "toc": [
@@ -300,7 +280,7 @@
       "chars": 4707,
       "ideas": 10,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "tankovy_prapor_016.html",
       "next": "colophon.html",
       "toc": [
@@ -316,9 +296,9 @@
     {
       "title": "Tiráž • Tankový prapor",
       "file": "colophon.html",
-      "words": 144,
-      "chars": 933,
-      "ideas": 20,
+      "words": 152,
+      "chars": 983,
+      "ideas": 23,
       "role": "colophon",
       "order": null,
       "prev": "tankovy_prapor_017.html",
@@ -341,9 +321,9 @@
       "ideas": 2324
     },
     "chapters": {
-      "words": 65539,
-      "chars": 415845,
-      "ideas": 2300
+      "words": 65531,
+      "chars": 415795,
+      "ideas": 2297
     }
   }
 }

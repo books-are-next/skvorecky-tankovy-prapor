@@ -1,5 +1,6 @@
 ---
 title: Kulturně masový večírek na rozloučenou
+contentType: prose
 ---
 
 Den před večerem, kdy měl Sedmý tankový prapor pořádat večírek na rozloučenou, vyvinuli oba političtí horlivou činnost. Dozvěděli se totiž, že tuto původně domácí slavnost poctí svou přítomností majoři Borovička a Sádlo, takže celá záležitost nabyla pro ně poněkud rázu existenční zkoušky. Večírek, jímž se vojáci loučí s dvěma (a půl) lety základní vojenské služby, měl prokázat, čemu je vojna naučila po stránce mravně ideové, a představa, kterou o podobných podnicích rozšiřovaly příručky pro politické pracovníky, byla teoreticky zcela přesná. Byla to vize o manifestaci politického uvědomění a horoucího vlastenectví vojáků, kteří strávili dva (a půl) roku v neustávajícím a ukázněném poklusu, postoji pozor, pohybu pořadovým krokem, disciplinovaném mlčení a ještě disciplinovanějším odříkávání řádů. Vojensko-masové písně, vojenské a lidové tance, recitace a umělecký přednes, maňásky i výstupy lidových vyprávěčů a kouzelníků měly se vystřídat v pestrém a bohatém programu lidové tvořivosti; na něm teď oba politruci opožděně, ale pilně počali pracovat.
@@ -546,4 +547,4 @@ Přístroj klidně pracoval, najednou v něm však cosi zakloktalo a píst pum
 
 Kuchař mu přiskočil na pomoc a spojenými silami vytáhli těžkou hadici ven. V sacím otvoru vězel nějaký černý předmět. Když jej vyňali, zjistili, že je to vycházková důstojnická holínka nezvykle malých rozměrů.
 
-Praha, jaro – zima 1954
+_Praha, jaro – zima 1954_

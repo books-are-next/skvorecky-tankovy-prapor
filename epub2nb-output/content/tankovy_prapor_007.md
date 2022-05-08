@@ -1,5 +1,6 @@
 ---
 title: "Sedmý tankový prapor v\_útoku na spěšně vybudovanou obranu nepřítele"
+contentType: prose
 ---
 
 Ve 23.47, tedy přesně o 17 minut později, nežli stálo v plánkonspektu, vykonal kapitán tank. Václav Matka kontrolu rozmístění bojových vozidel ve východišti k útoku a postál asi pět minut u tanku, jemuž velel četař Krajta, aby se podíval na zahájení okopových prací. Měsíc, napůl skrytý podzimními mráčky, zaléval přízračným světlem pětičlennou skupinu, bušící otupenými krumpáči do kamenité země, a tank, který se tyčil v pozadí a zdvihal ocelový nos k světélkujícímu nebi, vypadal, jako by zasněně hleděl někam naproti na stráň Okrouhlického vrchu, rozrytou stopami mnoha útoků.

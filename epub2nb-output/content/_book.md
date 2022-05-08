@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Tankový prapor
@@ -13,7 +14,6 @@ meta:
   edition: beletrie
 readingOrder:
   - tankovy_prapor_002.html
-  - tankovy_prapor_003.html
   - tankovy_prapor_005.html
   - tankovy_prapor_006.html
   - tankovy_prapor_007.html
@@ -29,6 +29,12 @@ readingOrder:
   - tankovy_prapor_017.html
   - colophon.html
 tocBase:
+  - link: tankovy_prapor_005.html
+    title: Věnování
+    hiddenTitle: true
+  - link: tankovy_prapor_006.html
+    title: Slovo autora
+    hiddenTitle: true
   - link: tankovy_prapor_007.html
     title: Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele
   - link: tankovy_prapor_008.html
@@ -47,6 +53,9 @@ tocBase:
     title: Bakchanálie
   - link: tankovy_prapor_015.html
     title: Kulturně masový večírek na rozloučenou
+  - link: tankovy_prapor_016.html
+    title: Poděkování
+    hiddenTitle: true
   - link: tankovy_prapor_017.html
     title: Autorova poznámka
 static:
