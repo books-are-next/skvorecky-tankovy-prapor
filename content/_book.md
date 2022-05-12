@@ -13,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - tankovy_prapor_002.html
+  - promo.html
   - tankovy_prapor_005.html
   - tankovy_prapor_006.html
   - tankovy_prapor_007.html
