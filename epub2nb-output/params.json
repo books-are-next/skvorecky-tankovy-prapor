@@ -45,7 +45,7 @@
         "filename": "tankovy_prapor_002.md",
         "xhtml": "tankovy_prapor_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "promo",
         "inToc": false,
         "title": "",
         "subtitle": "",
@@ -446,6 +446,6 @@
       "user": "books-are-next",
       "repo": "skvorecky-tankovy-prapor"
     },
-    "generatedAt": 1652020027407
+    "generatedAt": 1652351680498
   }
 }

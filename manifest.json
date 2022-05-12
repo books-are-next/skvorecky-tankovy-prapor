@@ -1,21 +1,40 @@
 {
-  "author": "Josef Škvorecký",
-  "edition": "beletrie",
-  "identifier": "skvorecky-tankovy-prapor-94d05cf",
-  "languagecode": "cs",
-  "modified": "2021-09-21T13:51:38.810Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Tankový prapor",
-  "revision": "94d05cf",
+  "author": "Josef Škvorecký",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "skvorecky-tankovy-prapor-5941355",
+  "revision": "5941355",
+  "readingOrder": [
+    "promo.html",
+    "tankovy_prapor_005.html",
+    "tankovy_prapor_006.html",
+    "tankovy_prapor_007.html",
+    "tankovy_prapor_008.html",
+    "tankovy_prapor_009.html",
+    "tankovy_prapor_010.html",
+    "tankovy_prapor_011.html",
+    "tankovy_prapor_012.html",
+    "tankovy_prapor_013.html",
+    "tankovy_prapor_014.html",
+    "tankovy_prapor_015.html",
+    "tankovy_prapor_016.html",
+    "tankovy_prapor_017.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun May 08 2022 14:27:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652020074984
+    "date": "Thu May 12 2022 10:44:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352272024
   },
   "documents": [
     {
-      "title": "Tankový prapor",
-      "file": "tankovy_prapor_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +42,7 @@
       "order": 0,
       "prev": null,
       "next": "tankovy_prapor_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Tankový prapor",
@@ -41,7 +52,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "tankovy_prapor_002.html",
+      "prev": "promo.html",
       "next": "tankovy_prapor_006.html",
       "toc": [
         {
@@ -74,7 +85,7 @@
       ]
     },
     {
-      "title": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele • Tankový prapor",
+      "title": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele",
       "file": "tankovy_prapor_007.html",
       "words": 10892,
       "chars": 69209,
@@ -94,7 +105,7 @@
       ]
     },
     {
-      "title": "Provedení zkoušek FO u Sedmého tankového praporu • Tankový prapor",
+      "title": "Provedení zkoušek FO u Sedmého tankového praporu",
       "file": "tankovy_prapor_008.html",
       "words": 17839,
       "chars": 110548,
@@ -114,7 +125,7 @@
       ]
     },
     {
-      "title": "Noc v posádkovém vězení • Tankový prapor",
+      "title": "Noc v posádkovém vězení",
       "file": "tankovy_prapor_009.html",
       "words": 5588,
       "chars": 35336,
@@ -134,7 +145,7 @@
       ]
     },
     {
-      "title": "Lekce z katolického náboženství • Tankový prapor",
+      "title": "Lekce z katolického náboženství",
       "file": "tankovy_prapor_010.html",
       "words": 3459,
       "chars": 20779,
@@ -154,7 +165,7 @@
       ]
     },
     {
-      "title": "Divizní kolo Armádní soutěže tvořivosti • Tankový prapor",
+      "title": "Divizní kolo Armádní soutěže tvořivosti",
       "file": "tankovy_prapor_011.html",
       "words": 5654,
       "chars": 35833,
@@ -174,7 +185,7 @@
       ]
     },
     {
-      "title": "Vůně civilu • Tankový prapor",
+      "title": "Vůně civilu",
       "file": "tankovy_prapor_012.html",
       "words": 2546,
       "chars": 16402,
@@ -194,7 +205,7 @@
       ]
     },
     {
-      "title": "Podzimní prověrka bojové a politické připravenosti • Tankový prapor",
+      "title": "Podzimní prověrka bojové a politické připravenosti",
       "file": "tankovy_prapor_013.html",
       "words": 6513,
       "chars": 43081,
@@ -214,7 +225,7 @@
       ]
     },
     {
-      "title": "Bakchanálie • Tankový prapor",
+      "title": "Bakchanálie",
       "file": "tankovy_prapor_014.html",
       "words": 4450,
       "chars": 28603,
@@ -234,7 +245,7 @@
       ]
     },
     {
-      "title": "Kulturně masový večírek na rozloučenou • Tankový prapor",
+      "title": "Kulturně masový večírek na rozloučenou",
       "file": "tankovy_prapor_015.html",
       "words": 7799,
       "chars": 50762,
@@ -274,7 +285,7 @@
       ]
     },
     {
-      "title": "Autorova poznámka • Tankový prapor",
+      "title": "Autorova poznámka",
       "file": "tankovy_prapor_017.html",
       "words": 712,
       "chars": 4707,
@@ -294,11 +305,11 @@
       ]
     },
     {
-      "title": "Tiráž • Tankový prapor",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 152,
-      "chars": 983,
-      "ideas": 23,
+      "words": 125,
+      "chars": 810,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "tankovy_prapor_017.html",
@@ -316,9 +327,9 @@
   ],
   "totals": {
     "all": {
-      "words": 65689,
-      "chars": 416818,
-      "ideas": 2324
+      "words": 65662,
+      "chars": 416645,
+      "ideas": 2316
     },
     "chapters": {
       "words": 65531,
