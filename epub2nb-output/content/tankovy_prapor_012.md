@@ -5,8 +5,6 @@ contentType: prose
 
 Mlčenlivého bratrance vzbudil den nato v loži teoreticky věrné manželky Ludmily Neumannové-Hertlové hlasitý rámus. Na chodbě zdravil jevištní mistr nový den výkřikem „Svině komunistický!“, ale přítomnost muže – jehož podle všech známek musel pokládat za milence své vdané dcery – v Ludmilině ložnici mu jako vždycky nevadila. Rotný však nikdy nebyl marxistou natolik, aby se mu svět jevil jako přehledná skládačka, snadno postižitelná objevenými nebo vbrzku bez velké námahy objevitelnými zákony, a tak klidně vyslechl vzteklé prásknutí dveřmi, ohlašující mistrův odchod na pracoviště. Ludmila spala jako dítě, se zaťatými pěstmi, obličej soustředěný na ústa, jež v bdělém stavu vypadala smyslně, a nyní z nich byl našpulený orgán lidského savečka. Rotný vstal, oblékl se a jemně dívkou zatřásl.
 
-  
-
 S námahou pootevřela jedno oko.
 
 „Lízo, kdy tě uvidím?“ zeptal se.
@@ -34,8 +32,6 @@ Konečně se chlápek v koverkotu lekl hodin, vstal a prohlásil, že je nejvy
 * * *
 
 Sotva se Lexina s chlápkem v koverkotu vytratili, zvonil telefon. Poprvé, co tu rotný seděl. Králová jej zvedla a pravila vyčerpaně úředním hlasem: „Králová, pékáer.“ Hned nato vyvalila oči, zamrkala na Ludmilu, přikryla dlaní mikrofon a hlasitě zašeptala:
-
-  
 
 „Dvořák!“
 
@@ -67,8 +63,6 @@ Rotnému náhle došlo, že chlápek v koverkotu byl manžel jeho podnikavé se
 
 Jen zmizela mezi dveřmi, pravila Lizeta s gustem:
 
-  
-
 „Kráva! Je to ale svině, co? Tady je samý rititititi a sladká jako med, a na káenvé mi podráží nohy, jak může.“
 
 „Prosimtě proč?“ podivil se rotný.
@@ -81,15 +75,11 @@ Ten pocit měl rotný taky. Rozloučil se s Lízou (musela si jít někam něco
 
 Do divadla přišel po začátku, a teprve když už seděl vzadu v polo­prázdném sále, zjistil, že Aleninu roli v jakémsi ruském problémovém kuse hraje alternace. Neměl však kam jít, proto zůstal. Byla to veršovaná hra ze současnosti a řešila nějaké obvyklé otázky obvyklým tepáním nešvarů a nedostatků sovětského života. Po jevišti se pohyboval, a většinou seděl, nějaký mladý, úspěšný, velmi nadaný a hezký agronom, zvyklý sklízet ovoce snadného triumfu, nesmírně samolibý, sebejistý a ješitný. Spolu s ním tu postávala, posedávala a pohybovala se mladá lékařka z Moskvy – děj se odehrával kdesi na Urale nebo na Sibiři –, naopak zase velmi energická, kritická, skromná, sovětská a komsomolská. Rotný se bavil uvažováním, která z těch dvou postav je nesympatičtější, protože bavit se jejich problémy bylo mimo okruh jeho, a snad vůbec lidských schopností. Oběma prominentům přihrával obvyklý rozšafný sovětský stařík odvařený ze Šolochova, k němuž se lékařka s neurvalou něžností stále lísala a který vtipnými poznámkami přiváděl pomalu agronoma, zprvu nechápajícího, k poznání cesty pravé. Alenina alternace vystupovala v roli agronomovy přítelkyně, již ulovil za studií v Moskvě, herečky na dovolené, která přijela za svým bývalým milým do uralského (nebo sibiřského) zemského ráje, aby ho s sebou odvlekla do jakéhosi teplého místečka v Moskvě. Tato osoba byla zosobněním jiných, tentokráte ženských charakterových vad, jako povrchnosti, poklonkování před západní módou (chodila v elegantním kostýmu, kdežto lékařka se pohybovala buď v bílém plášti, nebo v šatech pošitých různými mašličkami a jinými ozdůbkami), žárlivosti a ženské nenávisti a dalších. Autorovi hry, konstatoval článek v programu, se podařilo vyhmátnout a zesměšnit některé rysy, přežívající ještě ve vědomí sovětského člověka, a po zásluze je odsoudit. Herečka, pokořena a polepšena, odjela lépe tvořit do Moskvy, agronom, ponížen a polepšen, zůstal heroický na Sibiři (nebo na Urale, nebylo to ze hry jasné a také nebylo jasné, proč je k pobytu v těchto uralských oblastech třeba heroismu) a dostali se za sebe s vítěznou, avšak skromnou doktorkou s mašličkama, k čemuž stařík utrousil celou náruč zrnek ruské lidové moudrosti. Moudrost se v závěru hry intenzivně vystupňovala.
 
-  
-
 Přiotrávené obecenstvo ospale vstalo a rychle se tlačilo k šatnám. Dvě babičky musela vzbudit uváděčka. Rotný se probudil klapáním sedadel a vyšel do teplé noci jako náměsíčník.
 
 * * *
 
 Na soukromé studijní představení amerického filmu _Krvavá rokle_, které se konalo pro soudruha ministra a úzký kroužek filmových specialistů a jimi uvedených hostů, přišli včas. Dovnitř je vpustil pán v (nezvykle, v té době svetrů) dokonale ušitém saku a pozdravil se s Lízou důvěrným „Rukulíbám, soudružko!“. Líza nepatřila sice mezi filmové specialisty a uvedeným hostem byl rotný pochybného původu, zato však náležela k intimnímu kroužku ministrových přítelkyň. Promítačka byla v miniaturním rokokovém salonku barokního Gelenjského paláce, pečlivě renovovaném, zářícím zlatem a potaženém růžovými tapetami; v stříbrných svícnech tam oranžově plály přidušené žárovky, a sotva Líza s rotným dosedli do béžových a růžových křesel, světla zhasla a na plátně se objevily titulky.
-
-  
 
 Obvykle si ministr dával předvádět revuální operetky, neboť byl silně zatížen na mladé ženské, ale pro zvýšení požitku si občas dával půst a prokládal je novými westerny. To se stalo i dnes. Na plátně zazářil barevný lev a ověnčen heslem ARS GRATIA ARTIS zařval svou pradávnou výzvu k zábavě; obecenstvo však sem přišlo studovat a bylo vážné. V tu dobu odcházeli z biografů pražského centra poslední návštěvníci obou premiér týdne (z nichž jedna, _Mičurin_, byla sovětským životopisným filmem o Mičurinovi, a druhá, _Velká tavba_, českým filmem o tavbě), vzrušeni pomyšlením, že se konečně dostanou do postele. Filmoví specialisté museli však ještě dlouho do noci pracovat; ministr měl četné povinnosti, a dříve přijít nemohl. Studijní snímek _Krvavá rokle_ byl o dostavníku, který ujíždí pustinou Skalistých hor a je přepaden lupičskou bandou indiánů. Zabýval se vztahy osob v dostavníku a indiány líčil jako zvířecí surové krvežíznivce. Po ideové stránce se sice vyznačoval krajní reakčností, po stránce režijní však řadou dokonalých formálních nápadů. Po herecké stránce byl zajímavý ryzím naturalismem. Specialisté, včetně tvůrce filmu _Hrdinové mozolných dlaní_, laureáta státní ceny Evžena Kramosta, tyto prvky intenzivně studovali.
 

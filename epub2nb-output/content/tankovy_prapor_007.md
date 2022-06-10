@@ -5,8 +5,6 @@ contentType: prose
 
 Ve 23.47, tedy přesně o 17 minut později, nežli stálo v plánkonspektu, vykonal kapitán tank. Václav Matka kontrolu rozmístění bojových vozidel ve východišti k útoku a postál asi pět minut u tanku, jemuž velel četař Krajta, aby se podíval na zahájení okopových prací. Měsíc, napůl skrytý podzimními mráčky, zaléval přízračným světlem pětičlennou skupinu, bušící otupenými krumpáči do kamenité země, a tank, který se tyčil v pozadí a zdvihal ocelový nos k světélkujícímu nebi, vypadal, jako by zasněně hleděl někam naproti na stráň Okrouhlického vrchu, rozrytou stopami mnoha útoků.
 
-  
-
 Jakmile se kapitán obrátil a spolu se svým průvodem, upjatým do montgomeráků, zmizel v noční páře mezi roztroušenými stromy za tankem, pracovní úsilí skupinky se rychle zmírnilo. Kapitán sám, oděný neposkvrněnou kombinézou, na níž byly ještě patrné vymačkané hrany (následek dlouhého skladování v intendančním skladu), kráčel magickým příšeřím zářijové půlnoci k svému štábnímu vozu. Necítil nic z poezie této podivné předpůlnoční chvíle a podivné situace; přemýšlel, jaký byl blbec, když se před dvěma lety, kdy mu trochu hořela koudel ve Státní pojišťovně, dal nachytat na armádní výzvu, zanechal pohodlného postavení kádrováka a odešel do zvláštního desetiměsíčního kursu pro rychlovýrobu tankových specialistů se zajištěným brzkým povýšením. Tehdy neměl tušení o nějakých nočních cvičeních, která se konají týden co týden a za každého počasí. Ani o jiných podobných nepříjemnostech. Došel na cestu a posvítil si baterkou na plánkonspekt: „_23.00–04.00 osádky provedou okopové práce a zamaskování bojových vozidel, 04.30–04.50 pohotovost k vyražení k útoku, 04.50 zahájení dělostřelecké přípravy, 05.00 vyražení k útoku_.“ Může tedy do půl páté spát. Měl by ovšem chodit po osádkách a sledovat práci. Ale hovno. Zhasil lucerničku a odbočil z cesty ke křoví, kde stál zamaskovaný štábní vůz. Zastavil se u schůdků a obrátil se na svého průvodce.
 
 „Hospodin,“ oslovil výchovného náčelníka praporu. „Mrkni se na to a trochu jim zvedni mandle. Já du chrápat. Eště sem tenhle tejden ani jednu noc pořádně nespal, chlapi. V pondělí ta kulturní konference, v úterý stranická schůze do tří do rána, pak služba, ve středu velitelskej den – vzbuď mě ve čtyři, Hospodin.“
@@ -16,8 +14,6 @@ Jakmile se kapitán obrátil a spolu se svým průvodem, upjatým do montgomer�
 * * *
 
 „Co je?“ zabručel řidič ospale.
-
-  
 
 „Heleď,“ pravil poručík. „Běž pomoct rotnýmu Smiřickýmu, jsou tam jenom čtyři. A přijď mě ve tři čtvrti na čtyři vzbudit.“
 
@@ -109,8 +105,6 @@ Veliké a údajně spravedlivé ticho se rozhostilo kolem úpatí Okrouhlickéh
 
 A tak se stalo, že když se z ranní mlhy vynořil džíp s číslem štábu divize, naskytl se očím majora Borovičky, zvaného „Malinkatej ďábel“, poklidný a realistický obraz krajiny s tanky. Ležely jako přežraní kanci v mělkých jámách a ranní větřík si laškovně pohrával s chomáči trávy a sporými větvičkami, nastrkanými tu a tam za madly a kolem příklopů. Srdce nepatrného majora se zatetelilo radostí, neboť se mu zde naskýtala možnost dokonale se uplatnit. Vydal svému řidiči ostrý rozkaz, aby zastavil. Potom křepce vyskočil z džípu, a sekaje vojensky nožkama v naleštěných holínkách spěchal k dobře viditelnému štábnímu vozu.
 
-  
-
 Všude po úpatí Okrouhlického vrchu rozlévalo se příjemné ticho; nepřerušoval je ani zpěv ptáků, neboť ti většinou nevyčkali konce prezenční služby příslušníků Sedmého tankového praporu a neukázněné odletěli na jih. Major Borovička dorazil orosenou trávou k štábnímu vozu a s jistou námahou se vyšplhal na schůdky řidičské kabiny. Nahlédl dovnitř a tvář mu ozdobil radostný úsměv. Na sedadle spatřil poručíka Hospodina, zabaleného v erární dece, z níž mu vykukovaly jen nos a brada, obrostlá rašícími vousy. Maličký major chvíli balancoval na stupačce, potom spokojeně frkl a ohlédl se. Původně chtěl seskočit, ale když spatřil téměř metrovou propast pod sebou, rozhodl se pro mírnější postup. Ručkou se pevně přidržel držad­la na dveřích a na pravé noze udělal dřep, až švy těsných kalhotek nebezpečně zapraskaly. Marně však šmátral levou nohou po jistotě matičky země. Navíc mu pravá noha uklouzla, takže důstojník proti své vůli bolestně dosedl rozkrokem na stupačku a slabě zakvikl. Nějakou chvíli zůstal zamračeně v této pozici, potom se s velikou námahou opět vytáhl na stupačku a počal se opatrně otáčet, až stál zády k dvířkům. Pohybem, svědčícím o krajní promyšlenosti, svezl se zvolna do hloubky pod sebou a konečně zaťal zuby a seskočil. Dopadl na všechny čtyři a čepice se mu svezla do čela. Ihned však vstal, upravil si vojenský vzhled a s vítězně krvelačným úsměvem zamířil k schůdkům štábního vozu. Vystoupil po nich, otevřel dveře a vlezl dovnitř.
 
 Ve voze bylo zadýchané teplo, naplněné pachem ovčích kožichů, potu, cigaretového kouře a láhvového piva. V tom ozónu na kavalci mohutně oddychoval kapitán Matka. V noci si zřejmě udělal pohodlí. Na jednom konci lehátka trčely zpod kožichu zašpiněné ponožky, na druhém svítil kapitánův do brunátna opruzený obličej. Jedna holínka stála na zemi, druhá se válela po mapě na stolku pod zatemněným oknem.
@@ -183,8 +177,6 @@ Nadporučíci vyskákali z vozu. Kapitán vyšel kolébavým krokem za nimi, a�
 
 Osádka rotného Smiřického přijala kurýrovu zvěst s nedůvěrou.
 
-  
-
 „A co žrádlo?“ přivítal jitro útoku četař Žloudek, podíval se na hodinky a dodal: „Kurva, už je pět. To sme už měli bejt v prdeli.“
 
 Z řidičské sedačky se kolem něho vzhůru drápal rotný Smiřický. Posadil se k radiostanici a nervózně si natahoval kuklu. Žloudek ho sledoval s lehkým opovržením dubňáka.
@@ -241,8 +233,6 @@ Vtom doběhla k tanku spojka. „Dyž vám nepude spojení, máte dávat pozor 
 
 A měl pravdu. Malinkatý ďábel právě důstojníkům praporu systematicky vypočítával chyby a nedostatky, jichž se dopustili během dosavadního průběhu cvičení na závěr výcvikového roku. Těchto nedostatků bylo mnoho. Jak jim je tak zvolna přednášel, podivoval se Malinkatý ďáblík v duchu vlastní systematičnosti a znalostem, které si osvojil o tankovém boji. Připadal si před nimi jako starý frontový bojovník. Naplnila jej nesmírná rozkoš. Viděl, jak ho všichni nenávidí, ale jak jsou proti němu nepatrní. Byl bezpečný v krunýři, který mu poskytovala vojenská kázeň a subordinace. Oni musí stát a on je může sprdávat. Oni si mohou myslet, co chtějí, a on jim může říkat, co chce. Nikdy nebylo na světě nic dokonalejšího.
 
-  
-
 Rozkoš, jež ho takto naplňovala, když stál a prcal kapitány a nadporučíky, byla rozkoš kvalitativně vyšší, než bývala kdysi dávno, před válkou, rozkoš délesloužícího četaře Borovičky, sprdávajícího líná ucha v intendančním skladu. Dávno prošla hodina há, dávno se do věžiček tanků vyškrábali nejpevnější spáči a se zájmem pohlíželi ke skupince v lati, uprostřed níž si vykračoval prskající kohoutek. Vzbudili se dokonce i značkaři, rozmístění na vrcholku Okrouhlického kopce, a představitelé nepřátelských tanků, zalezlí dále v terénu směrem ke Kostelci, a podivovali se, proč útok ještě nezačal, anebo zda jej nezaspali. A major Borovička prcal a prcal. Zdálo se, že se uprcá. Jeden po druhém dostávali poručíci, nadporučíci, podporučíci a aspiríni svoje. Snaživý poručík Hezký měl pocit, že se hroutí svět. (Co všechno zanedbal, co všechno opominul!) Bojácný rotný aspirant Slíva se chvěl strachy, drzý staršina aspirant Dvořák měl co dělat, aby se nerozchechtal. Lhostejný poručík Grünlich s nelibostí uvažoval o neuspokojivém stavu svého kručícího žaludku a nenápadný poručík Šlajs starostlivě přemítal o neuspokojivém stavu okopů své roty. Technický nadporučík Kámen, jenž byl hulvát, si myslel: Polib už nám prdel, blboune!, zatímco proviantní poručík Tylš se v duchu modlil, aby si majorek nevzpomněl, že v půl páté měli přivézt snídani, a aby se nezeptal, kde s tou snídaní jsou, protože on to nevěděl.
 
 Konečně major Borovička doprcal a vyzval shromážděné, aby ho následovali. Hodina há, přesunutá na neurčito, slibovala pro nadcházející útok plné denní světlo a dobrou viditelnost na všechny chyby a omyly, jichž se vojáci Sedmého tankového praporu při té příležitosti ještě dopustí. Skupinka důstojníků vytvořila za majorkem ocas a dala se do pohybu. Ranním šerem třeskla salva kovových úderů, jak se zaklapovaly příklopy, jimiž se osádky tanků nedobytně izolovaly od světa, ve kterém momentálně zuřil Malinkatý ďábel.
@@ -250,8 +240,6 @@ Konečně major Borovička doprcal a vyzval shromážděné, aby ho následoval
 * * *
 
 Suita došla k prvnímu tanku. Stál v mělkém dolíku, kolem hliněná zahrádečka, jako když děti stavějí hráze po dešti, a sem tam chomáček trávy na pancíři.
-
-  
 
 „Čí je to vozidlo?“ zamečel majorek.
 
@@ -509,7 +497,11 @@ Po dobrácké tváři četaře Koblihy se rozlil dobrácký úsměv.
 
 Malinkatý ďábel chtěl původně něco namítnout – ačkoliv z hlediska praxe tohoto tisíckrát probojovaného bojiště se stěží dalo něco namítat –, ale zůstal té duševní námahy ušetřen; ke skupině totiž právě dorazil vojín s cedulí a pátravě se rozhlédl po shromáždění, hledaje nejvyšší šarži, jíž by se zahlásil. Jakmile si všiml nepatrného důstojníka, ihned se orientoval. Rázně předstoupil před majora, postavil ceduli na zem, přidržel si ji levou rukou a pravou zasalutoval. Oči všech přítomných spočinuly na ceduli, kde bylo červeně namalováno zlověstné heslo:
 
+  
+
 TŘI TANKY SHERMAN
+
+  
 
 „Soudruhu majore,“ zazpíval nepřítel. „Dovolte mi dotaz!“
 
@@ -527,7 +519,11 @@ TŘI TANKY SHERMAN
 
 Bylo mu to dovoleno. Provedl na změklé půdě ne zrovna úspěšně čelem vzad a vydal se na pochod k nepřátelským liniím. Jak se otočil, ukázalo se, že na zadní straně cedule je týmiž červenými písmeny namalováno:
 
+  
+
 ROTA TANKŮ KROMVEL
+
+  
 
 „Za mnou!“ rozkázal Malinkatý ďábel a vyrazil za další obětí.
 
@@ -536,8 +532,6 @@ Kdo si oddychl, byl poručík Šlajs, na něhož mezitím zapomněli.
 * * *
 
 Osádka tanku rotného Smiřického pozorovala blížící se hrozbu periskopy. U každého tanku v řadě se hlouček zastavoval a v zamazaném zorném poli periskopu se odehrávala stejná němohra: Malinkatý ďábel něco řval, tváře důstojníků se pozdvihly k věži, na věži se otevřel příklop a z něho více nebo méně seskočil velitel. Potom velitel v celé parádě, s kuklou na hlavě a s revolverem na zadku, stál v lati před majorem, byl na cosi tázán a poté za cosi prcán. Rotný, který ve velitelské věžičce otáčel zvolna periskopem, se v duchu utěšoval: konečně, můj tank není v nejhorším stavu a major prcá kdekoho. Tou masovostí ztrácí jeho prcání účinnost, přesně podle zákona o zmenšujícím se zisku. Začal si připadat skoro v bezpečí a zasnil se:
-
-  
 
 Vzpomněl si na dívky z Vyšší sociální, které mu u příležitosti odchodu do vojenské služby věnovaly láhev francouzského koňaku, protože je měl na politickou ekonomii. Všechny, zejména ty hezké, v politické ekonomii velmi dobře prospěly. Vzpomněl si na Věrušku, s kterou za těch blahých civilních dnů poněkud překračoval přísné školní řády v lese za rozhlednou. Skoro se znovu octl v Heroutovicích, kde kvetly třešně, dívky bydlely v internátě a on nad nimi z pověření dosti pošetilé ředitelky vykonával dozor při tanečních zábavách v restauraci Barrandov.
 
@@ -578,8 +572,6 @@ A aby byl na obě strany hezký, potvrdil rotný výrok svého řidiče slovy:
 * * *
 
 Mlha se zvedla a žluté podzimní slunce ozářilo vršky dubového lesa na stráni proti Okrouhlickému vrchu. Tráva na svahu se leskla a šedivé hlavy bojových vozidel připomínaly poněkud stádo odpočívajících slonů. Vojna končí, pomyslil si rotný, a najednou je docela dobré být na vojně a u tankového vojska. Všechno, co končí, je vždycky najednou dobré. Život, to si říkal už dávno, je skrznaskrz věcí minulosti.
-
-  
 
 A za pár týdnů bude konec s nicneděláním a bude se muset něčím živit. V životě se sám živil jenom necelé dva roky, na Sociální škole v Heroutovicích. Přesně vzato živily ho tam dcerušky okolních sedláků, které toužily po úspěšné maturitě (té dosáhly) a po brzkém manželství (toho nedosáhly – alespoň ne s ním). Byl jediný svobodný kantor na té příjemné škole, a nakonec by ho to neminulo. Ale nechtěl do toho spadnout takhle, a nechtěl se tam proto vrátit. A taky chtěl uniknout venkovu, malým městečkům, kde bylo všechno tak snadné a tak bezvýznamné. Chtěl do Prahy, k Lizetce. Ne že by si ji chtěl vzít, to ani nemohl, pouze ji hodlal svést.
 
@@ -763,8 +755,6 @@ Všichni pohlédli za vzdalujícím se důstojníkem.
 
 Závěr cvičení – dobytí vrchu Kužel – byl žalostný a majorovi srdce plesalo. Z temene kopce, kde poručil zastavit svůj džíp, měl pěkný rozhled na mírně svažitou severovýchodní stráň Okrouhlického vrchu, na niž svítilo slunce. Od úpatí vrchu Kužel až po horizont byla poseta vozidly. Pod ním šplhaly do svahu porůznu první tanky – měly jet v linii, ale nejely. Vedoucí vůz byl už jenom asi padesát metrů od Malinkatého ďábla, tak blízko, že bylo vidět lesknoucí se sklíčka zaměřovače ve věži a rudolící tvář řidiče v looku. Nechal příklop otevřený, aby měl lepší výhled, což neodpovídalo bojové situaci a bylo výslovně proti rozkazu. Ďábel si to radostně zapamatoval. Pod kopcem stál tank se svlečeným pásem a blízko něho obrněné autíčko, uvízlé na hřbetě prudké terénní vlny. Vypadalo jako želva, kterou někdo položil břichem na úzkou laťku, takže nožičkama nedosáhne na zem a bezmocně jimi máchá. Z tohoto obrněnce měl kapitán Matka řídit cvičení. Nyní stál vedle oáčka a využíval své velitelské pravomoci ke kárání nešťastného řidiče, který se nedostatečnou silou vlastních svalů snažil opancéřovaný vozík vyprostit z nemilé situace. O tanky své jednotky se kapitán už nestaral; jely po zelené trávě, jasně viditelné ve slunci, do dálky se zmenšovaly, a ještě nejmíň tři stály bez pohnutí. Kolem těch se hemžily postavičky v kožených kuklách. Nad plání létaly sem a tam bílé rakety a prskaly raketové imitace šrapnelů. Nepřítel opatřený cedulemi chutě pálil a tanky mu odpovídaly. Tahle část cvičení fun­govala dokonale.
 
-  
-
 Ďáblovu pozornost zaujal tank, který sjížděl ze stráně k úpatí vrchu Kužel a z jehož výfuků se ozývaly rány jako z děla. Za věží na něm stál důstojník, a jak se tank nepravidelným zrychlováním a zpomalováním blížil, měl důstojník co dělat, aby se udržel. Tank dojel na okraj příkrého náspu nad cestou, vedoucí kolem úpatí. Major přiložil k očím dalekohled. Ovšem, řidič má příklop otevřený. Teď ubere plyn a – ale místo toho řidič plyn přidal, vozidlo sebou prudce smýklo vpřed a dopadlo s plechovým žuchnutím na cestu. Důstojník z věže zmizel. Když tank kousek popojel, objevil se důstojník v zorném poli majorova dalekohledu a pokoušel se postavit na nohy. Nedařilo se mu to. Švihl sebou na zem, a podle výrazných pohybů úst major usoudil, že důstojník řve.
 
 Ale to už dorazily první tanky a zastavily před džípem. Seskákali z nich důstojníci a dali se do klusu k majorovi. Potom dojížděly ostatní vozy, jeden po druhém; trvalo to víc než deset minut, než dojela celá útočná formace. Nakonec se přibelhaly ještě tři dýchavičné samochodky, s osádkami pohodlně rozloženými kolem pancéřových stěn jako ve vyhlídkovém voze. Kapitán Matka, bohatě oblitý potem, přibelhal pěšky. Za ním přitáhla parta značkařů s raketovými pistolemi za pasem, hlaholící družnou zábavou. Na nosítkách ze strakaté celty nesli bezvládného nadporučíka Bobbyho Kohna, jenž chvílemi sténal a chvílemi sprostě proklínal jakéhosi brouka. Položili ho na zem. Lapiduch, který se nad ním sklonil, aby ho ohledal, ho vzal za nohu. Kohn strašlivě vykřikl a lapiduch po několikerém dalším záludném ohmatání poškozeného údu prohlásil, že má nadporučík zlomenou nohu. Zpráva se brzy roznesla. „Kurva!“ komentoval ji desátník Střevlíček. „Eště si měl vrazit kostrč do řiti, kamarádi!“
@@ -772,8 +762,6 @@ Ale to už dorazily první tanky a zastavily před džípem. Seskákali z nich
 * * *
 
 Srovnali tanky do řady a udělili kanónům elevaci. „Rozbor cvičení, soudruhu kapitáne,“ pravil Ďáblík ledově, „provedeme až v táboře. Tady jen vytknu mužstvu některé chyby. Nechte je nastoupit.“
-
-  
 
 Kapitán Matka byl hluboce rozhořčen. Především opět na osud, jenž mu našeptal, aby se dal nalejt, zlákán vidinou ničím neomezené moci, a zároveň ho ranil slepotou k faktu, že tato moc je ničím neomezená pouze směrem dolů, kdežto nahoru se podobá spíše vztahům, o nichž se na různých školeních poučil, že se nazývají feudální. Postavil se před tanky do pozoru a zařval hlasem alkoholického tura:
 

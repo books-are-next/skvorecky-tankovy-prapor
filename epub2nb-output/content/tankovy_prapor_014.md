@@ -5,13 +5,13 @@ contentType: prose
 
 _Obrana lidu začala_ uveřejňovat úvodníky určené politickým pracovníkům a nadepsané _Za správné zhodnocení práce politických pracovníků_ či _Za morálně politickou pomoc vojínům a poddůstojníkům odcházejícím mimo činnou službu_ nebo konečně _Za získání záložníků za zemědělce_. Uvnitř tohoto oblíbeného listu objevovaly se články, v nichž vojíni n-tého útvaru nebo útvaru, kde je politickým pracovníkem poručík Jahoda, dojatě opěvovali ony dva krásné roky, strávené v chlapském kamarádství v naší lidově demokratické armádě, aby naši milí doma mohli klidně spát, teď ve chvíli, kdy se vracíme k plnění svých budovatelských úkolů a ke svým milým doma a na naše místo přicházejí jiní, mladší soudruzi. Ozval se i jakýsi lemoun, který ještě vojenskou službu nemohl ani nastoupit, protože čas rukování dosud nenadešel, ale který se už předem pokoušel udělat si oko a ujišťoval starší soudruhy, odcházející do plnění budovatelských úkolů, že uchopí jejich zbraň, aby mohli svoje budovatelské úkoly plnit v klidu, kdyby se nepřítel pokusil rušit klid naší krásné vlasti. Vojíni a poddůstojníci různých zbraní se slzavě loučili se svými puškami, tanky, děly, minomety, ženijním náčiním a jedovatými plyny v článcích tak přetékajících citem, že to svobodníka dr. Mlejnka pohnulo k podvrhu _Za prodloužení milované služby vlasti_, v němž se přimlouval za znovuzavedení tereziánské prezenční doby a který do redakce poslal pod pseudonymem vojína Pravomila Poslušného. Úvodník nevyšel, jenom vojín toho jména byl předvolán na OBZ a později, po propuštění do civilu, na sedm let uvězněn pro urážku lidově demokratického zřízení.
 
-  
-
 Úslužní vojíni, kteří si až do těchto posledních chvil nejšťastnější doby svého života uchovali respekt před náčelníky klubů a politickými pracovníky, naposled zdobili kulturně masové světnice a nástěnky útvarů hesly, v nichž podle pokynů politického oddělení jménem všech vojáků odcházejícího ročníku nabádali přicházející brance, aby kráčeli ve stopách slavného n-tého praporu za velkými výcvikovými tradicemi tohoto útvaru, a tváře vzorných vojínů, vypadající na fotografiích v tankových kuklách neobyčejně bojovně (kuklu ovšem za příplatek půjčoval fotograf Kulínský v Kobylci i příslušníkům jakýchkoliv jiných zbraní), byly lepeny na tabule cti, aby v přicházejících lemounech roznítily latentní pudy tankistického rváčství. Ačkoliv se to neříkalo ani na instruktážích politických pracovníků, počítalo se s tím, že většina lemounků zanechává po sobě v civilu dívku, a tak jednou z nejúčinnějších vzpruh jejich vojenské horlivosti bude slib této zakuklené fotografie. Když byl později poručíkem Hospodinem objeven Kulínského meloušek, byl i fotograf na deset let uvězněn, pro sabotování psychologické přípravy vojsk.
 
 Nikdy, pokud se rotný Smiřický pamatoval, nebyla _Obrana lidu_ listem tak čteným – alespoň v kruzích intelektuálních poddůstojníků – jako v těchto dnech. Do tábora přijel pracovník Úřadu ochrany práce a v sále posádkového kina se konal velký náborový aktiv do dolů a těžkého průmyslu s kulturní vložkou. Vojíny tankové divize byl hojně navštíven. Ne tak ze zájmu o budovatelské možnosti, ale protože je už znudilo celodenní skrývání před důstojníky, kteří se ještě v poslední chvíli snažili využít jejich neplacené pracovní síly k zvelebení různých táborových i soukromých zařízení, což oni z lenosti i ze zásady (za pár tu budou bažanti) odmítali. Potloukali se raději od svítání do soumraku po lesích okolo tábora, schovávali se tam před důstojnickými pátračkami, v granátových jámách na tankodromu jedli salám nakradený v kuchyni a v obrovském stohu slámy poblíž pěšího cvičiště dlabali komůrky, kde souložili s četařkou Babinčákovou, jejími dvěma kolegyněmi a jednou svazačkou, kterou do tábora pašoval vojín Semerák mezi bandaskami v mlékařském voze.
 
 I to se však po čase změnilo v námahu, a tak se masově dostavili na kulturně náborový aktiv. Bylo krásné odpoledne babího léta, otevřenými okny proudil dovnitř svěží vzduch a sliboval zdravý spánek. Někteří usnuli hned, ostatní úvodem vyslechli dlouhou řeč politruka divize majora Sádla, přečtenou z papírků a držící se úzkostlivě klasické volby slov i myšlenek morálně politické rétoriky, a potom projev, v němž pracovník Úřadu ochrany práce lákavými čísly načrtl budovatelské výhody hornictví a hutnictví. Aby bylo učiněno zadost kulturnosti náborového aktivu, následovala na závěr báseň zajištěná četařem Bivojem Balíkem z jeho nové sbírky. Ti, kdož dosud neusnuli, usadili se pohodlněji v křeslech a s nadějí, že i je navštíví osvěžující spánek, zaposlouchali se do prvních veršů poemy.
+
+  
 
 > _Dnes loučíme se s vámi všemi,  
 > tanky, bajonety a miny.  
@@ -23,9 +23,15 @@ I to se však po čase změnilo v námahu, a tak se masově dostavili na kult
 > odnášíme ji v srdci svém  
 > a přísaháme:_
 
+  
+
 Básník se nadýchl, aby přísaze mohl dodat patos, ale právě v té chvíli vpluly do sálu otevřenými okny vzdálené tóny jakési písně. Slova ani melodii nebylo zprvu možno rozeznat.
 
+  
+
 > _kdyby bylo třeba_
+
+  
 
 pokračoval četař,
 
@@ -35,9 +41,15 @@ pokračoval četař,
 > všichni jsme tu připraveni k boji,  
 > připraven k boji i já tu jsem!_
 
+  
+
 A právě na toto kategorické tvrzení navázala slova písně, kterou sem večerní větřík zřetelně přivál:
 
+  
+
 > _Co ste, hasiči, co ste dělali,_
+
+  
 
 a zahnala přicházející spánek. Podnapilé hlasy zpívaly:
 
@@ -46,9 +58,15 @@ a zahnala přicházející spánek. Podnapilé hlasy zpívaly:
 > _že ste nám ten pívo, pívo pívovárek  
 > shořet nechali!_
 
+  
+
 Sálem zašumělo a tu a tam se k melodii přidalo polohlasné bručení. Neznámí madrigalisti venku pokračovali s chutí:
 
+  
+
 > _Ten pívovárek,_
+
+  
 
 pěli.
 
@@ -56,11 +74,19 @@ pěli.
 
 _Co živi budem, pevně ve svém srdci, přísahu svatou ochrání náš hněv!_ zvolal četař Balík a hlasy zvenčí k tomu poznamenaly:
 
+  
+
 > _I tu hospodu!_
+
+  
 
 _Pro šťastný život žít jsme připraveni!_ snažil se četař pěvce překřičet, ale jeho hlas zanikl v crescendovaném refrénu:
 
+  
+
 > __My staří mazáci_ –_
+
+  
 
 jehož zhoubnou magii se básník naposled pokusil neutralizovat zoufalým zvoláním:
 
@@ -68,10 +94,16 @@ jehož zhoubnou magii se básník naposled pokusil neutralizovat zoufalým zvol�
 
 _Pro šťastný život dáme i svou krev!_
 
+  
+
 Odhodlání však vyznělo naprázdno; mužský sbor za oknem, s korunou vysokých fistulek, udělal za ním vítěznou tečku:
+
+  
 
 > _– staří ulejváci  
 > máme pít vodu!_
+
+  
 
 a sálem zabzučela polohlasá, ale plynule sílící repetice:
 
@@ -80,21 +112,19 @@ a sálem zabzučela polohlasá, ale plynule sílící repetice:
 > _My staří mazáci, staří ulejváci  
 > máme pít vodu!_
 
+  
+
 S ní na rtech se vojska počala drát ze sálu, aby v příští čtvrthodině naplnila všech pět hospod přilehlé vesnice až po horní mez jejich kapacity.
 
 * * *
 
 Okolo jedenácté hodiny večerní překročilo už procento alkoholu v krvi většiny hostů těch pěti hospod míru povolenou rozkazem zdravotního náčelníka armády a důstojnická hlídka v bráně, která zachycovala všechny nápadně hlučné nebo nezvykle tiché vojíny a posílala je pod eskortou příslušníků prvního ročníku do posádkového lazaretu na krevní zkoušku, měla mimořádně dobrý lov. Hůře se vedlo lítačce, snažící se zjednat značně narušený pořádek v hospodě U Jana Žižky z Trocnova. Byla přitom inzultována sprostým staršinou absolventem Benátem slovy: „Ty zasranej lampasáku, koukej se vodvalit, nebo ti jí cuknu, že se nevolízneš!“, a když se pokusila provinilého poddůstojníka zjistit, vytlačil ji dav z hospody a shodil ze schůdků do zabláceného příkopu před domem. V hospodě U anděla zjistila táž lítačka, sotva se očistila z bláta a s pravou tankistickou tvrdostí znovu nastoupila službu, nepřípustné obchodování vojáků s civilními osobami, jehož se dopustil četař Kobliha, když mu došly peníze. Aby mohl udržet krok se soudruhy v konzumaci alkoholu, prodal jakémusi civilistovi (byl to, jak se později zjistilo, okresní tajemník ČSM) svůj odznak vzorného tankisty za padesát korun a tu sumu hned vydal za láhev alkoholického nápoje zvaného „Čert“. V hospodě Na rychtě došlo k rvačce: vyvolal ji příslušník prvního ročníku, který v návalu zoufalství podlehl okamžitému pominutí smyslů z představy, že mu bude vykonávat čestnou občanskou povinnost ještě celý rok. Napadl svobodníka Lakatoše, jenž se mu pro toto neštěstí posmíval a tituloval ho lemounem a bažantem. Rvačka vyvrcholila soubojem na nože a jenom zákrok hostinského zabránil krveprolití.
 
-  
-
 Ideově amorálního vrcholu dosáhly však bakchanálie v zadní místnosti hostinského podniku U ježka s jabkem, obsazené z větší části poddůstojníky intelektuálního zaměření. Zde o půl dvanácté kolovala busta význačného státníka, obrácená dnem vzhůru a naplněná vínem, jež bylo za zpěvu písně funébrmaršového charakteru: „Ví to celá armáda a ví to každá četa: Kobylec je velká prdel světa!“, dopito přesně čtvrt hodiny před půlnocí. Pak byla busta s přimalovanými brýlemi postavena na své místo a optimisticky naladění poddůstojníci nastoupili kvapnou cestu k bráně, aby překročili hranice tábora v poslední vteřině před „padla“ povolené vycházky.
 
 * * *
 
 Brzký návrat k životnímu stavu, který se jim jevil jako siesta, předstihující Adamovy zlaté časy v ráji, oslavovali té noci také desátník Andělín Střevlíček a rotný Václav Soudek. Oslava nezůstala sice bez vlivu na jejich rovnovážné orgány, ale vojna naučila oba dubnové veterány tak dokonale ovládat nedokonalosti lidského těla, že se jim podařilo bez pohromy projít špalírem nepřátelsky zkoumavých očí u brány. Tam se shromáždila kohorta novopečených poručíků pod velením Malinkatého ďábla, jehož vřeštění se úderem půlnoci rozeznělo se zdvojenou silou. Vzdalujíce se od brány zahlédli ještě oba poddůstojníci, jak Ďábel staví do latě četaře ing. Krajtu a četaře ing. Vytáhlého, vydává jim rozkaz k otevření úst a usvědčujícímu dýchnutí, rozvřískává se, a jak potom dvojice uniformovaných intelektuálů v potupném průvodu jednoročního lemouna se samopalem obrací kroky na cestu k posádkovému lazaretu, té noci velmi silně zalidněnou.
-
-  
 
 Poddůstojníci Střevlíček a Soudek přidali do kroku a ponořili se do temných stínů, které na asfaltovou cestičku parkem vrhaly prořídlé koruny kaštanů. Vřískání Ďáblovo zaniklo brzy v hučení vzdáleného chorálu, zaléhajícího sem z budov Dvanáctého tankového pluku, jakož i v pronikavém zpěvu několika osamělých hlasů v parku, kterým nápoje přidaly na intenzitě, co jim ubraly na intonační čistotě. Z vesnice dosud zněl rytmus dupavé polky v tanečním sále U Vejvodů a všechno se to mísilo se suchým šelestem posledních listů v korunách.
 
@@ -190,8 +220,6 @@ Rotný Soudek s desátníkem Střevlíčkem, když byli pečlivě zasunuli záv
 
 Tu noc nestačila kapacita posádkového vězení zvládnout nával vojsk, která se domáhala noclehu s dekou, v řádech označovaného jako vězení po službě. Rotný, jenž opět konal službu vyváděče vězňů, byl nucen nacpat rozjařené trestance nejen do společné kobky, ale do všech cel vůbec.
 
-  
-
 Sám se usadil v místnosti vyváděče vězňů, kde na kavalci opět chrápal vojín Bamza a na dvorečku znovu zněly okované kroky strážného, vytáhl ze zásuvky stolu tlustý sešit, otevřel jej a se zalíbením se ponořil do četby.
 
 Tento sešit obsahoval dílo, na němž pracoval již téměř rok a na které byl nesmírně hrd. Byl to vojensko-pedagogický spis a služební příručka, nesoucí titul _Buzerační příprava_ a podtitul _Rukojeť prcání pro důstojníky čs. branné moci_. Na prvním listě stálo motto: _Vojín bez humoru je žoldák – J. V. Stalin_, které si rotný vymyslel a umístil je v čelo knihy jako záštitu pro případ, že by se opus dostal do nepovolaných rukou důstojníka. Na dalším listě byl obsah; podle něho byla látka rozdělena na řadu oddílů; tak například jeden nesl název _Řvaní_, jiný _Prcání_ a opět jiný _Buzerace_. Každý se dále rozpadal na řadu kapitol a každá kapitola na několik paragrafů. Na konci bylo vždy – podle vzoru _Dějin VKS (b)_[^10] _… – Stručné shrnutí_.
@@ -207,8 +235,6 @@ Rotný ještě chvíli listoval v sešitě, sem tam něco poopravil, připsal n
 * * *
 
 V hlavní kobce vězení, kde dávno zhasli zaprášenou lucernu u stropu a drželi černou hodinku, padla zatím na mužstvo, rozložené po dřevěných pryčnách podél stěn, sentimentální nálada.
-
-  
 
 „Dva a půl roku, pánové!“ pronesl vyčítavě četař Vomakal a hluboce vzdychl.
 
@@ -270,10 +296,14 @@ Vojíni se zachechtali. Četař ing. Krajta se natáhl k spánku. Někteří se
 
 A tak se zakrátko rozhostilo věznicí veliké a spravedlivé ticho, které rušil už jenom sytý hlas desátníka Mengeleho ze vzdálené kobky pro tři zostřené, jenž usínajícím soudruhům zpíval vojenskou baladu-ukolébavku.
 
+  
+
 > _Je pu-hustá noc  
 > v tmavé cele černé.  
 > Všechno vodešlo spát,  
 > jenom Franta Gros né._
+
+  
 
 Ale i desátník zmlkl, usnul a toliko kroky strážného jim odměřovaly krásný čas těch posledních chvil před pádem do života.
 

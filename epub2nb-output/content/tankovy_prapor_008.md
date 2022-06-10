@@ -5,14 +5,16 @@ contentType: prose
 
 K několika málo radostem rotného patřilo čištění bot. Seděl na kufru u kavalce a bleskurychlými tahy kartáče prohluboval téměř už zrcadlový lesk černé kůže. Mezi všelijakými věcmi, shromážděnými na světnici první roty Sedmého tankového praporu – a byly tam svlečené košile s kruhy potu v podpaží, kombinézy smrdící olejem, mastné papíry od balíčků s buchtami z domova, špinavé ručníky, potřísněné z ran po nejlacinějším druhu čepelek, který se prodával v Zátiší, a silně zablácená bagančata –, představovaly ty boty hezkou věc, jakýsi estetický záchytný bod v prostoru, naplněném jinak vojenskými řády a jejich šedivou perspektivou. Cídil je s chutí, neboť ze všech možností, které skýtal čas vyměřený kulturně masové činnosti (procházka večerní nudou vojenského výcvikového tábora Kobylec, psaní tisícího dopisu Lizetce nebo sovětský film v posádkovém kině), bylo zdokonalování té součásti strůje něčím podstatně blízkým činnosti jogínů, uklidňujících se pozorováním vlastního pupku.
 
-  
-
 U Sedmého tankového praporu nebyla ovšem tato záliba rotného zálibou typickou. Ostatní příslušníci první roty, rozložení po kufrech a kavalcích v prvním i druhém poschodí, považovali ji spíše za příznak jakéhosi zastydlého lemounství. Sami, postiženi naprostým nedostatkem estetického cítění, nevěnovali své vojenské obuvi pražádnou pozornost. Spočívala pod kavalci i v uličce a byla potažena prachem a blátem cvičení, které v poledne skončilo.
 
 Odpoledne se věnovali čištění a údržbě tanků a nyní odpočívali v místnosti, naplněné jako ponorka pětadvaceti jednoposchoďovými kavalci. Padesát tankistů, kteří zde trávili některé noci v týdnu, si hovělo ve vyležených důlcích dávno nenacpaných slamníků a různým způsobem zabíjelo čas, určený kulturně masové práci. Nejblíž u dveří se řidič Střevlíček hádal s četařem Očkem o přednostech zahraničního motocyklu, jemuž říkali „bavorák“, a o nedostatcích československého stroje Jawa. Pro snižování bojové pohotovosti vojsk vychvalováním nepřátelské techniky byli za podobný spor u vedlejšího Třetího tankového pluku postaveni čtyři vojíni před prokurátora, ale v řadách Sedmého tankového praporu byl poslední (příslušníky rozpoznaný) fízl, nějaký Otakar Hrouda, už dávno soustavným trápením a šikanováním zneškodněn; nakonec vyskočil z okna (v prvním poschodí) a byl pro těžkou duševní poruchu (diagnóza MUDr. Sadaře, lékaře základní služby) odvelen do Střešovické nemocnice. O kus dál četl vojín Bamza umaštěný okružní rodokaps, a v uličce četaře Žloudka si navzájem ukazovali fotografie dívek, částečně též svlečených. Desátník Frištenský a několik druhů spalo. Kolem vojína Mengeleho se shromáždil mlčenlivý hlouček hudebně založených mužů, a desátník, jako jediný z celého praporu, provozoval cosi, co bylo snad možno označit za kulturně masovou činnost. Brnkal na třístrunnou mandolínu a mezi kavalci se nesl tklivý hlas:
 
+  
+
 > _Vonásku, Vonásku, vyser se na lásku,  
 > hleď si rač onánie!_
+
+  
 
 Zády k hudebnímu kroužku seděl na kufru politruk čety četař Mácha a s povypláznutým jazykem tvořil dopis své ženě Majce. Bylo čtvrt na osm a na plánu kulturně masové činnosti, který četař sestavil a za jehož plnění nesl odpovědnost, stálo: _19.00 – 21.00 nácvik pěveckého kr., šachový turnaj, příprava kr. FO na zkoušky FO_.
 
@@ -20,16 +22,18 @@ Zády k hudebnímu kroužku seděl na kufru politruk čety četař Mácha a s�
 
 Odkudsi zezadu zazněl zuřivý výkřik „Flek a sedma!“; souvisel s turnajem, sotva však šachovým. Provázelo jej suché plesknutí a po něm se hlas vojína Mengeleho vzepjal v lyrický výraz protestu:
 
+  
+
 > _Proč je u prdele, proč neni na břuchu?  
 > Proč je u prdele, v tom velikym puchu?_
+
+  
 
 Na posledním kavalci v rohu pracoval svobodník dr. Mlejnek na třetí kapitole díla _Kulturní zájmy československého vojáka_. Dílo koncipoval z hlediska ortodoxní psychoanalýzy a nebylo určeno k tisku.
 
 * * *
 
 Ve čtvrt na devět se dveře ložnice otevřely a vešel četař Fürbach. Měl na zadnici revolver a na rukávě červenou služební pásku. Udělal předklon, aby viděl pod horní kavalce, a kývl na rotného.
-
-  
 
 „Hele, máš jít k Růžičkovi.“
 
@@ -39,19 +43,27 @@ Ve čtvrt na devět se dveře ložnice otevřely a vešel četař Fürbach. Mě
 
 „Aby se neposral,“ řekl rotný, odložil kartáč a natáhl si půllitry. Pečlivě přehrnul okraje kalhot přes vršky holínek, z tyče kavalce sundal blůzu, zapnul si řemen, nasadil čepici a podíval se dolů na boty. Leskly se. Uspokojen vykročil, provázen melodickým nářkem vojína Mengeleho, k němuž se už připojil celý pěvecký kroužek:
 
+  
+
 > _Když lepák narukuje,  
 > žádnej ho nelituje,  
 > i ten blbej civil, co na vojně nebyl,  
 > i ten se mu vysměje._
 
+  
+
 Hluboce citová tragičnost těchto veršů se rotného, jako vždy, dotkla. Ani po dvou letech nezapomněl na strašlivou, téměř ebenovou beznaděj, která ho naplňovala, když tu seděl jednoho listopadového dne před dávnými časy, civěl na stěnu, kam cynický rytec vyryl nápis Za _751!_, a naslouchal jinému sboru vojínů, teskně zpívajících touž píseň.
 
 Ale lidová duše, na rozdíl od duše intelektuální, nepropadá sentimentu, nýbrž brání se světu a jeho mukám divokou pomstychtivostí. Když za sebou rotný zavřel, slyšel skrze dveře, téměř stejně silně, protože pěvci zvýšili hlas, závěr toho prastarého chorálu:
+
+  
 
 > _Počkej, blbej civile!  
 > Příde na tebe chvíle,  
 > až ty jednou poznáš ten vojenskej stav náš,  
 > vesele ti nebude!_
+
+  
 
 Kolem rotného se mihla postava náčelníka štábu s nehybnou tváří. Neměl ani čas zasalutovat. A nebylo také vidět, jaký dojem zanechala ozvěna písně v zahořklém nadporučíkovi Pinkasovi.
 
@@ -67,7 +79,11 @@ Rotný vzal za kliku a otevřel dveře politického oddělení. Vstoupil dovnit
 
 Uvnitř seděli oba političtí, zabráni v práci. Malý Hospodin ťukal dvěma prsty do stroje a rotný mu přes rameno přečetl nadpis díla: KÁDPOVY’ BOSUDER stálo tam velkými typy, a pod tím:
 
+  
+
 > _na čut. Pavezu Amt._
+
+  
 
 Hospodin nezvedl hlavu od klávesnice a brejlil dál do silně proškrtaného papírku vedle stroje, z něhož přepisoval kádrový posudek načisto. Zato nadporučík upřel na rotného hezké číšnické oči a zamáčkl v popelníku cigaretu. Vypadal inteligentně, což bylo krásné zdání. Uchopil ostře ořezanou tužku do prstů s velkým prstenem a jal se poklepávat na cyklostylovaný papír před sebou.
 
@@ -137,13 +153,9 @@ Bez dalších námitek mu to bylo dovoleno.
 
 Venku už byla noc, tichý větřík šuměl v korunách kaštanů v parku před budovou, odněkud z dálky klapaly tanky jedoucí na noční cvičení a v důstojnickém kasinu na druhé straně parku hrálo rádio dechovku. Noc dýchala teplem a, třebaže bylo už září, neobyčejnou letní krásou života. Služba odložila černý román a seděla na schodech s rukama v kapsách a nepřítomnýma očima zírala na měsíc. Plul v korunách stromů, po mracích letěla červená a zelená světýlka. Hukot tryskového motoru někde ve výšce přerušil na chvilku šumivé ticho tmy. Po pěšince mezi stromy přicházela dcera velitele divize plukovníka Vrány a její bílá letní sukně lákavě vlála v nočním větru. Rotný ji dlouho sledoval vyhladovělýma očima. I pomocník v předsíňce vzhlédl od svého rodokapsu a hlasitě zamlaskal. Plukovníkova dcera na to byla zvyklá a neotočila se. Bílá sukně se ztratila v šeru, hukot stíhačky utichl a stromy se opět rozšuměly. Ve srovnání s tím vším připadalo rotnému všechno nedůležité.
 
-  
-
 * * *
 
 Ale pán osudu, znuděný hladkým chodem filmování u Sedmého tankového praporu, připravil jim všem na druhý den nepříjemné překvapení v podobě šesti nových poručíků, právě vyřazených z tankového učiliště, kteří se přihlásili u velitele. Planuli dosud, stejně jako jejich třpytivé nárameníky, neopotřebovaným nadšením. Jejich předchůdci bloumali už dávno v nevyčištěných půllitrech a se zašlým zlatem na ramenou mezi zátiším a kasinem, nyli po veselé manželce nadporučíka Bobbyho Kohna, která se v dohledu dalekohledů z věže na tankodromu opalovala v lese nahá, a místo o plnění povinností přemýšleli, jakým podvodem se v neděli dostat z kasáren; ale těch šest nových mušketýrů se okamžitě hlásilo o práci. Pěti z nich se jí také okamžitě a ve svrchovaném množství dostalo, takže než uplynulo dvanáct hodin, to jest hodinu po večerce, hrbili se dosud nad taktickými mapami a pečlivě do nich zanášeli situace. Šestý, zbylý hodnostář se marně sháněl po mapě, při svém slídění si však naneštěstí přečetl na jinak prázdné nástěnce rotného vyhlášku, že _Dnes ve 13.30 konají se zkoušky kandidátů FO na PO_, a okamžitě se nabídl politrukovi, blýskaje mu zbrusu novým odznakem FO před očima. Potěšený číšník uvítal zájem mladého soudruha a autoritativně (a neprozřetelně) jej ustanovil do funkce předsedy zkušební komise FO, do níž se jinak žádný důstojník Sedmého praporu nekvalifikoval.
-
-  
 
 Tím byl zároveň té funkce zproštěn rotný Smiřický. Nijak se proto neurazil, ale naplnily jej pochybnosti, jak nyní zkoušky dopadnou. Měl dojem, že jemu by se vyhlídkou na stříbrný odznak, který na blůze vypadal jako nějaké vyznamenání, podařilo nalákat jistý počet odvážlivců, a věřil, že váhavci by nabyli odvahy, až by se dozvěděli složení zkušební komise, neboť to zaručovalo absolutní podvodnost. On sám nepotřeboval komentáře. Svobodník dr. Mlejnek byl u praporu znám jako poslední útočiště všech odmítnutých žadatelů o propustky, protože měl přístup k razítkům a obratně napodoboval podpisy všech velitelů až na úroveň vyšší jednotky. A konečně četař Kanec, starší účtovatel kuchyně a dodavatel pikantních potravin na soukromé sobotní večírky pro ty, na něž se pravé ani falešné propustky nedostaly, zaručoval styl práce, jaký by si komise jistě osvojila. Jenže když se po obědě roznesla zpráva, že do křesla předsedy komise FO byl dosazen jakýsi lemoun z tankového učiliště poručík Prouza, srotili se kolem rotného téměř už přemluvení uchazeči cti každého mladého člověka a pobouřeně protestovali.
 
@@ -192,8 +204,6 @@ A číšník se zapomněl a zamyšleně řekl:
 * * *
 
 Ale poručík, zaujatý cele velkým posláním, vnímal hlas představeného jenom druhou signální soustavou. Prkenně, ale podle předpisu se otočil a rázně vykročil ven. Rotný se táhl za ním. Poručík kráčel bujaře pod kaštany a odpovídal na všechny sebelajdáčtější pozdravy mazáků, povalujících se na sluníčku před budovami, jako by měl ruku na péro. Na chodbě budovy Sedmého praporu energicky stiskl kliku a vstoupil dovnitř. Protože však ve své horlivosti otevřel dveře příliš prudce, stalo se, že jimi vrazil do nosu četaře Bílka, který právě zblízka zkoumal plán denního úklidu, přišpendlený zevnitř.
-
-  
 
 „Kurva vole, poser se!“ zaječel četař, ale když se mezi dveřmi objevil zjev zcela nečekaný, četař se zarazil a vyřešil trapnou situaci tím, že zmizel v nejbližší chodbičce mezi postelemi a vylezl otevřeným oknem ven. Poručík zmírnil tempo a udělal několik kroků do místnosti. Čtyři nebo pět tváří se pozvedlo k němu a hned zase odvrátilo. Všichni rázem dělali, že ho nevidí, aby se vyhnuli nutnosti splnit požadavek řádu, podle něhož ten, kdo první spatří důstojníka vstupujícího do místnosti, má velet „Pozor“ nebo „Vztyk! Pozor!“ a podat mu hlášení.
 
@@ -347,8 +357,6 @@ Odpověď nedostal. Nasadil proto hypnotický tón a pravil rozhodně:
 
 Za deset minut stál v uličce pouze plně oblečený vojín Poslušný a tetelil se trémou. Rotný mu znovu vydal rozkaz, aby si v duchu opakoval látku, a s polohlasným prohlášením „Já se na to vyseru!“ odešel na prapor. Nebylo mu to docela jedno jenom proto, že se obával, aby po krachu posledního náboru nebyl vyškrtnut z komise, jež měla večer zkoušet manželky důstojníků.
 
-  
-
 Za rohem narazil na rotného z povolání Šemančáka, jemuž se říkalo Peňáz. Byl to, jak jméno naznačuje, dieslák[^3] lačný peněz, výhod, požitků, zahálky a čestných odznaků, zvyšujících možnost dosáhnout volna, výhod, požitků a zahálky, národnosti slovenské. Ani nevěděl proč, snad pod nátlakem skepse nebo šibeničního humoru, na něj zavolal:
 
 „Hej! Soudruhu rotný! Pojďte si složit ef ó!“
@@ -436,8 +444,6 @@ Matka se otočil a vypochodoval i se svým průvodem z ložnice. Rotný zůst
 * * *
 
 Za čtvrt hodiny nato tísnil se už útvar v síle asi třiceti mužů co nejdále od stolu zkušební komise v místnosti politického oddělení. Seděli v chumlu, tělo na tělo, zády přimáčknuti ke dvěma skříním, které přepažovaly místnost a mezi nimiž vedla jen úzká štěrbina do temného pozadí sálu, kde prach pokrýval stohy dávných hlášení a také několika vyjedených a zapáchajících plechovek od konzerv. Před nimi se táhly řady neobsazených židlí, vyplňující prázdnou místnost a zakončené osamoceným vojínem Poslušným, jenž dřepěl těsně před komisí a pokoušel se ještě doplnit vědomosti z taháku umístěného v bagančeti. Komise v čele s poručíkem Prouzou seděla za dlouhým stolem pod portréty státníků a Růžička s Hospodinem se ve funkci pozorovatelů skromně umístili za psací stoly u okna.
-
-  
 
 Poručík Prouza hleděl mlčky na ten zvláštní projev ostychu a jeho daimonion[^4] mu našeptávalo: Je třeba přemoci nedůvěru, kterou k vám soudruzi někdy cítí. Mnohdy se vojáci i stydí přiznat se k zájmu o literaturu, protože se obávají posměchu ostatních. Je třeba vhodným jednáním získat si jejich důvěru. Vstal, rozhodnut, že si je získá.
 
@@ -1049,8 +1055,6 @@ A tak dnes přetékal radostí, jejíž záře oblila i mlžné vědomosti kan
 
 Jenže podporučík, nádoba touhy, nebyl členem fučíkovské komise a neseděl toho večera, když slunce zapadlo a v korunách stromů v temném parku foukal první podzimní vítr, na politickém oddělení. Jeho chyba, neboť ona tam seděla v celé své docela značné kráse a jako drahokam zdobila sešlou společnost, skládající se z kapitána Matky, nadporučíka Kamena, poručíka Hezkého a několika jiných poručíků, mezi nimiž chyběl důstojník Prouza, jenž se omluvil a odejel si něco zařídit do Prahy. (Četař Kanec usoudil, že se jel do Prahy ožrat.) Seděla tam, měla smutné oči, nabarvená ústa a žlutý přiléhavý svetřík, a pověst o ní pravila, že ji přepracovaný náčelník štábu pohlavně neuspokojuje. Nebylo to příliš nepravděpodobné; na několikadenní, velmi častá cvičení štábu divize delegoval kapitán Matka obyčejně ve svém zastoupení právě železného nadporučíka, a ten poctivý selfmademan trávil pak přemnohé noci v tajné písárně místo v bytě na Zepelínce, odkud byl výhled na romantický tankodrom, a s dělnickou poctivostí smolil mapy, plány a plánkonspekty. Přes tuto obětavost byl již řadu let pouhým nadporučíkem; dopustil se kdysi té chyby, že jako mladý zámečnický tovaryš utekl z protektorátu směrem na Západ. Zažil tam dobrodružství, po nichž netoužil a která mu nyní nikdo, kromě pošetilých mladíků, nezáviděl. Po porážce Francie skrýval se nějaký čas v uniformě československé jednotky v neokupovaném území, odkud se mu podařilo prchnout na motorovém člunu. V bouři však ztroskotal, byl zachráněn portugalskou obchodní lodí a ta jej vysadila na březích Spojených států severoamerických. Tam byl pro podezření ze špionáže zprvu internován, takže jeho žádosti o převelení k československým jednotkám do Velké Británie nebylo vyhověno, ale když Japonci napadli Pearl Harbour, octl se, ani nevěděl jak, v americké uniformě a v ní na ostře ostřelovaných plážích Okinawy. Zraněn a vyznamenán několika imperialistickými řády dostal se nakonec přece jen do československé jednotky v Anglii a závěr války strávil na západní frontě jako řidič tanku typu Cromwell, který (protože se z něho dalo vylézt jen při určitém natočení věže) byl zcela mimořádně důmyslnou kremační pastí na lidi.
 
-  
-
 Za ta léta pestrých zážitků provedly kudrnaté vlasy nadporučíkovy značný rozestup, za další léta služby v lidově demokratické armádě změnily barvu v neutrální šeď a na obličeji se vytvořila nehybná železná maska. Svobodník dr. Mlejnek si z ní sice dělal psinu, ale rotný někdy uvažoval, není-li tato maska, na rozdíl od jiných důstojnických masek, skutečným výrazem nadporučíkovy duše.
 
 Jak to ve skutečnosti je s milostnými službami, jež poskytuje své manželce, nevěděl ovšem nikdo, a ta krásná dámička o tom přirozeně nikde nemluvila. Paní nadporučíková vůbec většinou mlčela a mluvily jenom její černé oči, když večer co večer čekávala ve žlutém svetříku pod kaštany před praporem, držela za ruku nepatrného nadporučíkova potomka a dávala se po službě ptát, jestli manžel přijde večer domů. Služby plnívaly její zdvořilou žádost nepoměrně rychleji, přesněji než jakýkoli rozkaz sebevyššího velitele, a vždy naprosto bez odmluv, ale obyčejně jí musely s politováním sdělit, že se soudruh nadporučík zdrží, že na něho nemá čekat. Krásná paní pak smutňoučkým hlasem poděkovala a odešla alejí kaštanů; provázely ji pokaždé vyvalené oči vojsk, namačkaných za okny, dokud žlutý svetřík zcela nezmizel ve stínu rozložitých korun. Fáma pravila, že ji nadporučík neuspokojuje, ale na rozdíl od manželky Bobbyho Kohna a jiných manželek, jež byly opředeny divoce erotickou mytologií, nepravila fáma o smutné paní, že by z toho kdy vyvodila nějaké důsledky. Aspoň ne takové, po jakých toužil podporučík MUDr. Sadař, jež byl nesmělý a místo vhodného uplatnění svých gynekologických půvabů zabýval se fušováním do černé magie.
@@ -1058,8 +1062,6 @@ Jak to ve skutečnosti je s milostnými službami, jež poskytuje své manželc
 * * *
 
 Zato rotný býval často pověřován důležitou službou na praporu a měl mnohokrát příležitost posloužit paní nadporučíkové onou nedobrou informací a podívat se přitom do černých hloubek přesmutných očí – a byly černé, bez světel, sotva v nich bylo možno vyčíst něco o dívce a jejím osudu ve vojenském výcvikovém prostoru Kobylec. Ale rotný byl přesvědčen, že pod černými vrstvami milostného uhlí doutnají jiskřičky, jen je pofoukat.
-
-  
 
 Proto se mu svět rozsvítil radostnou nadějí, když v půlkruhu nasupených důstojnických vizáží spatřil, jak doufal, i tu něžnou šírázskou růži. Černé oči se setkaly s jeho a jemu se zdálo, že je odvrátila o něco později, nežli je mravné to udělat, aby se zahleděla do bezúhonného neurčita před sebe a vypadala jako květinka mezi objekty Augiášova chléva.
 
@@ -1069,15 +1071,11 @@ Komisi pro zkoušení důstojníků a jejich manželek předsedal sám nadporu�
 
 Paní nadporučíkovou však nepoškodila. Dlouho neměl nadporučík Růžička odvahu vůbec se jí na něco ptát, ale konečně se osmělil a otázal se kandidátky na hodnoty a obsah románu _Vítr se vrací_ a co si z něho odnesla pro svoji další – pro svůj – ehm – pro život, jaksi. A tu jako by melodický mezzosoprán naplnil omleté fráze novým životem a omšelé poetismy jako by znovu nabývaly smyslu. Rotného dokonale omámilo její kouzlo, zastřený hlas podobný tónu anglického rohu; doprovázela ho měkká vůně, umělá, nasládlá, umělá, jako ty granátové rty byly umělé, i perleťový povlak zoubků, i smolné oblouky řas a vlasy, zvlněné kolem milostné šíje. Byl z toho všeho docela omráčen; miloval umělé věci, byly vytvořeny s námahou, s námahou udržovány a nakonec podléhaly přirozené zkáze všeho. Touha v něm explodovala, vydrala se z něho ven k té barevné ženské, přímo materiální touha, která se jí musela dotknout, chytit ji za srdce, nebyla přece z vosku, jenom na povrchu byla umělá – ale na hezké paničce nebylo nic vidět. Odpověděla na otázku, patrně nikdo nevěděl co, nadporučík se otočil ke komisi s dotazem, má-li někdo nějakou připomínku. A tehdy se rotný vzchopil, vstal a pohlédl kandidátce znovu do očí a zeptal se jí, co by komisi – komisi ztuhlé do erotické katalepsie – pověděla o Jiřím Wolkerovi. A černé oči na chvilku zmizely za něžnými víčky a celý obličej jako by v elektrickém světle lehce potemněl. Paní nadporučíkové chviličku mlčela, potom spustila tiše, tím hobojovým hlasem, komise proti své vůli vzdychla a rotný cítil jemné silové pole nelokalizovatelné elektřiny, které se vytvořilo mezi nimi dvěma, a poslouchal a hleděl do očí neprůhledných jako dehet, a věděl, už věděl, že jsou za nimi ty doutnající uhlíky, které čekají na nějaká pofoukání. Už je neodvrátila ani nesklopila, ponechala je upřené jemu do očí, černé a nic neprozrazující, jen tolik, že v nich má pátrat po odpovědi na otázku, kterou vyslovilo jeho náhlé a prudké zatoužení. Říkala, že Jiří Wolker byl chudý hoch z proletářské rodiny, který musel od dětství těžce pracovat a trpěl často hladem, díky své píli a houževnatosti dostal se však na studia, kde bohužel ve věku dvaceti čtyř let podlehl následkům bídy a podvýživy a zemřel na tuberkulózu. Jeho básně první buržoazní kapitalistická republika všemožně potlačovala, žádný nakladatel je nechtěl vydat a rozšiřovaly je pouze kroužky nadšené mládeže, které Wolkera milovaly a rozmnožovaly jeho verše ilegálně na cyklostylu. Dnes se však Jiří Wolker stal básníkem všech mladých lidí a pomáhá nám vytvářet náš nový, lepší a šťastnější život…
 
-  
-
 To vše přijalo shromáždění v okouzleném mlčení a tomu všemu rotný i ostatní nadšeně přikyvovali. A když pak smutná paní – na rotného žádost – přednesla, co snad zná z Wolkra nazpaměť – byla to básnička o poštovní schránce na rohu ulice – a obličej jí přitom ještě víc ztemněl, spojily se verše s šuměním kaštanů a vymazaly vojenský výcvikový prostor Kobylec z mapy světa. A sotva doznělo to teskné dueto, propuklo shromáždění drsných podvodníků v hřmotný potlesk, a zakončilo tím náhle a slavnostně zkoušky kandidátů Fučíkova odznaku u Sedmého tankového praporu, jemuž tak úspěšně velel kapitán tank. Matka Václav.
 
 * * *
 
 Rotný však zdaleka nebyl spokojen tak jako kapitán i jeho politický zástupce, kteří uprostřed klapání podpatků vytvořili eskortu hezké novopečené nositelce čestného odznaku. Její manžel právě toho odpoledne (v kapitánově zastoupení) odjel na pětidenní přípravné cvičení štábu divize na horu Říp; čekala ji dlouhá cesta temným táborem na Větrnici, jež se rýsovala proti hvězdnaté obloze, a bylo třeba ji na té cestě chránit. Důstojníci se srazili v galantní hlouček, dali jí přednost mezi dveřmi a nevšimli si černého pohledu, jímž zavadila o strnulé oči rotného. A pak odešla. A vzdalovala se mezi holínkami a nárameníky alejí kaštanů do nenávratna té noci a rotný osaměl, a protože touha byla strašná a onanií pohrdal, pokusil se zoufale a bláhově nalézt zapomnění v práci, jež údajně prý všechno léčí. Počal sepisovat plánkonspekt na politické školení poddůstojníků na téma _Lysenkovsko-mičurinská agrobiologie – mocná zbraň v rukou našeho zemědělství_.
-
-  
 
 Následujícího dne měl o tom promluvit poručík Hezký, ale protože to byl bývalý hokynářský učeň, jenž se před nebezpečím dolů uchýlil po prvním roce prezenční služby do tankového učiliště, nebyl dobře mocen podobných intelektuálních výkonů. Uzavřel proto s rotným – dost vydřidušskou – tajnou úmluvu, podle níž mu za vyhotovení tří plánkonspektů poskytoval jednu propustku přes čáru.
 

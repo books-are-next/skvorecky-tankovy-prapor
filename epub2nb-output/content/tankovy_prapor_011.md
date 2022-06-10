@@ -5,14 +5,16 @@ contentType: prose
 
 Galerie tváří byla bohatá. Hlasy zněly jistě a zkušeně, nebo zas kuňkaly a zajíkaly se, zupáckým chrapotem hlásaly verše do zakouřeného sálu, nebo je skoro nebylo slyšet a ztrácely se ve vrzání židlí.
 
-  
-
 Hlasy a tváře byly různé. Náměty jevily větší kázeň.
+
+  
 
 > _Raději bych s tebou po Petříně šel  
 > a o své lásce bych ti vyprávěl.  
 > Abys však mohla klidně, jasně žít,  
 > já s puškou v ruce střežím zde tvůj klid!_
+
+  
 
 oznamoval vojín klasické čtyřverší, obsahující v první části vyjádření skutečné tužby, v druhé úlitbu, jíž se vyjádření této společensky irelevantní tužby vykupovalo. Mezi vojenskými básníky to byl útvar podobný sonetu nebo středověké baladě s posláním, a vojín, jenž právě předváděl svou variantu, byl tak tlustý, že klid své milé mohl bránit nanejvýš v písárně některého velitelství. Sestoupil z pódia, provázen vlažným potleskem, a jeho místo zaujal desátník se silnými skly, který bezdůvodně pronikavým hlasem počal uvádět tato zjištění:
 
@@ -23,33 +25,39 @@ oznamoval vojín klasické čtyřverší, obsahující v první části vyjád�
 > Však svět je rozdělen, má milá, víš?  
 > Nepřítel bdí!_
 
+  
+
 Vojáci a důstojnici, kteří se shromáždili v sále divizního kina, poslouchali to všechno jednak s křesťanskou trpělivostí, jednak zachovávajíce vojenskou kázeň. Patřili ostatně k ideové elitě armády. Někteří opírali čela do dlaní a předstírali, že sledují recitované dílo, aby se z něho mohli poučit pro svoji další práci. Jiní se rozvalovali v křeslech a koukali po členkách Armádního uměleckého souboru ve velmi slušivých uniformách. Někteří si po každé básni vyměňovali názory a zkušenosti. Někteří mlčeli, protože se o ně pokoušely dřímoty.
+
+  
 
 > _K oceli ruka přimrzla mi  
 > a mráz se zakous do mých lící.  
 > Za všechny milé ze všech zemí  
 > já držím tu stráž na hranici,_
 
-šeptal ženista, podobný mouše na pavoučích nohách. Doříkal a důstojník s vycíděnými odznaky FO a TOZ na hrudi bez jiných dekorací se naklonil k Robertu Neumannovi, aby si s ním vyměnil zkušenost:
-
   
+
+šeptal ženista, podobný mouše na pavoučích nohách. Doříkal a důstojník s vycíděnými odznaky FO a TOZ na hrudi bez jiných dekorací se naklonil k Robertu Neumannovi, aby si s ním vyměnil zkušenost:
 
 „Slabé, co?“
 
 „Nedotažené. Nemá to šťávu,“ pravil Robert Neumann odborně, ale před další teoretickou konverzací ho zachránil jakýsi vyčerpaný příslušník bojových chemických látek v řadě za nimi, jenž usnul a spadl pod židli. Dekorovaný důstojník se káravě podíval směrem rachotu a ponechal Roberta Neumanna jeho myšlenkám. Ty se převalovaly ve zvláštní směsi Robertovy habituálně ponuré nálady a záchvatů euforie nad poetickým vítězstvím. Euforii vždy znovu zalévala habituální ponurost, neboť jak poslouchal poemu za poemou, uvědomoval si, že jeho triumf v této konkurenci má, zejména v očích manželky Ludmily, velmi pochybnou cenu. Vzhlédl k novému miláčku múz, který právě srážel paty na pódiu, vypjal prsa, uvolnil tělo, poklesl v kolenou a začal rychle drmolit:
+
+  
 
 > _Psaní mi píšeš, milá má,  
 > kdy k tobě přijdu z vojny zas —  
 > Já stojím na stráži a hlídám  
 > náš budoucí a lepší čas._
 
+  
+
 Robertu Neumannovi jevil se budoucí čas spíše jako horší. Toho rána dostal anonymní dopis od Ludmiliny kolegyně Jarmily Králové, který mu oznamoval, že minulý týden o půl jedné hodině noční potkala anonymní přítelkyně Jarmila Králová na schodech z podniku Zlatá studně jeho manželku, vedenou kolem pasu mužem. Tímto mužem je dr. Karel Budulínský z ministerstva vnitřního obchodu. A protože Robert Neumann znal dr. Budulínského – pokládal ho za rodinného přítele a předčítal mu, v Ludmilině přítomnosti, své verše (ne ty vojenské) –, dolehlo na něho dvojnásob trpce opětované poznání, že manžel Ludmily Neumannové-Hertlové je nutně člověkem bez mužských přátel. Uprostřed sálu, naplněného kypící družností, padl na něho zlý pocit nemilé samoty.
 
 * * *
 
 Neopustil ho ani při velmi družném projevu laureáta státní ceny Josefa Bobra, tlustého prozaika, jenž slovy plnými vřelé upřímnosti velebil slavnou přítomnost a ještě slavnější budoucnosti přisuzoval – poněkud nelogicky – závist nad tím, že nemohla být slavnou minulostí. Laureát mluvil dlouho, z papírku, hlas mu zněl v megafonech hodně dutě, takže nerušil, a jeho účin na obecenstvo, trpící vojenským nedostatkem spánku, se plynule zvyšoval. Vzadu opět zarachotil pád těla vysíleného příslušníka bojových chemických látek a dekorovaný důstojník se znovu, tentokráte mnohem výhrůžněji, otočil.
-
-  
 
 Laureát přešel k velebení současného tisku a literatury, která těm šťastným budoucím dochová pravdivý a nezkreslený obraz celé šířky, hloubky a pestrosti doby; její paleta se mu – opět nelogicky – jevila v různých odstínech lososové barvy.
 
@@ -59,9 +67,9 @@ Nakonec, zamžourav po soudružkách z Armádního uměleckého souboru ve velm
 
 Milosrdný a nevyzpytatelný původce všeho přece jen Robertu Neumannovi nadělil malou útěchu: do středu půlkruhu těch ztepilých dívek ve velmi slušivých uniformách vstoupila krasavice s ostře zelenýma očima. Nebylo ani třeba ji ohlašovat, všichni ji znali z několika filmových rolí pikantních mladých zednic a soustružnic, a uvítal ji neorganizovaný potlesk. Medovým hlasem pravila, že přednese vítěznou báseň letošního ročníku Armádní soutěže tvořivosti, báseň četaře Roberta Neumanna, báseň _Rozloučení s vojnou_. A v Robertu Neumannovi se zdvihla malá a potom stále se zvětšující euforie.
 
-  
-
 Jeho vítězný příspěvek byl produktem zoufalství a krize, které nevyvolala skutečnost, že mu už končí vojenská služba, jak se v básni předstíralo. Herečka také, jako by vycítila, že líčené smutky jsou spíše intimní než společensko-militaristické povahy, zvlažila ty verše (Ludmila jim říkala „frky“) vlahým oparem profesionální erotiky. Šeptala do mikrofonu:
+
+  
 
 > _Pod kroky listí zašustí mi,  
 > kostlivý praskot střechýlí.  
@@ -81,13 +89,13 @@ Jeho vítězný příspěvek byl produktem zoufalství a krize, které nevyvola
 > nám zem dá svoje sličné štěstí  
 > a my se jejím štítem stanem._
 
+  
+
 Roberta Neumanna dojala vlastní slzavost k upřímným slzám. Zbytek publika upoutala spíše recitátorka. Některé dokonce ani ta ne. Znavený příslušník bojových chemických látek se během přednesu potřetí zřítil ze židle a byl, na rozkaz dekorovaného důstojníka, službou vyveden ze sálu.
 
 * * *
 
 O něco později seděli všichni poctění kolem dlouhého stolu v malém sále na velitelství divize a naslouchali náčelníku klubu.
-
-  
 
 „A tak, soudruzi,“ říkal tento plukovník jménem Vrána, zvaný mezi mužstvem soudruh Suchoprd, „vyznamenali se v letošní soutěži obzvláště dělostřelci, a to jak počtem odměněných básníků, tak také počtem účastníků sekce poezie vůbec. A to je obzvláště důležité, soudruzi, a obzvláště radostné, neboť my nechceme pěstovat vynikající jedince, soudruzi, ale spolehlivý kolektiv. Naše heslo bylo, jest a vždycky bude: Za masovost!“
 
@@ -180,7 +188,11 @@ Tento trpící desátník se jmenoval Josef Brynych a básně nikdy v životě
 > Zpívám  
 > a myslím na tebe._
 
+  
+
 Jeho unavený mozek se na chvíli zastavil u verše a padá, břinknuv o nebe, a desátník Brynych se mimovolně pokusil představit si, jak veselý nápěv pěší čety břinká o nebe. Představil si něco, co letí a břinká o jakousi pevnou, elastickou hmotu, a pak to padá. Potom si představil jejich četu, a kdy naposledy zpívala. Vesele. To bylo dávno. Vrátil se znovu k básni a zjistil, že k rýmu vzlétá – četa by bylo možno připojit rým teta. To ho zaujalo. Počal hledat vhodný verš, až ho našel. Báseň poručíka Jana Vrchcoláka ve vylepšení desátníka Brynycha zněla nyní takto:
+
+  
 
 > _Veselý nápěv dravě vzlétá  
 > a padá, břinknuv o nebe.  
@@ -190,7 +202,11 @@ Jeho unavený mozek se na chvíli zastavil u verše a padá, břinknuv o nebe
 > a myslím na tebe.  
 > Ale hlídá tě tvoje teta._
 
+  
+
 Desátníkova fantazie, která se tímto tvůrčím výkonem probudila, začala pracovat dál. Po jisté úvaze prodělala báseň další podivnou metamorfózu:
+
+  
 
 > _Šedivá nuda k nebi vzlétá  
 > a padá rovnou na tebe.  
@@ -202,20 +218,24 @@ Desátníkova fantazie, která se tímto tvůrčím výkonem probudila, začala 
 > Taková votrava  
 > není ani u pétépé._
 
+  
+
 Byl tím zcela pobaven. S probuzeným zájmem se zahleděl na další sloky Vrchcolákovy básně a zrak mu padl na oznámení otištěné pod ní, že uzávěrka divizního kola Armádní soutěže tvořivosti končí dnem 15. července. To obrátilo jeho úsilí jiným směrem. Zničehonic se rozhodl, že se soutěže zúčastní. Nikdy nic takového neudělal. Zjistil však, že psaní básní je docela dobrá zábava. Vytáhl ušpiněný kapesní kalendář a začal přemýšlet, o čem psát. Pak ho bůhvíjak napadl jeho kufr s obrázkem Blaženky a modřáneckého náměstí na vnitřní straně víka a pomyslel si, že tahle otrava už přece jen brzy skončí a on zase usedne ve voňavé kuchyni u Blaženčiných rodičů a bude mlít kafe na starožitném mlejnku a Blaženka v modré zástěrce bude chystat večeři a paní Jarošová, její matka, mu bude říkat Pepo a vykat mu, a pan Jaroš bude pleskat Blaženku přes zadnici a Blaženka se bude ohánět rukou a říkat no tak, tatí, a pan Jaroš bude mrkat na něj a říkat: To je douče, co? Krev a mlíko! a Blaženka se bude červenat a koukat po očku po něm a v jejích modrých očích bude příslib radostí po svatbě, a že tu svatbu už budou mít brzo, hned po Vánocích: desátník Brynych, když se takto naplnil poetickými představami, vydal ze sebe první čtyřverší své první básně:
+
+  
 
 > _Vy kufry vojenské,  
 > majáčky Naděje!  
 > Tvářemi žen a měst  
 > vojáci zdobí je._
 
+  
+
 Poslal to v zalepených obálkách dvojmo, jednou redakci _Obrněné pěsti_, jednou Ctěné slečně, sl. Blažence Jarošové, prodavačce u fy Pramen n. p., Modřánky, p. p. Rakovník. Od Blaženky přišlo nadšené psaníčko, v _Obrněné pěsti_ se za čas objevilo oznámení, že mezi odměněnými čestným uznáním za báseň v divizním kole AST je i desátník Brynych Josef. A teď tu seděl a lampasáci ho odkrejvali. Desátník Josef Brynych dostával pomalu strach, aby mu účast v soutěži nakonec nepoškodila kádrový posudek. Majorovo huňaté obočí se stahovalo jako bouřkový mrak a on byl zdravý mladý muž, zaměstnaný v administrativě velkoobchodu.
 
 * * *
 
 „Ano, z hlediska morálně politické výchovy našeho vojáka hluboce, hluboce pochybený verš, soudruhu desátníku,“ říkal rozhořčeně major, který ovšem neměl ani tušení o genealogii básně. Vytušil však kupodivu přesně její inspirační zdroj.
-
-  
 
 „_Naděje_, soudruhu desátníku. Na co _Naděje_? A ještě jste to napsal s velkým N! Když si takový mladý soudruh přečte takový verš, tak si hned pomyslí, na co _Naděje_? Ano, soudruhu desátníku, my víme, že se vojákům stýská po jejich blízkých a drahých. Ale my v nich tyto tendence podporovat nesmíme, soudruhu desátníku. My v nich tyto tendence, soudruhu desátníku, musíme potírat! My jim musíme ukazovat, jak oni právě tou svou prezenční službou hájí ty své drahé doma, jak střeží jejich klid a klid jejich dětí. My jim musíme ukazovat, jak mají být hrdi na svou vojenskou službu. My nechceme, aby vojáci seděli večer na kufrech a dívali se na fotografie svých děvčat a vzdychali. My chceme, aby byli na kulturně politické světnici a zpívali naše masové písně a tančili naše masové lidové a vojenské tance, pravda? A v tomto úsilí, soudruhu, nám, soudruhu, vaše báseň, soudruhu, nepomáhá. Ne, soudruhu. Toto úsilí nám, soudruhu, vaše báseň, soudruhu, maří!“ Z očí pod huňatým obočím vylétávaly rakety, hlava se výhrůžně ponachýlila k desátníkovi Brynychovi, každé „soudruhu“ znělo jako salva popravčí čety. Úředník tabákového skladu cítil, jak mu záda vlhnou chladným potem. Tohle, sakra, nechtěl!
 
@@ -247,19 +267,23 @@ Muž, který se takto uvedl a pak vzhlédl k dílu vzbuzujícímu nadšení pr
 
 Nyní se básník nadechl, spustil oči z radostného výjevu na stropě a pokračoval: „Vezměme si dvě závěrečná čtyřverší, soudruzi:
 
+  
+
 > _Vy kufry vojenské,  
 > až slzy deště skanou  
 > na oprýskaný lak  
 > za kasárenskou branou,_
+
+  
 
 > _kus života my všichni  
 > v nich poneseme domů  
 > a podzim pohltí nás  
 > v šedivou deště clonu._
 
-Zachycuje to, myslím,“ pokračoval, „velmi výstižně jednu věc: náladu podzimní přírody. Po této stránce – je to, myslím, báseň zdařilá. Ovšem, zeptáme-li se po jejím politickém dosahu, to je už otázka jiná. Řekněte sám, Mistře, jaký je výsledný dojem, základní tón práce? Veselí? Optimismus? Hrdost? Pýcha na vojenský stav? Radost z návratu k práci v civilu? Myslím, že ne. Myslím, že základní tón té básně je jakýsi smutek. A to smutek neoprávněný, smutek neodpovídající ani poměru našeho vojáka k vojenské službě, ani jeho poměru k soukromému životu. Zkrátka smutek, který nemá být a který není součástí psychologické výzbroje našich jednotek. A proto myslím, soudruzi, že tato báseň vzbuzuje ve vojenském čtenáři nálady, které na vojnu nepatří, které mu nepomáhají řešit problémy a překonávat překážky jak jeho vojenského, tak jeho civilního života, které, myslím, nakonec jeho vztah k životu a k jeho skutečným dnešním problémům kalí a zatemňují.“
-
   
+
+Zachycuje to, myslím,“ pokračoval, „velmi výstižně jednu věc: náladu podzimní přírody. Po této stránce – je to, myslím, báseň zdařilá. Ovšem, zeptáme-li se po jejím politickém dosahu, to je už otázka jiná. Řekněte sám, Mistře, jaký je výsledný dojem, základní tón práce? Veselí? Optimismus? Hrdost? Pýcha na vojenský stav? Radost z návratu k práci v civilu? Myslím, že ne. Myslím, že základní tón té básně je jakýsi smutek. A to smutek neoprávněný, smutek neodpovídající ani poměru našeho vojáka k vojenské službě, ani jeho poměru k soukromému životu. Zkrátka smutek, který nemá být a který není součástí psychologické výzbroje našich jednotek. A proto myslím, soudruzi, že tato báseň vzbuzuje ve vojenském čtenáři nálady, které na vojnu nepatří, které mu nepomáhají řešit problémy a překonávat překážky jak jeho vojenského, tak jeho civilního života, které, myslím, nakonec jeho vztah k životu a k jeho skutečným dnešním problémům kalí a zatemňují.“
 
 „Ano, ano,“ pravil laureát Bobr. „Já to také říkám. Jenom ne smu­tek,“ a do debaty se pak vmísili další. Jakýsi uznáním poctěný svobodník poznamenal, že někdy je smutek neoddiskutovatelný fakt, na což mu ausácký major, rozhorlený vývody Bivoje Balíka, odpověděl, že potom je proti němu třeba bojovat. Jedna poetická duše prohlásila, že v pocitu smutku je jakási nenávistná síla a že všichni revolucionáři byli smutní. Bivoj ho hladce vyřídil tím, že je to idealistický omyl a aby mu nějaké smutné revolucionáře jmenoval, a jestliže mu je bude jmenovat, aby dokázal, že byli smutní. Tankistický politruk prohlásil, že u jeho tankové jednotky, kde je kuchařem poddůstojník Lebeda, jsou soudruzi veselí a nemají také proč být smutní. Jistý četař Pankůrek začal rozvíjet názor o tom, že poezie má kromě své hodnoty ideové také hodnoty, aby se tak řeklo, v jistém slova smyslu tezaurační, totiž že obohacuje život a vytváří pokladnici pestrých citů. Na to ausácký major odpověděl, že dnešní život je dost bohatý a pestrý i bez smutku.
 
@@ -272,8 +296,6 @@ Nalézal se na asfaltce, vedoucí k budově jeho útvaru, kde je milenkou velit
 * * *
 
 Robert Neumann celý ten spor nesledoval. Uvízl v zelených očích herečky a dokonale se smířil s myšlenkou, že půjde-li to, zhřeší toho večera myšlením, řečí i skutky.
-
-  
 
 V chumlu těl, který se vytvořil po zjištění zmizení desátníka Brynycha, propletla se herečka zkušeně k vítězi a družně ho oslovila:
 
