@@ -3,6 +3,8 @@ title: "Podzimní prověrka bojové a\_politické připravenosti"
 contentType: prose
 ---
 
+<section>
+
 Před následky služby v base zachránil však rotného pitomý nápad generálního štábu vojsk: z hlavního stanu oznámili, že na podzimní prověrku bojové a politické přípravy Osmé tankové divize přijedou prověřující důstojníci o čtrnáct dní dřív, než bylo původně stanoveno. Tím ovšem generálové rušivě zasáhli do průběhu filmování, které zatím u divize probíhalo dosti poklidně, a způsobili mimo jiné, že Malinkatý ďábel na noční událost v posádkovém vězení v rozčilení zapomněl.
 
 * * *
@@ -91,61 +93,81 @@ Jeho pracoviště mělo vůbec somniferní účinky. Sotva mužstvo, složené z
 
 Protože to byl úkol lákavější než obvyklé úkoly, upustilo mužstvo od obvyklých projevů odporu k práci a rozlezlo se po učebnách. Brzo se odevšad ozývaly výzvy, aby velitel destrukční čety provedl inspekci. A rotný ji s chutí prováděl.
 
-  
+</section>
+
+<section>
 
 > _Už se to píše  
 > plnicím perem:  
 > Máme to za pár!  
 > Už na to serem!_
 
-  
+</section>
+
+<section>
 
 Stálo v učebně motorů na brzdovém bubnu levé spojky, natřeném stříbřenkou. Učebna byla slunná místnost, naplněná krásnými názornými pomůckami, jejichž výrobou strávil značný počet příslušníků prezenční služby značný počet dní. Pro svou dokonalost se nepoužívaly, nýbrž pečlivě uchovávaly pro příležitost prověrek, generálských návštěv a vizitací sovětských poradců. Na modelu brzdovratného zařízení vytvořil kdosi variaci prastaré písně:
 
-  
+</section>
+
+<section>
 
 > _Cesto, cestičko do Lipníka,  
 > potkal jsem na ní tajtrlíka.  
 > Nebyl to tajtrlík, byl to dýzl[^7].  
 > Kdybych byl neutek, byl by mě lýzl._
 
-  
+</section>
+
+<section>
 
 Na chromované hlavici ukázkového válce, který stál pod obrazem strašné bitvy, byly vyryty (takže se nedaly odstranit) verše:
 
-  
+</section>
+
+<section>
 
 > _Esli nechceš, četaři,  
 > dostat ránu pěstí,  
 > tak se někam zadekuj,  
 > je to pro tvý štěstí!_
 
-  
+</section>
+
+<section>
 
 > _Zalez za roh nebo kam,  
 > ztrať se rač mejm vočim!  
 > Nebo jak tě uvidim,  
 > tak po tobě skočim!_
 
-  
+</section>
+
+<section>
 
 A mezi řádky srovnávací tabulky charakteristických pachů různých bojových látek připsal nějaký vzdělanec azbukou:
 
-  
+</section>
+
+<section>
 
 > _Генералu mo coy naнu  
 > mы мaŭ злamы чacы  
 > Вoяųu ŭuм з вoŭны нecoy  
 > лamку нa лaмnacы._
 
-  
+</section>
+
+<section>
 
 > _Лamкy нa лaмnacы,  
 > нa рaмeнa злamo —  
 > a бoнu ŭuм, клyкyм дoбрeŭм,  
 > дaлu ƨoвнo зa mo.[^8]_
 
-  
+</section>
+
+<section>
 
 Nakonec, když zničili, co se dalo, kromě hesel na stěnách, a ponechali učebnu bez estetiky, odebralo se komando ještě na latrínu, aby dokončilo dílo zkázy.
 
@@ -153,43 +175,57 @@ Nakonec, když zničili, co se dalo, kromě hesel na stěnách, a ponechali uč
 
 Latrína byla větrná budova bez dveří s řadou kulatých děr v šikmém prkně a se svažitým žlabem, který páchl dehtem a močůvkou. A právě obrovská plocha stěny nad žlabem, přes niž se táhl nápis PROVEDU, vyhotovený nehašeným vápnem ve smělých tazích malířské štětky, skytla miláčkům múz téměř neomezené možnosti. Mezi plejádami kresbiček, z nichž většina tvarem připomínala kosočtverečné taktické značky středního tanku (ale měla význam úplně jiný, radostnější), spojovaly se tu v podivuhodných přechodech nápisy a verše poetické, politické a pornografické a byl tu i koutek vojínů maďarské národnosti, nesrozumitelný ostatním. Vedle oznámení inzerátového charakteru _Hledám pohon pro svůj ohon_ zaznamenal zde zatvrzelý ideolog názor, že _Jest třeba odstraniti vykořisťování!_. Pod tradičním konstatováním _Tady se to prima sere, vítr fouká do prdele_ (jehož mimořádnou pravdivost potvrzovaly zvuky meluzíny, neustále kvílející v řadě různě naladěných záchodkových děr jako v opuštěných červotočivých varhanách) napsala ruka reakčního vojína _Ať zhyne krvavý bolševismus!_, kteréžto poslední slovo přeškrtla ruka vojína pokrokového a nadepsala slovem _kapitalismus_. A přímo pod programovým heslem _Nechte si řády, dejte nám ženský!_ vyryl sexuálně naladěný poeta do velkého kosočtverečného rámu verše:
 
-  
+</section>
+
+<section>
 
 > _Anka, Anka, co to děláš?  
 > Povídali, že ji nemáš!  
 > Však já si ji ušiju  
 > z krepovýho papíru!_
 
-  
+</section>
+
+<section>
 
 > _Papírová, to nic není!  
 > Jednou práskneš a je po ní.  
 > Nejlepší je kožená,  
 > ta je na to stvořená._
 
-  
+</section>
+
+<section>
 
 Práce vojínů zde pokračovala pomaleji. Bohatství nápisů je při­vedlo na myšlenku (v podstatě kulturní) uchovat alespoň část toho pokladu pro budoucnost; a tak vytáhli zápisníky a nejcennější exponáty pomalu přenášeli škobrtavým písmem na umolousané stránky. Rotný se posadil na jednu z opuštěných děr a zahleděl se na pruh stěny, osvětlený sluncem, jež problesklo z roztrhaných mraků. Nějaký Slovák tam písemně jásal:
 
-  
+</section>
+
+<section>
 
 > _Priprau milá, priprau dieru,  
 > zajtrá idem do civilu!_
 
-  
+</section>
+
+<section>
 
 A rotný se zahloubal, zasnil. Lid je básníkem, aniž o tom ví, přednášel jim kdysi kdesi jakýsi realistický kulturní pracovník, a rotný přemýšlel, anebo spíš převaloval v hlavě své obvyklé neurčité myšlenky, promíšené představou kudrnaté zahrádky Janinčiny a otázkami ideologie, jimž se cynicky vysmíval a potají jimi trpěl, a pletla se mu do nich kulatá tvář soudružky redaktorky Lucie Valentinové i zelené oči nedobytné Lizetky, komplikovala je strašlivá tíže života, kterou doopravdy ze sebe dovedl setřást, jenom když sarkastickými synkopami na uslintané altce v kapele útvarového estrádního souboru ironizoval radostné tóniny neradostných koncertů pro členy patronátních JZD v oblasti kobyleckého výcvikového prostoru.
 
 A pak se konečně zvedl, vydal rozkaz k zamazání nápisu
 
-  
+</section>
+
+<section>
 
 > _Tankový pluk číslo patnáct  
 > spokojeně žije v klidu,  
 > protože tam místo kázně  
 > nastolili vládu lidu_
 
-  
+</section>
+
+<section>
 
 a odvelel své komando zpátky na učebny, kde se v místnosti řízení rozložili co nejpohodlněji po cvičných stolicích a zbytek dne až do večerky prospali.
 
@@ -279,11 +315,15 @@ Pak konečně zaregistroval touhu rotného Maňase po uplatnění nabytých věd
 
 „Dílcovou metodou odhadnu vzdálenost nepřátelského vozidla,“ pravil svěže rotný. „Ze známé výšky amerického tanku typu Sherman a z předpokládané rychlosti v přímém směru vypočítám – podle vzorce
 
-  
+</section>
+
+<section>
 
 ![vzorec.jpg](./resources/vzorec_fmt.jpeg)
 
-  
+</section>
+
+<section>
 
 kde _V_ je vzdálenost v mezích metné délky, _r_ odhadnutá rychlost a _0,75_ vzorcová konstanta a kde malé _v_ je rychlost protipancéřové střely – nutné nastavení zaměřovače, nastavím na třetí stupnici zleva, určené pro průbojné protipancéřové střelivo, zjištěnou vzdálenost, vydám příslušné rozkazy nabíječi a řidiči a vypálím.“
 
@@ -358,3 +398,5 @@ A útvar ptáků na nebi se rozhodl, bez rozkazu sešikoval a v pravidelné f
 [^8]: Generáli to jsou páni,/ ty maj zlatý časy./ Vojáci jim z vojny nesou/ látku na lampasy.// Látku na lampasy,/ na ramena zlato –/ a voni jim, klukum dobrejm,/ dali hovno za to. Pozn. red.
 
 [^9]: Dlouhý kabát z ovčí nebo králičí srsti. Pozn. red.
+
+</section>

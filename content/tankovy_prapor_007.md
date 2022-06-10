@@ -3,6 +3,8 @@ title: "Sedmý tankový prapor v\_útoku na spěšně vybudovanou obranu nepří
 contentType: prose
 ---
 
+<section>
+
 Ve 23.47, tedy přesně o 17 minut později, nežli stálo v plánkonspektu, vykonal kapitán tank. Václav Matka kontrolu rozmístění bojových vozidel ve východišti k útoku a postál asi pět minut u tanku, jemuž velel četař Krajta, aby se podíval na zahájení okopových prací. Měsíc, napůl skrytý podzimními mráčky, zaléval přízračným světlem pětičlennou skupinu, bušící otupenými krumpáči do kamenité země, a tank, který se tyčil v pozadí a zdvihal ocelový nos k světélkujícímu nebi, vypadal, jako by zasněně hleděl někam naproti na stráň Okrouhlického vrchu, rozrytou stopami mnoha útoků.
 
 Jakmile se kapitán obrátil a spolu se svým průvodem, upjatým do montgomeráků, zmizel v noční páře mezi roztroušenými stromy za tankem, pracovní úsilí skupinky se rychle zmírnilo. Kapitán sám, oděný neposkvrněnou kombinézou, na níž byly ještě patrné vymačkané hrany (následek dlouhého skladování v intendančním skladu), kráčel magickým příšeřím zářijové půlnoci k svému štábnímu vozu. Necítil nic z poezie této podivné předpůlnoční chvíle a podivné situace; přemýšlel, jaký byl blbec, když se před dvěma lety, kdy mu trochu hořela koudel ve Státní pojišťovně, dal nachytat na armádní výzvu, zanechal pohodlného postavení kádrováka a odešel do zvláštního desetiměsíčního kursu pro rychlovýrobu tankových specialistů se zajištěným brzkým povýšením. Tehdy neměl tušení o nějakých nočních cvičeních, která se konají týden co týden a za každého počasí. Ani o jiných podobných nepříjemnostech. Došel na cestu a posvítil si baterkou na plánkonspekt: „_23.00–04.00 osádky provedou okopové práce a zamaskování bojových vozidel, 04.30–04.50 pohotovost k vyražení k útoku, 04.50 zahájení dělostřelecké přípravy, 05.00 vyražení k útoku_.“ Může tedy do půl páté spát. Měl by ovšem chodit po osádkách a sledovat práci. Ale hovno. Zhasil lucerničku a odbočil z cesty ke křoví, kde stál zamaskovaný štábní vůz. Zastavil se u schůdků a obrátil se na svého průvodce.
@@ -497,11 +499,15 @@ Po dobrácké tváři četaře Koblihy se rozlil dobrácký úsměv.
 
 Malinkatý ďábel chtěl původně něco namítnout – ačkoliv z hlediska praxe tohoto tisíckrát probojovaného bojiště se stěží dalo něco namítat –, ale zůstal té duševní námahy ušetřen; ke skupině totiž právě dorazil vojín s cedulí a pátravě se rozhlédl po shromáždění, hledaje nejvyšší šarži, jíž by se zahlásil. Jakmile si všiml nepatrného důstojníka, ihned se orientoval. Rázně předstoupil před majora, postavil ceduli na zem, přidržel si ji levou rukou a pravou zasalutoval. Oči všech přítomných spočinuly na ceduli, kde bylo červeně namalováno zlověstné heslo:
 
-  
+</section>
+
+<section>
 
 TŘI TANKY SHERMAN
 
-  
+</section>
+
+<section>
 
 „Soudruhu majore,“ zazpíval nepřítel. „Dovolte mi dotaz!“
 
@@ -519,11 +525,15 @@ TŘI TANKY SHERMAN
 
 Bylo mu to dovoleno. Provedl na změklé půdě ne zrovna úspěšně čelem vzad a vydal se na pochod k nepřátelským liniím. Jak se otočil, ukázalo se, že na zadní straně cedule je týmiž červenými písmeny namalováno:
 
-  
+</section>
+
+<section>
 
 ROTA TANKŮ KROMVEL
 
-  
+</section>
+
+<section>
 
 „Za mnou!“ rozkázal Malinkatý ďábel a vyrazil za další obětí.
 
@@ -806,3 +816,5 @@ Když skončil, přemožen vichřicí, jež zdvihla mohutné sloupy prachu z ta
 [^1]: Boxy, např. na náboje. Pozn. red.
 
 [^2]: Hrdelní mikrofony, u nichž se hlas nepřenáší ústy, ale přitisknutím k hrdlu. Pozn. red.
+
+</section>

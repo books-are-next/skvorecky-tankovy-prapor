@@ -3,6 +3,8 @@ title: "Lekce z\_katolického náboženství"
 contentType: prose
 ---
 
+<section>
+
 Po službě se rotný u velitele nehlásil. Táhlo ho to do Prahy, neboť na to poukazovala konstelace okolností: nadporučík Pinkas trávil (toho roku už třetí) víkend v kruhu rodinném, naproti tomu z vojenského tisku se dočetl, že v divizním kině n-té divize je dnes slavnostní večer na počest vítězů soutěže tvořivosti. Bylo tedy jasné, že vítěz této soutěže v oboru poezie nebude ten večer na propustce ani načerno u své manželky. A rotný, přes novou a zcela jinou poezii svítících střel, hvězd nad tankodromem a ložnice, odkud je na ně z okna vidět, nehodlal propást takovou příležitost k novému pokusu o manželskou věrnost té zvláštní dámy.
 
 Aby se vyhnul případným komplikacím s kapitánem Matkou, použil obvyklé ilegální cesty, jíž se příslušníci Sedmého tankového praporu dostávali na svobodu. Hned z věznice odešel na půdu v budově praporu, kde byla šatna, navlékl se do vycházkové uniformy, zjistil si u služby, že velitel je na večeři, u staršiny si předčasně vyzvedl dovolenku, padělal na ní kapitánův podpis a zastavil se u svobodníka dr. Mlejnka, písaře praporu: ten paklíčem otevřel ocelovou skříňku s útvarovými razítky a jedním z nich potvrdil pravost falešného dokumentu. Pak rotný zmizel v houstnoucím šeru na cestě vedoucí mezi budovami kasáren k železniční stanici. Ale přestože byl vybaven tak dokonalým falsifikátem, přes bránu nešel. Volil méně nebezpečnou cestu přes parčík za hlavními lázněmi a dírou v plotě pod železničním náspem, přes potok a po mezi v polích, až dorazil na silnici do Kostelce. Tímto způsobem bezpečně opustil přísně střežený výcvikový prostor a vydal se pěšky do města, aby stihl rychlík do Prahy.
@@ -91,15 +93,21 @@ Rotný otevřel dveře do druhého pokoje, kde bylo naopak úzkostlivě uklizeno
 
 Vrátil se do prvního pokoje, shodil věci z jednoho křesla na zem a vytáhl několik dopisů z hromady předmětů na nočním stolku. Vzal jeden a četl:
 
-  
+</section>
+
+<section>
 
 > _Drahá, chci Vám neustále psát, ale nejde to. Pochopte, že člověk v tomto obklíčení pustotou nemá odvahu a bojí se všeho. Vymyslil jsem si pro Vás už tolik dopisů, od té doby, co jste odešla, ale zatím jsem napsal jen jediný. Často, nikoli s nepochopením, nikoli s chladem, jsem teď myslil na Vaši zvláštní svatost a poctivost._
 
-  
+</section>
+
+<section>
 
 Svatost zvaná frigiditas. Poctivost zvaná narcisismus. Nepodíval se na podpis. Kurisu, odhadl zkušeným okem text jako dílo prvního ze svých následovníků. Tak japanologovi taky nedala, pomyslel si se zadostiučiněním. Aspoň mám to prvenství, že jsem jí jako primus inter pares ukázal, jak katolické manželství nevylučuje platonickou nevěru. Ovšem s postranní myšlenkou, že její platonická nevěra skončí, s přičiněním katolického čertíčka, tím koncem, s nímž už katolická manželka musí do zpovědnice. To se mi teda nepovedlo, vzdychl, ale zato se mi dokonale podařilo udělat z ní perfektní platonickou kurvu. _Lizette_, pustil se do dalšího dopisu; existenciální citace snadno prozradily Maurice, kolegu v platonismu, vyrostlého za války v neokupované Francii: _Lizette, jest to dosti hrozné. – Píši Vám a nejhorším problémem jest nemoc duše zvaná nuda. Není úniku, není žádné cesty ven než té, po které kráčíme, ale ta možná nemá konce ani začátku. Myslíte, že jsme se kdy potkali, moudrá královno? Píšu Vám, Karino, a nevím, zda jste živa_. No. Sáhl po dalším psaní. Nebyl to vlastně dopis, ale zmačkaný lístek. Na jedné straně bylo neumělou rukou nakresleno červené srdce, k srdci vedla červená šipka a u ní neznámá ruka připsala v chatrné angličtině:
 
-  
+</section>
+
+<section>
 
 > _It is your heart and beats only for me?_
 
@@ -115,7 +123,9 @@ Svatost zvaná frigiditas. Poctivost zvaná narcisismus. Nepodíval se na podpis
 
 > _Attention! My man see you!_
 
-  
+</section>
+
+<section>
 
 Tohle teda je někdo nový. A pěkný pásek. Aspoň by se měl naučit pořádně anglicky. Na druhé straně papírku však použili mateřštiny: _To jsem to velmi obratně řekla, viď? A on určitě nic nepoznal!_ A pod tím, jinou rukou: _Jste kráska a on zvíře!_ A dále: _Proto to musím říkat, jinak by vylít a sežral by tě, Budulíne_. Tím zápis končil. Možná že na tomto místě byl Budulín skutečně sežrán. Jestli byl, určitě už přiskočila nějaká náhrada.
 
@@ -344,3 +354,5 @@ A to už věděl, že s ní zase nic nepořídí. Znásilnit ji nemohl. Jednou
 Aspoň se na ni tedy přitiskl a položil jí dlaň na hladké, kulaté rameno. V tom jejím pekle to nemůže být horší. Zešílím z toho jejího netečného těla vedle sebe. Slyšel její pravidelné oddychování. Usnula. Zešílím. Zešílím.
 
 Ale nezešílel. Upadl do dřímoty, v ní s ním spáchala ten hřích, ona sama sice nehmotně, snová ona, ale jinak, v systému a funkci jeho žláz, docela tělesně. Napadlo ho ještě, proč tolik utrpení kvůli takové snadno odreagovatelné hlouposti. A jestli nemá pravdu ona a svaté náboženství: zduchovnit se, oprostit se, a potom usnul, zduchovnil se, oprostil se od všeho, bylo to zase jako sladká smrt. Sladká, protože v spánku nevěděl, že z téhle se probudí.
+
+</section>

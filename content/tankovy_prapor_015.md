@@ -3,6 +3,8 @@ title: Kulturně masový večírek na rozloučenou
 contentType: prose
 ---
 
+<section>
+
 Den před večerem, kdy měl Sedmý tankový prapor pořádat večírek na rozloučenou, vyvinuli oba političtí horlivou činnost. Dozvěděli se totiž, že tuto původně domácí slavnost poctí svou přítomností majoři Borovička a Sádlo, takže celá záležitost nabyla pro ně poněkud rázu existenční zkoušky. Večírek, jímž se vojáci loučí s dvěma (a půl) lety základní vojenské služby, měl prokázat, čemu je vojna naučila po stránce mravně ideové, a představa, kterou o podobných podnicích rozšiřovaly příručky pro politické pracovníky, byla teoreticky zcela přesná. Byla to vize o manifestaci politického uvědomění a horoucího vlastenectví vojáků, kteří strávili dva (a půl) roku v neustávajícím a ukázněném poklusu, postoji pozor, pohybu pořadovým krokem, disciplinovaném mlčení a ještě disciplinovanějším odříkávání řádů. Vojensko-masové písně, vojenské a lidové tance, recitace a umělecký přednes, maňásky i výstupy lidových vyprávěčů a kouzelníků měly se vystřídat v pestrém a bohatém programu lidové tvořivosti; na něm teď oba politruci opožděně, ale pilně počali pracovat.
 
 Naštěstí měli opět k dispozici rotného Maňase. Ten mytický hrdina Sedmého tankového praporu debakl na Větrnici úspěšně přežil, ačkoliv mu plukovník Helebrant na znamení degradace serval ná­rameníky, ještě když ho odnášeli z tanku na nosítkách. Dramatičností zásahu chtěl plukovník zneutralizovat nepříznivý dojem, jaký ostrostřelcův neúspěch vyvolal u sovětského poradce, který si skokem z pozorovatelny podvrtl kotník. Ale rotný (nyní vojín) Maňas se uchýlil k stejně dramatickému protitahu. Sotva se na ošetřovně poněkud zotavil, nařízl pilkou trám na latríně, pověsil se na něm za plátěný opasek (i ten pro jistotu nařízl) a zřítil se s rachotem do mísy. Díky akustické komponentě sebevražedného pokusu byl ihned objeven a převezen na psychiatrické oddělení posádkového lazaretu. Tam ho v rámci starostlivého zájmu o podřízené plukovník Helebrant navštívil, rotný před ním klesl na kolena, a obměkčený velitel mu proto (po rozmluvě mezi čtyřma očima, kterou si vyžádal posádkový pracovník OBZ) hodnost rotného opět navrátil (později, jako jediný příslušník Sedmého tankového praporu, odešel rotný do zálohy v hodnosti podporučíka). Následovalo rychlé zotavení a cenný voják (a pracovník) dorazil k svému útvaru právě ve chvíli, kdy oba političtí vyběhli z kanceláře, aby pátrali po realizovatelných výsledcích své výchovné činnosti.
@@ -65,22 +67,30 @@ Poručík obíhal budovu, hnán touhou po bedně na tajné spisy na politickém 
 
 Na politickém oddělení prohrabal všechny papírové pyramidy, které se tam nakupily za dobu jeho čilé neaktivity. Příručku nenašel a v zoufalé náladě se vrátil do jídelny. V dřevěné budově se ne­urvalé hlasy pokoušely zazpívat píseň _Stalinští sokoli_ vojenským mnohohlasem (tak tuto vokální formu nazval kdysi svobodník dr. Mlejnek). Když ho nadporučík Růžička vpustil do zamčeného sálu, spatřil poručík scénu, jež ho nenaplnila přílišnými nadějemi: mužstvo Sedmého tankového praporu sedělo v přední části jídelny u stolů pokrytých půllitry piva (úplatek, zakoupený nadporučíkem Růžičkou z jeho soukromých zdrojů) a pělo s vervou zmíněnou píseň, kterou (v jiné tónině) hrál četař Kobliha na kytaru, a to vše se přičinlivý rotný Maňas pokoušel dirigovat, prohrabuje si občas ježka s výrazem Toscaniniho.
 
-  
+</section>
+
+<section>
 
 > _Gardoví tankisti naši jedou,  
 > dó boje, dó boje za vlast a mír,  
 > zá mír, za Stáhalinem,  
 > každý_
 
-  
+</section>
+
+<section>
 
 zde předpisoval poněkud agramatický text větu:
 
-  
+</section>
+
+<section>
 
 > _v boj buď připraven!_
 
-  
+</section>
+
+<section>
 
 ale poručíkovi se zdálo, že odkudsi ze sboru, patrně z míst, kde se od ostatních separovala skupinka intelektuálních poddůstojníků (zesílená mistrem v řízení tanku četařem Očkem, desátníkem Střevlíčkem a vojínem Bamzou), proniká text poněkud jiný. Měl dojem, že pod předepsaným veršem jako by ozvěna přidávala va­riaci, gramaticky sice správnější, avšak hrubě urážlivého obsahu. Nemýlil-li ho sluch, zněla: _Každý pyj buď připraven!_ Jelikož šlo o refrén, měl příležitost vyposlechnout si čtyřverší několikrát, a nabyl jistoty, že sluch ho nemýlí. Ale nezakročil rázně, jak by bylo bývalo namístě. Vyzval sbor pouze, aby se „na večer lépe vyladili a hlavně naučili správně text, a ne jak tam někteří zpívají cosi chybně“, a vrátil se, drcen předtuchami, na politické oddělení.
 
@@ -88,7 +98,9 @@ Vojáci pak rychle přejeli ještě _Pochod tankistů_, dokonale známý celé p
 
 Na politickém oddělení pak důstojníci po několikahodinovém úsilí sestavili a po pěti pokusech i na stroji s relativně malým množstvím překlepů a pravopisných chyb napsali tento program:
 
-  
+</section>
+
+<section>
 
 VAČIREK NA ROSLOUCENOU  
 mužstva a podůstojníků 7. Tank. prp.  
@@ -137,14 +149,18 @@ Z gastronomických požitků večera nic neměli ani oba političtí. I oni zo
 
 Tváře důstojníků vytvořily škálu od zuřivé nenávisti, šlehající z očí Malinkatému ďáblovi, přes velitelskou spokojenost v obličeji Matkově, přes usměvavou úzkost pekaře i číšníka až po lhostejný nezájem poručíka Grünlicha, jenž kravími pohyby čelistí zpracovával zbytky salátu v obrovské míse. Jednodenní sbor Sedmého praporu spustil čistě atonálním způsobem mnohohlasý _Pochod tankistů_, vzniklý ze známého _Pochodu SNB_ nahrazením slov „bezpečnostní sbor“ v refrénu poněkud nelogickým, ale sluchu kapitána Matky milým „tankistickým sborem“.
 
-  
+</section>
+
+<section>
 
 > _Už sme zase doma zpátky  
 > ze slovenských velkých hor.  
 > S úsměvem se domů vrátil  
 > tankistický mladý sbor!_
 
-  
+</section>
+
+<section>
 
 Tak pěla většina chóru, jenom skupina kolem četaře Krajty jako by opět zpívala cosi jiného, co naštěstí zaregistrovaly jen přecitlivělé uši poručíka Hospodina. Místo „domů vrátil“ se ve spleti mnohohlasu vnukala posluchačům slova „k děvkám vrátil“ – ale v hřmění chraptivých melodií to takticky zanikalo.
 
@@ -154,25 +170,33 @@ Ať byly hudební hodnoty předvedeného jakékoliv, interpretace písně plně 
 
 Do vyklizené prostory mezi stoly vstoupil rotný Maňas a pokusil se zatvářit nadšeně a poeticky. Zdařilo se mu to pouze v rámci možností, daných jeho vrozeně chlípnými pysky a epikurským břichem, značně zvětšeným dvouletou vojenskou činností převážně ideologickou. Zaujal hrdý postoj s palcem levé ruky za opaskem a s pravicí volně připravenou ke gestům, jimiž zamýšlel poemu zvýraznit. Pak spustil vlastní kreaci:
 
-  
+</section>
+
+<section>
 
 > _Jak slzí syn, když je mu odejíti  
 > do dálné ciziny a pryč z rodné hroudy,  
 > tak slzíme i my: čas vpřed se řítí,  
 > jdem dále sloužit vlasti mozkem, slovy, údy._
 
-  
+</section>
+
+<section>
 
 Na tomto místě vznikl v hledišti šum; někteří chápali výraz „úd“ ve smyslu, v němž ho rotný používal v jiném svém literárním díle, nazvaném _Erotica_, z něhož občas po večerce předčítal a které netiskl ani neposílal do soutěží. Ale rotný, nadán záviděníhodnou hroší kůží, nedal se vyvést z míry a přednes s klidem dokončil:
 
-  
+</section>
+
+<section>
 
 > _A kdyby zahřměla děla a miny,  
 > nechť rudá vlajka vzlétne nahoru!  
 > My smetem nepřítele pásy tankovými,  
 > my od Sedmého tankového praporu!_
 
-  
+</section>
+
+<section>
 
 Tentokrát aplaudoval zejména kapitán Matka. Nebylo to z pohnutek ryze objektivních. Recitované dílo viselo už v jeho pracovně, zasklené četařem Remundou a opatřené věnováním _Svému milovanému veliteli kpt. tank. Matkovi Václavovi za tvrdé a radostné chvíle u jeho útvaru – rtn. tank. Maňas Vlastimil_. A kapitán, podlehnuv mužnému dojetí a neblahé neřesti velitelů držet projevy, zničil energickým úderem vidličky další kameninovou mísu a pronesl poslední řeč ze seriálu, jímž po celý rok obveseloval rozkladné živly svého praporu, sdružené kolem četaře ing. Krajty v exkluzivním tajném spolku _Bieglerovi kadeti_ (podmínkou přijetí tam bylo akademické vzdělání, ukončené buď závěrečnými zkouškami, nebo poúnorovou prověrkou, a složení přijímací zkoušky ze znalosti díla _Dobrý voják Švejk_). S kapitánovým vystoupením spojovali jisté naděje i oba političtí, doufajíce, že se jejich představenému podaří říct nějakou takovou kravinu, v jejíž křiklavosti by úroveň večírku zanikla.
 
@@ -240,16 +264,22 @@ Oba političtí, pokukujíce po majorově bezvýrazné tváři, se mohli utleska
 
 Mezitím se baterie lahví na důstojnickém stole téměř z poloviny vyprázdnila a mužstvo mohlo vytáhnout zbytek svých ukrytých zdrojů a umístit jej viditelně před sebe. Úvodem k tomuto vývoji byl výbuch kapitána Matky, jenž po skončené aktovce udeřil halasně do stolu, junáckým krokem přistoupil k Maňasovi a se zvoláním „To se ti povedlo, ty kluku špekounská, špekounská!“ dal své masivní ruce dopadnout na roťákovo rameno. Pod tíhou takto materiálního projevu rotný sice poklesl v kolenou, ale zároveň se služebnicky zašklebil, čehož využili oba političtí, aby v třesoucích se rukou pozvedli číše a zvolali: „Ať žije soudruh kapitán!“ Připojil se k nim mečivý sopránek snaživého poručíka Hezkého a mlčky zvednuté poháry majora Sádla a Malinkatého ďábla, jakož i směsice nezřetelných a dost podezřelých zvolání z řad mužstva. Za ní, když už téměř umlkla, udělal dramatickou tečku opilý, avšak dobře slyšitelný hlas četaře z povolání Líbezného: „Ať žiju já!“ Naštěstí přesáhla již míra alkoholu požitého důstojníky míru jejich soudnosti a do cinkotu sklenic brnkly první akordy kytary četaře Koblihy. Duo, jež mělo být uměleckým vyvrcholením kulturně masového programu, nasadilo vážné obličeje a spustilo v tklivých terciích:
 
-  
+</section>
+
+<section>
 
 > _Dům – můj rodný dům –  
 > tam, kde bůvol a sob v prérii sní…_
 
-  
+</section>
+
+<section>
 
 Oplzlý tenor četaře Koblihy tvořil zvláštní témbrový kontrast k vykleštěnému diskantu desátníka Pískala. Do nemožnosti prodlužovaná vyznění dlouhých not, provázená žbluňkavými akordy, nesla se nad rychle tichnoucím šumem mezi vojíny i důstojníky, vznášela se nad cigaretovým kouřem, nad výpary vín a likérů a nad hlavami tří přítomných politruků a stoupala k výšinám jídelny, odkud nehybně zíraly portréty, ověnčené bezbarvými ozdobami z krepového papíru. Krvavými písmeny tam rudě zářila zvláštní hesla:
 
-  
+</section>
+
+<section>
 
 KUPŘEDU ZA VYSOKOU IDEOVOST!
 
@@ -257,153 +287,205 @@ KUPŘEDU ZA VLAST!
 
 ZPÁTKY NI KROK ZA SOCIALISMUS!
 
-  
+</section>
+
+<section>
 
 > _Dům – můj rodný dům –  
 > ostrov pohádek a sladkých snůůů…_
 
-  
+</section>
+
+<section>
 
 zpíval desátník Pískal vysokou fistulkou, četař Kobliha odvážně zabíral do přibližně vyladěných strun a nitry shromážděných pohybovalo pohnutí. Sprostý nadporučík Kámen (stála před ním dobře využitá láhev chartreusky) dal se dokonce do breku, a jakmile píseň dozněla, počal výbušně tleskat. Duo mělo rozhodný úspěch, a dřív než mohl něco poznamenat Malinkatý ďábel, spustilo další píseň. Stejně jako v případě _Pochodu SNB_ přizpůsobili si oba lidoví umělci poněkud text s ohledem na zbraň, u které sloužili, a to zcela bez ohledu na obsah díla, vzniklého v dílně textařů pro útvary Pohraniční stráže. Pod vlivem ohlasu prvního čísla prodlužovali dlouhé vokály ještě virtuózněji a podivné guturální zvuky, vkládané do slov tam, kde nedopatřením připadla krátká slabika na dlouhou notu, zvyšovaly hypnotické kouzlo songu. Baladická hypnóza se zmocňovala srdcí vojáků, nevyjímaje ani tvrdé srdce kapitánovo. A pěvci pěli:
 
-  
+</section>
+
+<section>
 
 > _Tahám, kde Vlhátavá  
 > tohók si prohórvavá,  
 > mlahády tahánkistá – há  
 > nahá straží stává._
 
-  
+</section>
+
+<section>
 
 > _V ruhůce sahámopál  
 > ohóstre hlehédi v dál,  
 > aháby klihýd a mí – hýr  
 > všehém nam uhůhlidál._
 
-  
+</section>
+
+<section>
 
 > _V sihýti uhůkladů  
 > zehém jak zaháhradů  
 > střehéži tahánkistá – há  
 > prohóti Zahápadů._
 
-  
+</section>
+
+<section>
 
 > _Jehého tvrrrrrrrda pěhést  
 > drrrrrrrti zrahádcu lést,  
 > čahásto muhůsi všá – hák  
 > druhůha k hrohóbu nést._
 
-  
+</section>
+
+<section>
 
 > _Přehésto ahále všák  
 > mlahády tahánkistá  
 > nehélka nehézradí – hý,  
 > jehénom zbyhýstři zrák._
 
-  
+</section>
+
+<section>
 
 > _Vihý, že přihýde čahás,  
 > kdyhý se vraháti zahás,  
 > sehé svým děhévčatké – hém  
 > prohóžit štěhésti jahás!_
 
-  
+</section>
+
+<section>
 
 Zatroubily celé skupiny umazaných kapesníků, v porostu tváří se utvořily vlhké pěšinky. Nadporučík Růžička se v bouři jásotu nadšeně naklonil k majoru Sádlovi a prohodil, že naši vojáci mají srdce na pravém místě a vhodná písnička je dovede dojmout, stejně jako zas nakonec nějaká jiná je dovede nadchnout k nejvyšším metám a výkonům. Major Sádlo neodpověděl, protože již nevládl jazykem. Ale ani to nebylo třeba, neboť zpěváci se opět rozezpívali a nová píseň slibovala, že se zalíbí i Malinkatému ďáblovi. Ohlásili ji jako „lidovou píseň z Havaje proti imperialistům a vykořisťovatelům“, a poručík Hospodin vybuchl v spontánní potlesk, bohužel sólový, neboť většina diváků zachovala po úvodu nedůvěřivé mlče­ní. Přednesem protiimperialistické pokrokové písně překonali však crooneři všechny rekordy medovitosti:
 
-  
+</section>
+
+<section>
 
 > _Havaj, ty země písní,  
 > Havaj, proč tebe tísní  
 > dolááár…_
 
-  
+</section>
+
+<section>
 
 Tak započala chmurná lidová balada a pokračovala:
 
-  
+</section>
+
+<section>
 
 > _Havajská krásko snědá,  
 > bankéř tvé tělo hledá  
 > a za svůj dolar skoupý  
 > tě koupííí…_
 
-  
+</section>
+
+<section>
 
 > _V travnaté chýše stínu  
 > krev ztiší ve tvém klínu.  
 > Zapomeneš pro lásku  
 > na rasovou otázku…_
 
-  
+</section>
+
+<section>
 
 Pádná ideová pointa rozehřála srdce poručíka Hospodina, který s úlevou zaznamenal, že po pregnantním dvojverší se Ďáblův obličej poněkud rozjasnil. Pěvci pokračovali s rostoucím zápalem:
 
-  
+</section>
+
+<section>
 
 > _Havaj, ty země květů,  
 > zpíváš celému světu  
 > o lásce, jež není.  
 > Dolar, ten všechno změnííí…_
 
-  
+</section>
+
+<section>
 
 > _Slunce, palmové háje,  
 > láska, to jsou jen báje  
 > havajských kytár sněnííí…_
 
-  
+</section>
+
+<section>
 
 V sále, kde by uslyšel dopadnout na zem sirku, rozlehly se vzlyky četaře z povolání Líbezného. Takový ohlas povzbudil duo k ještě soustředěnějšímu útoku na city vojsk, a Kobliha s Pískalem pěli dál v tklivých terciích:
 
-  
+</section>
+
+<section>
 
 > _Kanaki silný, snědý,  
 > není to naposledy,  
 > co ruka bílé paní  
 > tě zmámííí…_
 
-  
+</section>
+
+<section>
 
 > _Až vyjde slunce rudé,  
 > milenkou tvojí bude,  
 > zapomeneš pro lásku  
 > na rasovou otázku…_
 
-  
+</section>
+
+<section>
 
 Četař z povolání Líbezný už to nevydržel. Vstal, a shodiv ze stolu několik sklenic, vyvrávoral středem sálu ven na záchod, kvíleje hlasem smíšeným se slzami: „Maminkóóó, kup mi koníčkááá!“ Jeho hlas dozněl na chodbě venku a v sále se chýlila ke konci píseň lidového dua:
 
-  
+</section>
+
+<section>
 
 > _Havaj, ty země květů,  
 > lžeš lásku celému světu  
 > havajských kytár sněnííím…_
 
-  
+</section>
+
+<section>
 
 Ještě prudký úder prstů přes struny a elegantní půlkruh, opsaný kytaristovou pravicí, končící v neurčitu, a dlouhý, vyznívající, poněkud rozladěný akord, sladký, medový… a potom zuřivý potlesk, volání slávy, cinkot sklenic, padání pod stůl, vylézání na stůl, řev, volání a brekot. Železný nadporučík Pinkas se zhroutil na desku hodovní tabule a jeho prořídlé vlasy odpluly po hladině rozlité whisky. Sprostý nadporučík Kámen objal Malinkatého ďábla a tím, že se mu mermomocí snažil vtisknout polibek, zabránil tomu poněkud také dojatému, ale přesto bdělému a ostražitému důstojníkovi kriticky promluvit. Janinka zachytila pohled rotného a lehounce pokynula hlavou směrem ke dveřím. Rotný se vytratil z místnosti. Na prostranství mezi stoly vběhlo narychlo zimprovizované kvarteto, povzbuzené úspěchem dua a stavem přítomných důstojníků, a ve složení četař ing. Krajta, četař ing. Vytáhlý, vojín Bamza a desátník Střevlíček spustilo vesele žalobnou melodii. Poručík Hospodin a nadporučík Růžička, téměř již ukolébaní v jistotu, strnuli, jako by je zasáhl blesk:
 
-  
+</section>
+
+<section>
 
 > _V roce jedenapadesát,  
 > kdy sem narukoval,  
 > ten chlap by ůž nemusel žít,  
 > co mě na vojnu vzál!_
 
-  
+</section>
+
+<section>
 
 Koutkem oka spatřil poručík Hospodin, jak sebou Malinkatý ďábel v náručí nadporučíka Kamena začal prudce škubat. Druhým okem zahlédl, že kapitán Matka se vztyčil a bedlivě naslouchá. Kvarteto pělo:
 
-  
+</section>
+
+<section>
 
 > _Do Kobylce sem narůkoval,  
 > do města málehó,  
 > dyby tak míly pámbu dal  
 > a práštil dó něhó!_
 
-  
+</section>
+
+<section>
 
 Kapitán Matka se neobyčejně energicky vymrštil ze židle, ale místo velitelského zásahu s chutí zařval:
 
@@ -411,7 +493,9 @@ Kapitán Matka se neobyčejně energicky vymrštil ze židle, ale místo velitel
 
 Kupodivu, sprostý nadporučík Kámen, v plnění rozkazů obvykle laxní, povolil sevření a nechal polozadušeného Ďábla dutě dopadnout na sedadlo. V mžiku se oba důstojníci dali do zpěvu bojové písně:
 
-  
+</section>
+
+<section>
 
 > _My sme rudí bolševící,  
 > s kapitálem nehrajem!  
@@ -419,11 +503,15 @@ Kupodivu, sprostý nadporučík Kámen, v plnění rozkazů obvykle laxní, pov
 > my to vždycky vyhrávali,  
 > my to vždycky vyhrajem!_
 
-  
+</section>
+
+<section>
 
 Na tomto místě přiblížil se k nim četař Kobliha s kytarou, a zachytiv povědomou melodii, počal ji loajálně doprovázet. Důstojníci se vzali kolem krku a přidali:
 
-  
+</section>
+
+<section>
 
 > _Říkají nám rudej teror,  
 > Gottwaldovi derviši.  
@@ -431,11 +519,15 @@ Na tomto místě přiblížil se k nim četař Kobliha s kytarou, a zachytiv 
 > my jim za to postavíme  
 > šibenici nejvyšší!_
 
-  
+</section>
+
+<section>
 
 Strženo vervou interpretace, připojilo se k nim i několik ožralých vojínů, a po chvíli nesměle, šilhajíce, i oba politrukové. Kouřem zněly závěrečné verše bojové písně, kterou však revoluční zpěvníky neuváděly:
 
-  
+</section>
+
+<section>
 
 > _Až nám soudruh Gottwald vydá  
 > k útoku rozkaz z Prahy,  
@@ -443,33 +535,45 @@ Strženo vervou interpretace, připojilo se k nim i několik ožralých vojín
 > pak najednou všem buržoustum  
 > poletěj dólu hlavy!_
 
-  
+</section>
+
+<section>
 
 Většina přítomných byla již natolik rozjařena, že sbratřující účinek alkoholu otupil ostny třídní nenávisti a vystoupení štábu bylo přijato s potleskem. Ale kvarteto četaře ing. Krajty se nehodlalo dát přetrumfnout. Na revoluční píseň z doby předúnorové navázala jiná, jejíž text pocházel z doby po únoru:
 
-  
+</section>
+
+<section>
 
 > _Nám třída dělníků zbraň dala,  
 > teď stát s ní musim den co den.  
 > Už áby si jí zase vzála.  
 > Pak téprv budu spokojen!_ 
 
-  
+</section>
+
+<section>
 
 Byla to provokace a překvapivě probudila smysl pro důstojnickou čest u sprostého nadporučíka Kamena. Znovu uchopil kapitána Matku kolem krku, z druhé strany stiskl poručíka Hospodina, zadupal nohou v rajtce a spustil za doprovodu četaře Koblihy chmurný zpěv rázu fatalistického:
 
-  
+</section>
+
+<section>
 
 > _Až k nám přídou hoši z jůesej,  
 > tak nás na útvarech všechny voběsej!  
 > Tak nás na útvarech, na útvarech,  
 > na útvarech všechny voběsej!_
 
-  
+</section>
+
+<section>
 
 Do toho vpadlo kvarteto četaře ing. Krajty optimistickým polkovým rytmem. K jeho refrénu se spontánně přidali _tutti_, pokud jim to stav dovoloval:
 
-  
+</section>
+
+<section>
 
 > _Když sme jeli na tu vojnu,  
 > zpívali sme vesele.  
@@ -479,7 +583,9 @@ Do toho vpadlo kvarteto četaře ing. Krajty optimistickým polkovým rytmem. K�
 > Vojná, vojná – vojna neni kojná!  
 > Vojná, vojná – vojna neni kojná!_
 
-  
+</section>
+
+<section>
 
 A tehdy se stalo něco hrozného. Sálem zazněl ostrý třesk pistole, všichni rázem zmlkli a strnuli. Na stole důstojníků stál Malinkatý ďábel a držel v ruce kouřící revolver. V rohu místnosti se snášel obláček prachu z omítky, kde se kulka zabodla do stropu, a padal zvolna na hlavy vyburcovaných zpěváků. Ďábel využil ticha, zamával pistolí a zaječel:
 
@@ -626,3 +732,5 @@ Přístroj klidně pracoval, najednou v něm však cosi zakloktalo a píst pum
 Kuchař mu přiskočil na pomoc a spojenými silami vytáhli těžkou hadici ven. V sacím otvoru vězel nějaký černý předmět. Když jej vyňali, zjistili, že je to vycházková důstojnická holínka nezvykle malých rozměrů.
 
 _Praha, jaro – zima 1954_
+
+</section>

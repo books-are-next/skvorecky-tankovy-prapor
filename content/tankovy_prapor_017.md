@@ -3,6 +3,8 @@ title: Autorova poznámka
 contentType: prose
 ---
 
+<section>
+
 _Tankový prapor jsem začal psát asi půl roku po návratu z vojny, na jaře roku 1954, a dokončil jsem jej v zimě toho roku. Měla to být pouze první část „velkého českého románu“ (podle vzoru_ The Great American Novel_) o životě v padesátých letech, jenže ten jsem nikdy nenapsal. Při přepisu na stroji jsem rukopis označil „fragment z doby kultů“, abych se vyhnul kritickým výtkám literárně vzdělaných čtenářů tehdejšího undergroundu, týkajícím se stavby textu. Strojopis, jak to tehdy bývalo, koloval mezi přáteli a známými a existovalo i několik neautorizovaných opisů, z nichž jeden se dostal do nepravých rukou předlohy k jedné postavě té frašky, ale ta to naštěstí přijala s humorem. Po pádu starého režimu chtěl bývalý velitel mé roty vědět, který „z těch idiotů je on“._
 
 _Ujistil jsem ho, že žádný. Byl to hodný velitel a padl jen za oběť obecné idiotizace těch dob, jež neměla co dělat s individuální inteligencí._
@@ -19,6 +21,10 @@ _Po pádu starého režimu v naší vlasti stal se_ Tankový prapor _prv­ním 
 
 _Realizace se musela potýkat se známými problémy filmových přepisů knih, jejichž hlavní účin je v autorském vyprávění._
 
-  
+</section>
+
+<section>
 
 _1998_
+
+</section>
