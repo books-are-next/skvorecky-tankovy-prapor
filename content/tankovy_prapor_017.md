@@ -5,8 +5,6 @@ contentType: prose
 
 _Tankový prapor jsem začal psát asi půl roku po návratu z vojny, na jaře roku 1954, a dokončil jsem jej v zimě toho roku. Měla to být pouze první část „velkého českého románu“ (podle vzoru_ The Great American Novel_) o životě v padesátých letech, jenže ten jsem nikdy nenapsal. Při přepisu na stroji jsem rukopis označil „fragment z doby kultů“, abych se vyhnul kritickým výtkám literárně vzdělaných čtenářů tehdejšího undergroundu, týkajícím se stavby textu. Strojopis, jak to tehdy bývalo, koloval mezi přáteli a známými a existovalo i několik neautorizovaných opisů, z nichž jeden se dostal do nepravých rukou předlohy k jedné postavě té frašky, ale ta to naštěstí přijala s humorem. Po pádu starého režimu chtěl bývalý velitel mé roty vědět, který „z těch idiotů je on“._
 
-  
-
 _Ujistil jsem ho, že žádný. Byl to hodný velitel a padl jen za oběť obecné idiotizace těch dob, jež neměla co dělat s individuální inteligencí._
 
 _Když v druhé polovině šedesátých let začaly ledy vůčihledně tát, nabídl jsem román Čs. spisovateli v době, kdy tam byl šéfredaktorem Jan Pilař. Ten se v té funkci dvakrát vystřídal s liberálním Ladislavem Fikarem, podle toho, jaká katastrofa zrovna hnula komunistickou stranou. Román mi vrátili, ale literární měsíčník Plamen otiskl v číslech 8 a 9 v roce 1967 kapitolu o zkouškách Fučíkova odznaku. Nikoho nenapadlo podívat se na kalendář, kde se zaznamenávala výročí a památné dny, a tak se stalo, že čísla s „Fučíkovým odznakem“ vyšla jakoby ke Dni armády. Jako z tolika nevinných věcí za doznívajícího stalinismu byla i z toho aféra, která vyvrcholila údajným rozkazem vrchního politruka armády generála Prchlíka (po sovětském přepadu v roce 1968 špatně skončil), jímž se vojenským tiskovinám zakazovalo zveřejňovat jakoukoliv satiru na věci vojenské. Pro překotný vývoj těch časů je charakteristické, že rok nato vyhrála Armádní soutěž tvořivosti v oboru dramatu skupina vojínů, kteří si „Fučíkův odznak“ pro ten účel zdramatizovali. V roce 1968 otiskli v Plameni v čísle 4 zase jednu kapitolu, Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele, ale to už byl v proudu annus mirabilis 1968, Pilaře vystřídal Fikar a dal_ Tankový prapor _nejdřív ilustrovat a pak vysázet. Ilustrace vyrobil Karel Laštovka a byly to pozoruhodně pojaté kresby, které později do svého vydání převzalo dánské nakladatelství Samlerens Forlag._
@@ -20,5 +18,7 @@ _Kniha tehdy samozřejmě nevyšla. Poprvé ji vydal pařížský Gallimard fran
 _Po pádu starého režimu v naší vlasti stal se_ Tankový prapor _prv­ním českým celovečerním filmem po téměř půl století, který vyrobila soukromokapitalistická společnost (Bonton). Bylo to v době, kdy se kniha filmovala, vlastně ještě nelegální počin (dosud platil Benešův znárodňovací dekret), ale vyplatil se:_ Tankový prapor _se stal nejnavštěvovanějším filmem roku 1991 a prolomil bariéru, jež bránila soukromému podnikání v českém filmu._
 
 _Realizace se musela potýkat se známými problémy filmových přepisů knih, jejichž hlavní účin je v autorském vyprávění._
+
+  
 
 _1998_

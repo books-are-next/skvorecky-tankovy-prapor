@@ -5,8 +5,6 @@ contentType: prose
 
 Vojín Bamza procházel chodbou posádkového vězení, chřestil svazkem klíčů, po pořádku bušil na dveře cel a volal:
 
-  
-
 „Chcát! Chcát, pánové!“
 
 Ze všech úkonů, spadajících do rámce povinností pomocníka vyváděče vězňů, konal tento úkon nejsvědomitěji. Svědomitost měla ovšem své pozadí. Díky geniálnímu architektonickému řešení rakousko-uherského stavitele oddělovala totiž část věznice, vykázanou za nucený pobyt vězňům, od prostoru, v němž byly světnice velitele stráže a vyváděče vězňů, mohutná mříž. Ta musela být podle předpisu (výjimečně se dodržoval, neboť každá kontrola se ze všeho nejdřív přesvědčovala o jeho plnění) neustále, ve dne v noci, uzamčena, a na noc se dokonce zamykaly i dveře jednotlivých cel. Potíže, které z tohoto zařízení vznikaly pomocníku vyváděče vězňů, spočívaly ve skutečnosti, že záchod byl v oné polovině budovy, kde se zdržoval dozorčí personál. A protože k pomocníkovým povinnostem patřilo odemykat dveře a mříž vězňům, přejícím si vykonat tělesnou potřebu – ve dne i v noci –, nebylo nesnadné pochopit, proč vojín Bamza, jindy lempl, tak horlivě dbá na dodržení večerní toalety. Plnil svou povinnost konečně také proto nadmíru svědomitě (a stejně svědomitě ji plnili i všichni ostatní vyváděči), protože nevypočitatelný vojenský osud mohl dnešnímu vyváděči již zítra přiřknout některou z cel za místo nočního odpočinku.
@@ -164,6 +162,8 @@ Podporučík vstal, protáhl se, chvíli nerozhodně postál a těkal modrýma 
 „Děkujem, soudruhu rotný,“ ozvala se ze tmy dívka.
 
 Rotný do té tmy mrkl a pak se vrátil do místnosti velitele stráže, posadil se ke stolu a zadíval se na dopis. Byl od sestřenice Aleny, herečky, jež nedávno proslula jako představitelka něžné údernice v dramatu (a stejnojmenném filmu) _Kozí bobky_ a která mu měla opatřit místo v Praze. Dopis zněl:
+
+  
 
 > _Milý bratránku,_
 

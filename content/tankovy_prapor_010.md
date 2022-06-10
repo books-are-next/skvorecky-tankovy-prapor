@@ -5,8 +5,6 @@ contentType: prose
 
 Po službě se rotný u velitele nehlásil. Táhlo ho to do Prahy, neboť na to poukazovala konstelace okolností: nadporučík Pinkas trávil (toho roku už třetí) víkend v kruhu rodinném, naproti tomu z vojenského tisku se dočetl, že v divizním kině n-té divize je dnes slavnostní večer na počest vítězů soutěže tvořivosti. Bylo tedy jasné, že vítěz této soutěže v oboru poezie nebude ten večer na propustce ani načerno u své manželky. A rotný, přes novou a zcela jinou poezii svítících střel, hvězd nad tankodromem a ložnice, odkud je na ně z okna vidět, nehodlal propást takovou příležitost k novému pokusu o manželskou věrnost té zvláštní dámy.
 
-  
-
 Aby se vyhnul případným komplikacím s kapitánem Matkou, použil obvyklé ilegální cesty, jíž se příslušníci Sedmého tankového praporu dostávali na svobodu. Hned z věznice odešel na půdu v budově praporu, kde byla šatna, navlékl se do vycházkové uniformy, zjistil si u služby, že velitel je na večeři, u staršiny si předčasně vyzvedl dovolenku, padělal na ní kapitánův podpis a zastavil se u svobodníka dr. Mlejnka, písaře praporu: ten paklíčem otevřel ocelovou skříňku s útvarovými razítky a jedním z nich potvrdil pravost falešného dokumentu. Pak rotný zmizel v houstnoucím šeru na cestě vedoucí mezi budovami kasáren k železniční stanici. Ale přestože byl vybaven tak dokonalým falsifikátem, přes bránu nešel. Volil méně nebezpečnou cestu přes parčík za hlavními lázněmi a dírou v plotě pod železničním náspem, přes potok a po mezi v polích, až dorazil na silnici do Kostelce. Tímto způsobem bezpečně opustil přísně střežený výcvikový prostor a vydal se pěšky do města, aby stihl rychlík do Prahy.
 
 Byl už večer, setmělo se, naskákaly hvězdy, kolem rotného přejížděla nákladní auta z posádky. Mohl na některé kývnout, jistě by ho byli proti předpisu vzali, ale nechtělo se mu. Bylo dost času, měl náladu jít sám po silnici, která se příjemně táhla přes hřeben terénní vlny pod městem, na západ, ve směru, kde leželo město. Večer byl stejný jako nedávná noc se švestkami a tanky, voňavý a barevný jako večery babího léta každý rok po celých těch deset nebo patnáct let, co pro něho měly letní večery poetické kouzlo související s vývojem pohlavních žláz. Rozdíl oproti někdejším večerům byl v tom, že pomyšlení na úspěch u Janinky naplňovalo ho spíše než něžnými myšlenkami na ni čilou činorodostí, směřující k odstranění dosavadních neúspěchů u manželky básnického vítěze.
@@ -89,15 +87,19 @@ Rotný kývl.
 
 V intimně osvětleném pokoji na ni čekal ještě v půl jedné. Budoár připomínal vojenskou ložnici těsně po budíčku. Panenka Maria z velké ikony a Jindřich Osmý z dobové rytiny hleděli mrtvýma očima na složitou hromadu knih, šatů, prádla, ovoce a cigaret na kulatém stolku se skleněnou deskou a na rozestlaný a uválený gauč pod oknem. V rohu pokoje zel otevřený šatník, přes jedno křeslo ležely přehozené letní šaty a pomačkané kombiné, na opěradle druhého křesla viselo několik nylonek s puštěnými oky a ušmudlaná podprsenka z modrého saténu. Podlaha byla všude poseta různými jinými předměty a všechno tu bylo tak jako vždycky od té doby, co byla Lizetka slaměnou vdovou.
 
-  
-
 Rotný otevřel dveře do druhého pokoje, kde bylo naopak úzkostlivě uklizeno a rohový zelený gauč se zrcadlil v chladných sklech knihovny. Ano. Líza je věrná svému doupěti a tady to je obraz duše jejího mouly manžela.
 
 Vrátil se do prvního pokoje, shodil věci z jednoho křesla na zem a vytáhl několik dopisů z hromady předmětů na nočním stolku. Vzal jeden a četl:
 
+  
+
 > _Drahá, chci Vám neustále psát, ale nejde to. Pochopte, že člověk v tomto obklíčení pustotou nemá odvahu a bojí se všeho. Vymyslil jsem si pro Vás už tolik dopisů, od té doby, co jste odešla, ale zatím jsem napsal jen jediný. Často, nikoli s nepochopením, nikoli s chladem, jsem teď myslil na Vaši zvláštní svatost a poctivost._
 
+  
+
 Svatost zvaná frigiditas. Poctivost zvaná narcisismus. Nepodíval se na podpis. Kurisu, odhadl zkušeným okem text jako dílo prvního ze svých následovníků. Tak japanologovi taky nedala, pomyslel si se zadostiučiněním. Aspoň mám to prvenství, že jsem jí jako primus inter pares ukázal, jak katolické manželství nevylučuje platonickou nevěru. Ovšem s postranní myšlenkou, že její platonická nevěra skončí, s přičiněním katolického čertíčka, tím koncem, s nímž už katolická manželka musí do zpovědnice. To se mi teda nepovedlo, vzdychl, ale zato se mi dokonale podařilo udělat z ní perfektní platonickou kurvu. _Lizette_, pustil se do dalšího dopisu; existenciální citace snadno prozradily Maurice, kolegu v platonismu, vyrostlého za války v neokupované Francii: _Lizette, jest to dosti hrozné. – Píši Vám a nejhorším problémem jest nemoc duše zvaná nuda. Není úniku, není žádné cesty ven než té, po které kráčíme, ale ta možná nemá konce ani začátku. Myslíte, že jsme se kdy potkali, moudrá královno? Píšu Vám, Karino, a nevím, zda jste živa_. No. Sáhl po dalším psaní. Nebyl to vlastně dopis, ale zmačkaný lístek. Na jedné straně bylo neumělou rukou nakresleno červené srdce, k srdci vedla červená šipka a u ní neznámá ruka připsala v chatrné angličtině:
+
+  
 
 > _It is your heart and beats only for me?_
 
@@ -112,6 +114,8 @@ Svatost zvaná frigiditas. Poctivost zvaná narcisismus. Nepodíval se na podpis
 > A ještě níže od Lizetky:
 
 > _Attention! My man see you!_
+
+  
 
 Tohle teda je někdo nový. A pěkný pásek. Aspoň by se měl naučit pořádně anglicky. Na druhé straně papírku však použili mateřštiny: _To jsem to velmi obratně řekla, viď? A on určitě nic nepoznal!_ A pod tím, jinou rukou: _Jste kráska a on zvíře!_ A dále: _Proto to musím říkat, jinak by vylít a sežral by tě, Budulíne_. Tím zápis končil. Možná že na tomto místě byl Budulín skutečně sežrán. Jestli byl, určitě už přiskočila nějaká náhrada.
 
