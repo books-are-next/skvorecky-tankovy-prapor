@@ -3,18 +3,24 @@ title: "Provedení zkoušek FO u\_Sedmého tankového praporu"
 contentType: prose
 ---
 
+<section>
+
 K několika málo radostem rotného patřilo čištění bot. Seděl na kufru u kavalce a bleskurychlými tahy kartáče prohluboval téměř už zrcadlový lesk černé kůže. Mezi všelijakými věcmi, shromážděnými na světnici první roty Sedmého tankového praporu – a byly tam svlečené košile s kruhy potu v podpaží, kombinézy smrdící olejem, mastné papíry od balíčků s buchtami z domova, špinavé ručníky, potřísněné z ran po nejlacinějším druhu čepelek, který se prodával v Zátiší, a silně zablácená bagančata –, představovaly ty boty hezkou věc, jakýsi estetický záchytný bod v prostoru, naplněném jinak vojenskými řády a jejich šedivou perspektivou. Cídil je s chutí, neboť ze všech možností, které skýtal čas vyměřený kulturně masové činnosti (procházka večerní nudou vojenského výcvikového tábora Kobylec, psaní tisícího dopisu Lizetce nebo sovětský film v posádkovém kině), bylo zdokonalování té součásti strůje něčím podstatně blízkým činnosti jogínů, uklidňujících se pozorováním vlastního pupku.
 
 U Sedmého tankového praporu nebyla ovšem tato záliba rotného zálibou typickou. Ostatní příslušníci první roty, rozložení po kufrech a kavalcích v prvním i druhém poschodí, považovali ji spíše za příznak jakéhosi zastydlého lemounství. Sami, postiženi naprostým nedostatkem estetického cítění, nevěnovali své vojenské obuvi pražádnou pozornost. Spočívala pod kavalci i v uličce a byla potažena prachem a blátem cvičení, které v poledne skončilo.
 
 Odpoledne se věnovali čištění a údržbě tanků a nyní odpočívali v místnosti, naplněné jako ponorka pětadvaceti jednoposchoďovými kavalci. Padesát tankistů, kteří zde trávili některé noci v týdnu, si hovělo ve vyležených důlcích dávno nenacpaných slamníků a různým způsobem zabíjelo čas, určený kulturně masové práci. Nejblíž u dveří se řidič Střevlíček hádal s četařem Očkem o přednostech zahraničního motocyklu, jemuž říkali „bavorák“, a o nedostatcích československého stroje Jawa. Pro snižování bojové pohotovosti vojsk vychvalováním nepřátelské techniky byli za podobný spor u vedlejšího Třetího tankového pluku postaveni čtyři vojíni před prokurátora, ale v řadách Sedmého tankového praporu byl poslední (příslušníky rozpoznaný) fízl, nějaký Otakar Hrouda, už dávno soustavným trápením a šikanováním zneškodněn; nakonec vyskočil z okna (v prvním poschodí) a byl pro těžkou duševní poruchu (diagnóza MUDr. Sadaře, lékaře základní služby) odvelen do Střešovické nemocnice. O kus dál četl vojín Bamza umaštěný okružní rodokaps, a v uličce četaře Žloudka si navzájem ukazovali fotografie dívek, částečně též svlečených. Desátník Frištenský a několik druhů spalo. Kolem vojína Mengeleho se shromáždil mlčenlivý hlouček hudebně založených mužů, a desátník, jako jediný z celého praporu, provozoval cosi, co bylo snad možno označit za kulturně masovou činnost. Brnkal na třístrunnou mandolínu a mezi kavalci se nesl tklivý hlas:
 
-  
+</section>
+
+<section>
 
 > _Vonásku, Vonásku, vyser se na lásku,  
 > hleď si rač onánie!_
 
-  
+</section>
+
+<section>
 
 Zády k hudebnímu kroužku seděl na kufru politruk čety četař Mácha a s povypláznutým jazykem tvořil dopis své ženě Majce. Bylo čtvrt na osm a na plánu kulturně masové činnosti, který četař sestavil a za jehož plnění nesl odpovědnost, stálo: _19.00 – 21.00 nácvik pěveckého kr., šachový turnaj, příprava kr. FO na zkoušky FO_.
 
@@ -22,12 +28,16 @@ Zády k hudebnímu kroužku seděl na kufru politruk čety četař Mácha a s�
 
 Odkudsi zezadu zazněl zuřivý výkřik „Flek a sedma!“; souvisel s turnajem, sotva však šachovým. Provázelo jej suché plesknutí a po něm se hlas vojína Mengeleho vzepjal v lyrický výraz protestu:
 
-  
+</section>
+
+<section>
 
 > _Proč je u prdele, proč neni na břuchu?  
 > Proč je u prdele, v tom velikym puchu?_
 
-  
+</section>
+
+<section>
 
 Na posledním kavalci v rohu pracoval svobodník dr. Mlejnek na třetí kapitole díla _Kulturní zájmy československého vojáka_. Dílo koncipoval z hlediska ortodoxní psychoanalýzy a nebylo určeno k tisku.
 
@@ -43,27 +53,35 @@ Ve čtvrt na devět se dveře ložnice otevřely a vešel četař Fürbach. Mě
 
 „Aby se neposral,“ řekl rotný, odložil kartáč a natáhl si půllitry. Pečlivě přehrnul okraje kalhot přes vršky holínek, z tyče kavalce sundal blůzu, zapnul si řemen, nasadil čepici a podíval se dolů na boty. Leskly se. Uspokojen vykročil, provázen melodickým nářkem vojína Mengeleho, k němuž se už připojil celý pěvecký kroužek:
 
-  
+</section>
+
+<section>
 
 > _Když lepák narukuje,  
 > žádnej ho nelituje,  
 > i ten blbej civil, co na vojně nebyl,  
 > i ten se mu vysměje._
 
-  
+</section>
+
+<section>
 
 Hluboce citová tragičnost těchto veršů se rotného, jako vždy, dotkla. Ani po dvou letech nezapomněl na strašlivou, téměř ebenovou beznaděj, která ho naplňovala, když tu seděl jednoho listopadového dne před dávnými časy, civěl na stěnu, kam cynický rytec vyryl nápis Za _751!_, a naslouchal jinému sboru vojínů, teskně zpívajících touž píseň.
 
 Ale lidová duše, na rozdíl od duše intelektuální, nepropadá sentimentu, nýbrž brání se světu a jeho mukám divokou pomstychtivostí. Když za sebou rotný zavřel, slyšel skrze dveře, téměř stejně silně, protože pěvci zvýšili hlas, závěr toho prastarého chorálu:
 
-  
+</section>
+
+<section>
 
 > _Počkej, blbej civile!  
 > Příde na tebe chvíle,  
 > až ty jednou poznáš ten vojenskej stav náš,  
 > vesele ti nebude!_
 
-  
+</section>
+
+<section>
 
 Kolem rotného se mihla postava náčelníka štábu s nehybnou tváří. Neměl ani čas zasalutovat. A nebylo také vidět, jaký dojem zanechala ozvěna písně v zahořklém nadporučíkovi Pinkasovi.
 
@@ -79,11 +97,15 @@ Rotný vzal za kliku a otevřel dveře politického oddělení. Vstoupil dovnit
 
 Uvnitř seděli oba političtí, zabráni v práci. Malý Hospodin ťukal dvěma prsty do stroje a rotný mu přes rameno přečetl nadpis díla: KÁDPOVY’ BOSUDER stálo tam velkými typy, a pod tím:
 
-  
+</section>
+
+<section>
 
 > _na čut. Pavezu Amt._
 
-  
+</section>
+
+<section>
 
 Hospodin nezvedl hlavu od klávesnice a brejlil dál do silně proškrtaného papírku vedle stroje, z něhož přepisoval kádrový posudek načisto. Zato nadporučík upřel na rotného hezké číšnické oči a zamáčkl v popelníku cigaretu. Vypadal inteligentně, což bylo krásné zdání. Uchopil ostře ořezanou tužku do prstů s velkým prstenem a jal se poklepávat na cyklostylovaný papír před sebou.
 
@@ -1320,3 +1342,5 @@ Ležel vedle ní, ležel s ní a za oknem vylétávaly zlaté střely a zasah
 [^3]: Poddůstojník, který si dobrovolně prodloužil základní vojenskou službu. Pozn. red.
 
 [^4]: Vnitřní hlas. Pozn. red.
+
+</section>

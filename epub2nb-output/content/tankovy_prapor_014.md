@@ -3,6 +3,8 @@ title: Bakchanálie
 contentType: prose
 ---
 
+<section>
+
 _Obrana lidu začala_ uveřejňovat úvodníky určené politickým pracovníkům a nadepsané _Za správné zhodnocení práce politických pracovníků_ či _Za morálně politickou pomoc vojínům a poddůstojníkům odcházejícím mimo činnou službu_ nebo konečně _Za získání záložníků za zemědělce_. Uvnitř tohoto oblíbeného listu objevovaly se články, v nichž vojíni n-tého útvaru nebo útvaru, kde je politickým pracovníkem poručík Jahoda, dojatě opěvovali ony dva krásné roky, strávené v chlapském kamarádství v naší lidově demokratické armádě, aby naši milí doma mohli klidně spát, teď ve chvíli, kdy se vracíme k plnění svých budovatelských úkolů a ke svým milým doma a na naše místo přicházejí jiní, mladší soudruzi. Ozval se i jakýsi lemoun, který ještě vojenskou službu nemohl ani nastoupit, protože čas rukování dosud nenadešel, ale který se už předem pokoušel udělat si oko a ujišťoval starší soudruhy, odcházející do plnění budovatelských úkolů, že uchopí jejich zbraň, aby mohli svoje budovatelské úkoly plnit v klidu, kdyby se nepřítel pokusil rušit klid naší krásné vlasti. Vojíni a poddůstojníci různých zbraní se slzavě loučili se svými puškami, tanky, děly, minomety, ženijním náčiním a jedovatými plyny v článcích tak přetékajících citem, že to svobodníka dr. Mlejnka pohnulo k podvrhu _Za prodloužení milované služby vlasti_, v němž se přimlouval za znovuzavedení tereziánské prezenční doby a který do redakce poslal pod pseudonymem vojína Pravomila Poslušného. Úvodník nevyšel, jenom vojín toho jména byl předvolán na OBZ a později, po propuštění do civilu, na sedm let uvězněn pro urážku lidově demokratického zřízení.
 
 Úslužní vojíni, kteří si až do těchto posledních chvil nejšťastnější doby svého života uchovali respekt před náčelníky klubů a politickými pracovníky, naposled zdobili kulturně masové světnice a nástěnky útvarů hesly, v nichž podle pokynů politického oddělení jménem všech vojáků odcházejícího ročníku nabádali přicházející brance, aby kráčeli ve stopách slavného n-tého praporu za velkými výcvikovými tradicemi tohoto útvaru, a tváře vzorných vojínů, vypadající na fotografiích v tankových kuklách neobyčejně bojovně (kuklu ovšem za příplatek půjčoval fotograf Kulínský v Kobylci i příslušníkům jakýchkoliv jiných zbraní), byly lepeny na tabule cti, aby v přicházejících lemounech roznítily latentní pudy tankistického rváčství. Ačkoliv se to neříkalo ani na instruktážích politických pracovníků, počítalo se s tím, že většina lemounků zanechává po sobě v civilu dívku, a tak jednou z nejúčinnějších vzpruh jejich vojenské horlivosti bude slib této zakuklené fotografie. Když byl později poručíkem Hospodinem objeven Kulínského meloušek, byl i fotograf na deset let uvězněn, pro sabotování psychologické přípravy vojsk.
@@ -11,7 +13,9 @@ Nikdy, pokud se rotný Smiřický pamatoval, nebyla _Obrana lidu_ listem tak čt
 
 I to se však po čase změnilo v námahu, a tak se masově dostavili na kulturně náborový aktiv. Bylo krásné odpoledne babího léta, otevřenými okny proudil dovnitř svěží vzduch a sliboval zdravý spánek. Někteří usnuli hned, ostatní úvodem vyslechli dlouhou řeč politruka divize majora Sádla, přečtenou z papírků a držící se úzkostlivě klasické volby slov i myšlenek morálně politické rétoriky, a potom projev, v němž pracovník Úřadu ochrany práce lákavými čísly načrtl budovatelské výhody hornictví a hutnictví. Aby bylo učiněno zadost kulturnosti náborového aktivu, následovala na závěr báseň zajištěná četařem Bivojem Balíkem z jeho nové sbírky. Ti, kdož dosud neusnuli, usadili se pohodlněji v křeslech a s nadějí, že i je navštíví osvěžující spánek, zaposlouchali se do prvních veršů poemy.
 
-  
+</section>
+
+<section>
 
 > _Dnes loučíme se s vámi všemi,  
 > tanky, bajonety a miny.  
@@ -23,96 +27,140 @@ I to se však po čase změnilo v námahu, a tak se masově dostavili na kult
 > odnášíme ji v srdci svém  
 > a přísaháme:_
 
-  
+</section>
+
+<section>
 
 Básník se nadýchl, aby přísaze mohl dodat patos, ale právě v té chvíli vpluly do sálu otevřenými okny vzdálené tóny jakési písně. Slova ani melodii nebylo zprvu možno rozeznat.
 
-  
+</section>
+
+<section>
 
 > _kdyby bylo třeba_
 
-  
+</section>
+
+<section>
 
 pokračoval četař,
 
-  
+</section>
+
+<section>
 
 > _položit život za milovanou zem,  
 > všichni jsme tu připraveni k boji,  
 > připraven k boji i já tu jsem!_
 
-  
+</section>
+
+<section>
 
 A právě na toto kategorické tvrzení navázala slova písně, kterou sem večerní větřík zřetelně přivál:
 
-  
+</section>
+
+<section>
 
 > _Co ste, hasiči, co ste dělali,_
 
-  
+</section>
+
+<section>
 
 a zahnala přicházející spánek. Podnapilé hlasy zpívaly:
 
-  
+</section>
+
+<section>
 
 > _že ste nám ten pívo, pívo pívovárek  
 > shořet nechali!_
 
-  
+</section>
+
+<section>
 
 Sálem zašumělo a tu a tam se k melodii přidalo polohlasné bručení. Neznámí madrigalisti venku pokračovali s chutí:
 
-  
+</section>
+
+<section>
 
 > _Ten pívovárek,_
 
-  
+</section>
+
+<section>
 
 pěli.
 
-  
+</section>
+
+<section>
 
 _Co živi budem, pevně ve svém srdci, přísahu svatou ochrání náš hněv!_ zvolal četař Balík a hlasy zvenčí k tomu poznamenaly:
 
-  
+</section>
+
+<section>
 
 > _I tu hospodu!_
 
-  
+</section>
+
+<section>
 
 _Pro šťastný život žít jsme připraveni!_ snažil se četař pěvce překřičet, ale jeho hlas zanikl v crescendovaném refrénu:
 
-  
+</section>
+
+<section>
 
 > __My staří mazáci_ –_
 
-  
+</section>
+
+<section>
 
 jehož zhoubnou magii se básník naposled pokusil neutralizovat zoufalým zvoláním:
 
-  
+</section>
+
+<section>
 
 _Pro šťastný život dáme i svou krev!_
 
-  
+</section>
+
+<section>
 
 Odhodlání však vyznělo naprázdno; mužský sbor za oknem, s korunou vysokých fistulek, udělal za ním vítěznou tečku:
 
-  
+</section>
+
+<section>
 
 > _– staří ulejváci  
 > máme pít vodu!_
 
-  
+</section>
+
+<section>
 
 a sálem zabzučela polohlasá, ale plynule sílící repetice:
 
-  
+</section>
+
+<section>
 
 > _My staří mazáci, staří ulejváci  
 > máme pít vodu!_
 
-  
+</section>
+
+<section>
 
 S ní na rtech se vojska počala drát ze sálu, aby v příští čtvrthodině naplnila všech pět hospod přilehlé vesnice až po horní mez jejich kapacity.
 
@@ -296,15 +344,21 @@ Vojíni se zachechtali. Četař ing. Krajta se natáhl k spánku. Někteří se
 
 A tak se zakrátko rozhostilo věznicí veliké a spravedlivé ticho, které rušil už jenom sytý hlas desátníka Mengeleho ze vzdálené kobky pro tři zostřené, jenž usínajícím soudruhům zpíval vojenskou baladu-ukolébavku.
 
-  
+</section>
+
+<section>
 
 > _Je pu-hustá noc  
 > v tmavé cele černé.  
 > Všechno vodešlo spát,  
 > jenom Franta Gros né._
 
-  
+</section>
+
+<section>
 
 Ale i desátník zmlkl, usnul a toliko kroky strážného jim odměřovaly krásný čas těch posledních chvil před pádem do života.
 
 [^10]: Všesvazová komunistická strana (bolševická). Pozn. red.
+
+</section>

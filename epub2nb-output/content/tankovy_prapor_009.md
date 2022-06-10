@@ -3,6 +3,8 @@ title: "Noc v\_posádkovém vězení"
 contentType: prose
 ---
 
+<section>
+
 Vojín Bamza procházel chodbou posádkového vězení, chřestil svazkem klíčů, po pořádku bušil na dveře cel a volal:
 
 „Chcát! Chcát, pánové!“
@@ -163,7 +165,9 @@ Podporučík vstal, protáhl se, chvíli nerozhodně postál a těkal modrýma 
 
 Rotný do té tmy mrkl a pak se vrátil do místnosti velitele stráže, posadil se ke stolu a zadíval se na dopis. Byl od sestřenice Aleny, herečky, jež nedávno proslula jako představitelka něžné údernice v dramatu (a stejnojmenném filmu) _Kozí bobky_ a která mu měla opatřit místo v Praze. Dopis zněl:
 
-  
+</section>
+
+<section>
 
 > _Milý bratránku,_
 
@@ -576,3 +580,5 @@ Do místnosti vešel vojín Bamza.
 Potom se širokým veleklidným úsměvem člověka, který je příliš nedůležitý, aby se mu vůbec něco mohlo stát, obrátil se k podporučíkovi a otázal se ho s nepředstíraným zájmem:
 
 „A co, soudruhu podporučíku, zašoustal ste si aspoň?“
+
+</section>

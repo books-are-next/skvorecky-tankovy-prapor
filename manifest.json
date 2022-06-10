@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-tankovy-prapor-42d9a9a",
-  "revision": "42d9a9a",
+  "identifier": "skvorecky-tankovy-prapor-a69e3ba",
+  "revision": "a69e3ba",
   "readingOrder": [
     "promo.html",
     "tankovy_prapor_005.html",
@@ -28,8 +28,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:19:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870775002
+    "date": "Fri Jun 10 2022 17:56:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883766250
   },
   "documents": [
     {
@@ -47,9 +47,9 @@
     {
       "title": "Tankový prapor",
       "file": "tankovy_prapor_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 28,
+      "chars": 156,
+      "ideas": 6,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -307,9 +307,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 120,
-      "chars": 777,
-      "ideas": 14,
+      "words": 91,
+      "chars": 610,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "tankovy_prapor_017.html",
@@ -327,14 +327,14 @@
   ],
   "totals": {
     "all": {
-      "words": 65657,
-      "chars": 416612,
-      "ideas": 2315
+      "words": 65656,
+      "chars": 416601,
+      "ideas": 2314
     },
     "chapters": {
-      "words": 65531,
-      "chars": 415795,
-      "ideas": 2297
+      "words": 65559,
+      "chars": 415951,
+      "ideas": 2303
     }
   }
 }
