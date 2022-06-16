@@ -8,7 +8,8 @@
       "modified": "2021-09-21T13:51:38.810Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola MLP-uroven1-zvlastni-pripady ",
@@ -452,6 +453,6 @@
       "user": "books-are-next",
       "repo": "skvorecky-tankovy-prapor"
     },
-    "generatedAt": 1655271716488
+    "generatedAt": 1655364330650
   }
 }
