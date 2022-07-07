@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-tankovy-prapor-63a3f91",
-  "revision": "63a3f91",
+  "identifier": "skvorecky-tankovy-prapor-af3ab3d",
+  "revision": "af3ab3d",
   "readingOrder": [
     "promo.html",
     "tankovy_prapor_005.html",
@@ -25,11 +25,11 @@
     "tankovy_prapor_015.html",
     "tankovy_prapor_016.html",
     "tankovy_prapor_017.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:27:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980027646
+    "date": "Thu Jul 07 2022 08:39:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183150896
   },
   "documents": [
     {
@@ -98,7 +98,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele",
+          "name": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele",
           "id": null,
           "children": []
         }
@@ -118,7 +118,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Provedení zkoušek FO u Sedmého tankového praporu",
+          "name": "Provedení zkoušek FO u Sedmého tankového praporu",
           "id": null,
           "children": []
         }
@@ -258,7 +258,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Kulturně masový večírek na rozloučenou",
+          "name": "Kulturně masový večírek na rozloučenou",
           "id": null,
           "children": []
         }
@@ -293,7 +293,7 @@
       "role": "chapter",
       "order": 13,
       "prev": "tankovy_prapor_016.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -306,11 +306,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 139,
-      "chars": 912,
+      "chars": 911,
       "ideas": 15,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "tankovy_prapor_017.html",
       "next": null,
@@ -328,7 +328,7 @@
   "totals": {
     "all": {
       "words": 65704,
-      "chars": 416903,
+      "chars": 416902,
       "ideas": 2322
     },
     "chapters": {

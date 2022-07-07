@@ -28,7 +28,7 @@ readingOrder:
   - tankovy_prapor_015.html
   - tankovy_prapor_016.html
   - tankovy_prapor_017.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

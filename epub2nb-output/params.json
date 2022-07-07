@@ -61,7 +61,7 @@
             "filename": "tankovy_prapor_003.md",
             "xhtml": "tankovy_prapor_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -72,7 +72,7 @@
             "filename": "tankovy_prapor_004.md",
             "xhtml": "tankovy_prapor_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "title": "",
             "subtitle": "",
@@ -229,7 +229,7 @@
             "filename": "tankovy_prapor_018.md",
             "xhtml": "tankovy_prapor_018.xhtml",
             "id": 17,
-            "role": "colophon",
+            "role": "about",
             "inToc": true,
             "title": "",
             "subtitle": "",
@@ -453,6 +453,6 @@
       "user": "books-are-next",
       "repo": "skvorecky-tankovy-prapor"
     },
-    "generatedAt": 1655979664230
+    "generatedAt": 1657182484529
   }
 }
