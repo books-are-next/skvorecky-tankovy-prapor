@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-tankovy-prapor-711f47a",
-  "revision": "711f47a",
+  "identifier": "skvorecky-tankovy-prapor-36f4207",
+  "revision": "36f4207",
   "readingOrder": [
     "promo.html",
     "tankovy_prapor_005.html",
@@ -28,8 +28,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:04:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640260783
+    "date": "Tue Oct 04 2022 16:52:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902335113
   },
   "documents": [
     {
