@@ -4,15 +4,16 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
   title: Tankový prapor
   identifier: urn:uuid:5f509889-bd98-4905-815e-e0d03c87b1d4
   author: Josef Škvorecký
   publisher: Městská knihovna v Praze
   modified: '2021-09-21T13:51:38.810Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
   contentType: prose
+  isbn: 978-80-274-2840-3
 readingOrder:
   - promo.html
   - tankovy_prapor_005.html
@@ -62,6 +63,7 @@ tocBase:
       - link: tankovy_prapor_017.html
         title: Autorova poznámka
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

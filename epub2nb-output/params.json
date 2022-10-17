@@ -1,15 +1,16 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Tankový prapor",
       "identifier": "urn:uuid:5f509889-bd98-4905-815e-e0d03c87b1d4",
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-21T13:51:38.810Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2840-3"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola MLP-uroven1-zvlastni-pripady ",
@@ -25,6 +26,8 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP-dopis--I \nMLP-dopis-bez1radku \nMLP-verse--I---12-12 \nMLP-verse--I---12-0 \nMLP-verse--12-12 \nMLP-verse--I---0-12 ",
       "figure": "",
+      "centered": "",
+      "verse": "",
       "em": "MLP-dopis--I\nMLP-dopis-podpis--I \nMLP-znak-kurziva-11b\nMLP-verse--I---12-12 \nMLP-verse--I---12-0 \nMLP-verse--12-12 \nMLP-verse--I---0-12  \nMLP-venovani \nMLP-text-doprava--I\nMLP-text--I\nMLP-text--I---0-12\nMLP-text--I---12-12",
       "strong": "",
       "remove": "",
@@ -34,6 +37,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "tankovy_prapor_001.md",
@@ -88,8 +92,8 @@
             "title": "Věnování",
             "subtitle": "",
             "listType": "plain",
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "tankovy_prapor_006.md",
@@ -100,8 +104,8 @@
             "title": "Slovo autora",
             "subtitle": "",
             "listType": "plain",
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "tankovy_prapor_007.md",
@@ -211,8 +215,8 @@
             "title": "Poděkování",
             "subtitle": "",
             "listType": "plain",
-            "children": [],
-            "hiddenTitle": true
+            "hiddenTitle": true,
+            "children": []
           },
           {
             "filename": "tankovy_prapor_017.md",
@@ -453,6 +457,6 @@
       "user": "books-are-next",
       "repo": "skvorecky-tankovy-prapor"
     },
-    "generatedAt": 1665416233385
+    "generatedAt": 1666030042321
   }
 }
