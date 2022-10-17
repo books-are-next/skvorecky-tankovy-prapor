@@ -1,15 +1,16 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Tankový prapor",
       "identifier": "urn:uuid:5f509889-bd98-4905-815e-e0d03c87b1d4",
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-21T13:51:38.810Z",
-      "languageCode": "cs",
       "publisherShort": "mkp",
       "edition": "beletrie",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2840-3"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola MLP-uroven1-zvlastni-pripady ",
@@ -25,6 +26,8 @@
       "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
       "blockquote": "MLP-dopis--I \nMLP-dopis-bez1radku \nMLP-verse--I---12-12 \nMLP-verse--I---12-0 \nMLP-verse--12-12 \nMLP-verse--I---0-12 ",
       "figure": "",
+      "centered": "",
+      "verse": "",
       "em": "MLP-dopis--I\nMLP-dopis-podpis--I \nMLP-znak-kurziva-11b\nMLP-verse--I---12-12 \nMLP-verse--I---12-0 \nMLP-verse--12-12 \nMLP-verse--I---0-12  \nMLP-venovani \nMLP-text-doprava--I\nMLP-text--I\nMLP-text--I---0-12\nMLP-text--I---12-12",
       "strong": "",
       "remove": "",
@@ -32,207 +35,215 @@
     },
     "structure": [
       {
-        "filename": "tankovy_prapor_001.md",
-        "xhtml": "tankovy_prapor_001.xhtml",
-        "id": 0,
-        "role": "cover",
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
+        "isSection": true,
+        "id": "section-1",
         "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_002.md",
-        "xhtml": "tankovy_prapor_002.xhtml",
-        "id": 1,
-        "role": "promo",
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_003.md",
-        "xhtml": "tankovy_prapor_003.xhtml",
-        "id": 2,
-        "role": "about",
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_004.md",
-        "xhtml": "tankovy_prapor_004.xhtml",
-        "id": 3,
-        "role": "about",
-        "inToc": false,
-        "title": "",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_005.md",
-        "xhtml": "tankovy_prapor_005.xhtml",
-        "id": 4,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Věnování",
-        "subtitle": "",
-        "listType": "plain",
-        "children": [],
-        "hiddenTitle": true
-      },
-      {
-        "filename": "tankovy_prapor_006.md",
-        "xhtml": "tankovy_prapor_006.xhtml",
-        "id": 5,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Slovo autora",
-        "subtitle": "",
-        "listType": "plain",
-        "children": [],
-        "hiddenTitle": true
-      },
-      {
-        "filename": "tankovy_prapor_007.md",
-        "xhtml": "tankovy_prapor_007.xhtml",
-        "id": 6,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_008.md",
-        "xhtml": "tankovy_prapor_008.xhtml",
-        "id": 7,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Provedení zkoušek FO u Sedmého tankového praporu",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_009.md",
-        "xhtml": "tankovy_prapor_009.xhtml",
-        "id": 8,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Noc v posádkovém vězení",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_010.md",
-        "xhtml": "tankovy_prapor_010.xhtml",
-        "id": 9,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Lekce z katolického náboženství",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_011.md",
-        "xhtml": "tankovy_prapor_011.xhtml",
-        "id": 10,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Divizní kolo Armádní soutěže tvořivosti",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_012.md",
-        "xhtml": "tankovy_prapor_012.xhtml",
-        "id": 11,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Vůně civilu",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_013.md",
-        "xhtml": "tankovy_prapor_013.xhtml",
-        "id": 12,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Podzimní prověrka bojové a politické připravenosti",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_014.md",
-        "xhtml": "tankovy_prapor_014.xhtml",
-        "id": 13,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Bakchanálie",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_015.md",
-        "xhtml": "tankovy_prapor_015.xhtml",
-        "id": 14,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Kulturně masový večírek na rozloučenou",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_016.md",
-        "xhtml": "tankovy_prapor_016.xhtml",
-        "id": 15,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Poděkování",
-        "subtitle": "",
-        "listType": "plain",
-        "children": [],
-        "hiddenTitle": true
-      },
-      {
-        "filename": "tankovy_prapor_017.md",
-        "xhtml": "tankovy_prapor_017.xhtml",
-        "id": 16,
-        "role": "chapter",
-        "inToc": true,
-        "title": "Autorova poznámka",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
-      },
-      {
-        "filename": "tankovy_prapor_018.md",
-        "xhtml": "tankovy_prapor_018.xhtml",
-        "id": 17,
-        "role": "about",
-        "inToc": true,
-        "title": "",
-        "subtitle": "",
-        "listType": "plain",
-        "children": []
+        "children": [
+          {
+            "filename": "tankovy_prapor_001.md",
+            "xhtml": "tankovy_prapor_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_002.md",
+            "xhtml": "tankovy_prapor_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_003.md",
+            "xhtml": "tankovy_prapor_003.xhtml",
+            "id": 2,
+            "role": "about",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_004.md",
+            "xhtml": "tankovy_prapor_004.xhtml",
+            "id": 3,
+            "role": "about",
+            "inToc": false,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_005.md",
+            "xhtml": "tankovy_prapor_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Věnování",
+            "subtitle": "",
+            "listType": "plain",
+            "hiddenTitle": true,
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_006.md",
+            "xhtml": "tankovy_prapor_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Slovo autora",
+            "subtitle": "",
+            "listType": "plain",
+            "hiddenTitle": true,
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_007.md",
+            "xhtml": "tankovy_prapor_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Sedmý tankový prapor v útoku na spěšně vybudovanou obranu nepřítele",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_008.md",
+            "xhtml": "tankovy_prapor_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Provedení zkoušek FO u Sedmého tankového praporu",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_009.md",
+            "xhtml": "tankovy_prapor_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Noc v posádkovém vězení",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_010.md",
+            "xhtml": "tankovy_prapor_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Lekce z katolického náboženství",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_011.md",
+            "xhtml": "tankovy_prapor_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Divizní kolo Armádní soutěže tvořivosti",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_012.md",
+            "xhtml": "tankovy_prapor_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Vůně civilu",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_013.md",
+            "xhtml": "tankovy_prapor_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Podzimní prověrka bojové a politické připravenosti",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_014.md",
+            "xhtml": "tankovy_prapor_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Bakchanálie",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_015.md",
+            "xhtml": "tankovy_prapor_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Kulturně masový večírek na rozloučenou",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_016.md",
+            "xhtml": "tankovy_prapor_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Poděkování",
+            "subtitle": "",
+            "listType": "plain",
+            "hiddenTitle": true,
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_017.md",
+            "xhtml": "tankovy_prapor_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "inToc": true,
+            "title": "Autorova poznámka",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          },
+          {
+            "filename": "tankovy_prapor_018.md",
+            "xhtml": "tankovy_prapor_018.xhtml",
+            "id": 17,
+            "role": "about",
+            "inToc": true,
+            "title": "",
+            "subtitle": "",
+            "listType": "plain",
+            "children": []
+          }
+        ]
       }
-    ]
+    ],
+    "replacements": []
   },
   "epub": {
     "metadata": {
@@ -240,7 +251,7 @@
       "identifier": "urn:uuid:5f509889-bd98-4905-815e-e0d03c87b1d4",
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-02T09:57:33.034Z"
+      "modified": "2019-03-06T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -447,6 +458,6 @@
       "user": "books-are-next",
       "repo": "skvorecky-tankovy-prapor"
     },
-    "generatedAt": 1638439053857
+    "generatedAt": 1665416233385
   }
 }
